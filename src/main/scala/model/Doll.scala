@@ -106,7 +106,6 @@ case class Doll(
     val specialList =
       SkillCard.special.filter(x => hasSkillCard(x.number))
 
-    println(List(concentrateList.size, diffuseList.size, specialList.size).max)
     (for(i <- 0 until List(concentrateList.size, diffuseList.size, specialList.size).max) yield {
       (if(concentrateList.size > i){
         separatedSkillCardTable(concentrateList(i).number, concentrateList(i).getWikiText(i), i)

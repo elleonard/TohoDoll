@@ -14,15 +14,18 @@ import java.io.OutputStreamWriter
 object DollJsonToWiki {
   def main(args: Array[String]):Unit = {
     getJsonList.map(jsonFileName => {
+      println("[お知らせ]: JSONからWikiソース形式に変換を行います。from:resource/"+jsonFileName)
       val doll: DollData = jsonToDoll(jsonFileName)
       val printWriter: PrintWriter = new PrintWriter(new OutputStreamWriter( new FileOutputStream("wikitext/"+(jsonFileName.split("\\.")(0))+".txt") ))
       printWriter.print(doll.toWiki)
       printWriter.close
+      println("[お知らせ]: Wikiソース形式に変換しました！ to:wikitext/"+(jsonFileName.split("\\.")(0))+".txt")
     })
   }
 
   /* JSONファイルを読み込み、case classにマッピングする */
   def jsonToDoll(jsonFileName: String): DollData = {
+    println("[お知らせ]: JSONファイルresource/"+jsonFileName+"をロードします。")
     val ir: InputStreamReader = new InputStreamReader( new FileInputStream("resource/"+jsonFileName), "UTF-8" )
       val jsr: JsonReader = new JsonReader(ir)
       val gson: Gson = new Gson()
