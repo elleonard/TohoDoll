@@ -4,7 +4,8 @@ import utils.TableUtils
 
 case class DollData(doll: Doll){
   def toWiki = {
-    doll.toWiki+"\n&br;\n"+doll.elementRateTable+"\n"+doll.skillTable+"\n"+doll.skillCardTable
+    doll.toWiki+"\n&br;\n"+doll.elementRateTable+"\n"+doll.skillTable+"\n"+doll.skillCardTable+"\n"+
+    "----\n*コメント[#comment]"
   }
 }
 

@@ -6,11 +6,16 @@ sbt run
 
 ## 仕様
 未だテンプレートページ用議論が落ち着いていないため、暫定実装。
-暫定的にひな改良型の表と案3.5の相性表のみ自動生成する。
-http://wikiwiki.jp/tensi-gj-ms/?%C9%BD%A4%CA%A4%C9%A4%CB%A4%C4%A4%A4%A4%C6
+暫定的にtemp04型の表のみ自動生成する。
+http://wikiwiki.jp/tensi-gj-ms/?%A5%C6%A5%F3%A5%D7%A5%EC%A1%BC%A5%C8%C5%F9%2F%BF%CD%B7%C1%B8%C4%CA%CC%A5%DA%A1%BC%A5%B8%B5%C4%CF%C0%2Ftemp04
 
 ## JSONの見本
 resource/hina.jsonが見本
+
+## 既知の問題点
+- スキル表にて、同レベルで取得する技でもレベルのカラムを結合しない。
+
+良い方法を知っている方はPR投げてください。
 
 ## 外部リンク
 幻想人形演舞-攻略-wiki
