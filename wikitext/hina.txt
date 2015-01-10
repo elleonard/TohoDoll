@@ -1,0 +1,70 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+&br;
+|>|&attachref(./ひな2_0.png,nolink, ひな);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集攻|~集防|~散攻|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(#ffcfff):毒|CENTER:BGCOLOR(#d8c8ff):冥|>|>|RIGHT:40|RIGHT:60|RIGHT:70|RIGHT:40|RIGHT:45|RIGHT:45|CENTER:300|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(#ffcfff):毒|CENTER:BGCOLOR(#d8c8ff):冥|>|>|RIGHT:60|RIGHT:95|RIGHT:115|RIGHT:80|RIGHT:60|RIGHT:75|CENTER:485|
+|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(#ffcfff):毒|CENTER:BGCOLOR(#888888):COLOR(white):闇|>|>|RIGHT:60|RIGHT:90|RIGHT:60|RIGHT:70|RIGHT:100|RIGHT:105|CENTER:485|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[因果応報]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|威力100以上のスキルへ弾幕を打ち返す。|
+|CENTER:[[エアクッション]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|大地属性のスキルを無効化する。逆風でも逃げられる。|
+|>|>|>|>|>|>|>|>|>|>|>|>|~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|鍵山雛の力を持つ人形。厄をため込む程度の能力を持つ。&br;最近不幸なことがあった方にオススメの一品。川に流すと良いことがあると言われる。|CENTER:90|
+|>|>|>|>|>|>|>|~主な出現場所|>|>|~出現レベル|>|>|~ドロップ&br;アイテム|
+|>|>|>|>|>|>|>|CENTER:玄武の沢（洞窟）|>|>|CENTER:25|>|>|CENTER:真珠&br;魔力の欠片|
+|>|>|>|>|>|>|>|CENTER:妖怪の山-前半（洞窟）|>|>|CENTER:28|>|>|~|
+|>|>|>|>|>|>|>|CENTER:妖怪の山-後半（洞窟）|>|>|CENTER:30|>|>|~|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};||||&color(Blue){△};|&color(Red){◯};||&color(Red){◯};||&color(Red){◯};|&color(Red){◯};|&color(Red){◯};|&color(Blue){▲};|×|&color(Blue){△};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Deeppink){''アシスト''};|&color(Blue){△};|||&color(Blue){△};|&color(Red){◯};|&color(Red){◯};|&color(Red){◯};||&color(Red){◯};|&color(Blue){△};||&color(Blue){△};|||||
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+※アビリティがエアクッションの場合''大地''は''×''
+&br;
+*''スキル'' [#skill]
+|~取得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~Lv1|CENTER:&color(Chocolate){''N''};|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(deeppink):夢|CENTER:&color(Red){集中};|CENTER:55|CENTER:100|CENTER:35|CENTER:0|通常攻撃。|CENTER:2|
+|~Lv1|CENTER:&color(Chocolate){''N''};|[[感染]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:変化|CENTER:-|CENTER:-|CENTER:25|CENTER:0|相手を毒状態にする。|CENTER:4|
+|~Lv7|CENTER:&color(Chocolate){''N''};|[[COLOR(Red):パープルスモッグ>パープルスモッグ]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:&color(Red){集中};|CENTER:55|CENTER:100|CENTER:25|CENTER:0|1割の確率で相手を毒状態にする。|CENTER:4|
+|~Lv10|CENTER:&color(Chocolate){''N''};|[[COLOR(Red):ゴーストトリック>ゴーストトリック]]|CENTER:BGCOLOR(#d8c8ff):冥|CENTER:&color(Red){集中};|CENTER:55|CENTER:100|CENTER:25|CENTER:0|1割の確率で相手を衰弱状態にする。|CENTER:4|
+|~Lv14|CENTER:&color(Chocolate){''N''};|[[ポイズントラップ]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:変化|CENTER:-|CENTER:-|CENTER:20|CENTER:0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。2回使うと猛毒にする。|CENTER:5|
+|~Lv19|CENTER:&color(Chocolate){''N''};|[[COLOR(Red):仇討>仇討]]|CENTER:BGCOLOR(#ffefef):無|CENTER:&color(Red){集中};|CENTER:70|CENTER:100|CENTER:5|CENTER:0|前のターンに味方が倒されていると威力が倍になる。|CENTER:23|
+|~Lv24|CENTER:&color(Chocolate){''N''};|[[ミアズマ]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:変化|CENTER:-|CENTER:90|CENTER:10|CENTER:0|相手を猛毒状態にする。|CENTER:12|
+|~Lv30|CENTER:&color(Blue){''D''};/&color(Deeppink){''A''};|[[金切り声]]|CENTER:BGCOLOR(#fff8c8):音|CENTER:変化|CENTER:-|CENTER:100|CENTER:20|CENTER:0|相手の散弾を大きく下げる。|CENTER:5|
+|~Lv30|CENTER:&color(Blue){''D''};|[[ハピネスダンス]]|CENTER:BGCOLOR(#fff8c8):音|CENTER:変化|CENTER:-|CENTER:-|CENTER:20|CENTER:0|自分の集防と散防を上げる。|CENTER:5|
+|~Lv30|CENTER:&color(Blue){''D''};|[[COLOR(Red):幽霊アンサンブル>幽霊アンサンブル]]|CENTER:BGCOLOR(#fff8c8):音|CENTER:&color(Red){集中};|CENTER:55|CENTER:95|CENTER:15|CENTER:0|相手の集弾を下げる。|CENTER:6|
+|~Lv30|CENTER:&color(Blue){''D''};|[[COLOR(Red):ダストボム>ダストボム]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:&color(Red){集中};|CENTER:80|CENTER:100|CENTER:15|CENTER:0|3割の確率で相手を毒状態にする。|CENTER:8|
+|~Lv30|CENTER:&color(Deeppink){''A''};|[[COLOR(Blue):悲哀の旋律>悲哀の旋律]]|CENTER:BGCOLOR(#fff8c8):音|CENTER:&color(Blue){拡散};|CENTER:55|CENTER:95|CENTER:15|CENTER:0|相手の散弾を下げる。|CENTER:6|
+|~Lv30|CENTER:&color(Deeppink){''A''};|[[COLOR(Red):パニックコール>パニックコール]]|CENTER:BGCOLOR(#888888):COLOR(white):闇|CENTER:&color(Red){集中};|CENTER:65|CENTER:100|CENTER:10|CENTER:0|相手が装飾品を持っていると威力が1.5倍。&br;相手は装飾品をなくしてしまう。|CENTER:13|
+|~Lv36|CENTER:&color(Blue){''D''};|[[COLOR(Blue):カロンフェリッジ>カロンフェリッジ]]|CENTER:BGCOLOR(#d8c8ff):冥|CENTER:&color(Blue){拡散};|CENTER:-|CENTER:100|CENTER:15|CENTER:0|自分のレベルと同じだけの固定ダメージを相手に与える。|CENTER:9|
+|~Lv36|CENTER:&color(Deeppink){''A''};|[[人形の怨返し]]|CENTER:BGCOLOR(#888888):COLOR(white):闇|CENTER:変化|CENTER:-|CENTER:100|CENTER:10|CENTER:0|自分は瀕死になるがその代わりに相手の集弾と散弾を大きく下げる。|CENTER:13|
+|~Lv42|CENTER:&color(Blue){''D''};/&color(Deeppink){''A''};|[[狐火]]|CENTER:BGCOLOR(#ffafaf):炎|CENTER:変化|CENTER:-|CENTER:85|CENTER:15|CENTER:0|相手を火傷と暗闇状態にする。|CENTER:13|
+|~Lv49|CENTER:&color(Blue){''D''};|[[COLOR(Blue):ラヴォルペイン>ラヴォルペイン]]|CENTER:BGCOLOR(#d8c8ff):冥|CENTER:&color(Blue){拡散};|CENTER:65|CENTER:100|CENTER:10|CENTER:0|相手が状態異常の時威力が2倍になる。|CENTER:14|
+|~Lv49|CENTER:&color(Deeppink){''A''};|[[COLOR(Red):ダストボム>ダストボム]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:&color(Red){集中};|CENTER:80|CENTER:100|CENTER:15|CENTER:0|3割の確率で相手を毒状態にする。|CENTER:8|
+|~Lv63|CENTER:&color(Blue){''D''};|[[COLOR(Red):ベノムノヴァ>ベノムノヴァ]]|CENTER:BGCOLOR(#ffcfff):毒|CENTER:&color(Red){集中};|CENTER:120|CENTER:85|CENTER:5|CENTER:0|1割の確率で相手を毒状態にする。|CENTER:32|
+|~Lv63|CENTER:&color(Deeppink){''A''};|[[バインドトラップ]]|CENTER:BGCOLOR(#888888):COLOR(white):闇|CENTER:変化|CENTER:-|CENTER:-|CENTER:20|CENTER:0|バインドトラップを設置し交代で出てきた相手の俊敏を下げる。|CENTER:8|
+|~Lv70|CENTER:&color(Blue){''D''};|[[呪い返し]]|CENTER:BGCOLOR(#d8c8ff):冥|CENTER:変化|CENTER:-|CENTER:-|CENTER:20|CENTER:0|自分と相手のHPを合わせてそれを自分と相手で分ける。|CENTER:8|
+|~Lv70|CENTER:&color(Deeppink){''A''};|[[死者の呼び声]]|CENTER:BGCOLOR(#d8c8ff):冥|CENTER:変化|CENTER:-|CENTER:-|CENTER:5|CENTER:0|スキルをだした後に攻撃を受けて瀕死になった時攻撃相手も瀕死にする。|CENTER:34|
+&br;
+*''スキルカード'' [#card]
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Deeppink){''A''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Deeppink){''A''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Deeppink){''A''};|
+|~1|[[COLOR(Red):ファイアジャベリン>ファイアジャベリン]]||CENTER:''○''|CENTER:''○''|~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''|CENTER:''○''|~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~3|BGCOLOR(#F8FAFB):[[COLOR(Red):グラスジャベリン>グラスジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~40|BGCOLOR(#F8FAFB):[[COLOR(Blue):天神の加護>天神の加護]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~7|[[COLOR(Red):シャドウジャベリン>シャドウジャベリン]]||CENTER:''○''|CENTER:''○''|~41|[[COLOR(Blue):四神の加護>四神の加護]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|~65|[[無我の境地>無我の境地]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~8|BGCOLOR(#F8FAFB):[[COLOR(Red):オーバースキル>オーバースキル]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~42|BGCOLOR(#F8FAFB):[[COLOR(Blue):フラッシュオーバー>フラッシュオーバー]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~67|BGCOLOR(#F8FAFB):[[テルミット>テルミット]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~9|[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|~43|[[COLOR(Blue):インフェルノ>インフェルノ]]||CENTER:''○''||~69|[[突風>突風]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~10|BGCOLOR(#F8FAFB):[[COLOR(Red):逆転の一手>逆転の一手]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~45|BGCOLOR(#F8FAFB):[[COLOR(Blue):レイジィミスト>レイジィミスト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~70|BGCOLOR(#F8FAFB):[[フィールドバリア>フィールドバリア]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~11|[[COLOR(Red):ライジングサン>ライジングサン]]||CENTER:''○''|CENTER:''○''|~50|[[COLOR(Blue):スマッシュスピン>スマッシュスピン]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|~71|[[フィールドプロテクト>フィールドプロテクト]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~12|BGCOLOR(#F8FAFB):[[COLOR(Red):バーンストライク>バーンストライク]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~55|BGCOLOR(#F8FAFB):[[COLOR(Blue):ラプラスの目>ラプラスの目]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~72|BGCOLOR(#F8FAFB):[[幸運の虹>幸運の虹]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~14|[[COLOR(Red):飢餓の声>飢餓の声]]||CENTER:''○''|CENTER:''○''|~56|[[COLOR(Blue):ゴーストウェーブ>ゴーストウェーブ]]||CENTER:''○''|CENTER:''○''|~73|[[閃光弾>閃光弾]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~15|BGCOLOR(#F8FAFB):[[COLOR(Red):タンブルプラント>タンブルプラント]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~60|BGCOLOR(#F8FAFB):[[COLOR(Blue):アンノウンフレア>アンノウンフレア]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~74|BGCOLOR(#F8FAFB):[[シャークトレード>シャークトレード]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~23|[[COLOR(Red):盗難の風>盗難の風]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|~62|[[COLOR(Blue):ウルトラハイトーン>ウルトラハイトーン]]||CENTER:''○''|CENTER:''○''|~77|[[ミアズマ>ミアズマ]]||CENTER:''○''|CENTER:''○''|
+|~27|BGCOLOR(#F8FAFB):[[COLOR(Red):チェンジリング>チェンジリング]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~81-94|BGCOLOR(#F8FAFB):COLOR(Blue):数符|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~78|BGCOLOR(#F8FAFB):[[コンティニュー>コンティニュー]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~28|[[COLOR(Red):ダークアロー>ダークアロー]]||CENTER:''○''|CENTER:''○''|~ |||||~79|[[アップビート>アップビート]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~29|BGCOLOR(#F8FAFB):[[COLOR(Red):ロストクライシス>ロストクライシス]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~80|BGCOLOR(#F8FAFB):[[クレーム>クレーム]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~30|[[COLOR(Red):三魂七魄の離散>三魂七魄の離散]]||CENTER:''○''|CENTER:''○''|~ |||||~ |||||
+|~36|BGCOLOR(#F8FAFB):[[COLOR(Red):奈落の花>奈落の花]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~37|[[COLOR(Red):セントエルモの火>セントエルモの火]]||CENTER:''○''|CENTER:''○''|~ |||||~ |||||

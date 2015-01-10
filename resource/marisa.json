@@ -1,6 +1,7 @@
 {
   "doll":{
     "image": "./まりさ.jpg",
+    "caption":"まりさ",
     "style": [
       {
         "styleId": 0,
@@ -86,6 +87,7 @@
     "dropItem": [
       "ITEM1",
       "ITEM2"
-    ]
+    ],
+    "abilityAnnotation": ""
   }
 }
