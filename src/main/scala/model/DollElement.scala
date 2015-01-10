@@ -1,22 +1,22 @@
 package model
 
 object DollElement {
-  case object Plain    extends DollElement("無","#ffefef",None)
-  case object Flame    extends DollElement("炎","#ffafaf",None)
-  case object Water    extends DollElement("水","#afefff",None)
-  case object Nature   extends DollElement("然","#afffaf",None)
-  case object Ground   extends DollElement("地","#ddcdad",None)
-  case object Steel    extends DollElement("鋼","#eeeeee",None)
-  case object Wind     extends DollElement("風","#d8ffc8",None)
-  case object Thunder  extends DollElement("雷","#ffe8af",None)
-  case object Light    extends DollElement("光","#ffffaf",None)
-  case object Dark     extends DollElement("闇","#888888",Some("white"))
-  case object Phantom  extends DollElement("冥","#d8c8ff",None)
-  case object Poison   extends DollElement("毒","#ffcfff",None)
-  case object Fight    extends DollElement("闘","#ffcfaf",None)
-  case object Illusion extends DollElement("幻","#ffc8df",None)
-  case object Sound    extends DollElement("音","#fff8c8",None)
-  case object Dream    extends DollElement("夢","deeppink",None)
+  case object Plain    extends DollElement("無","pink",        Some("white"))
+  case object Flame    extends DollElement("炎","red",         Some("white"))
+  case object Water    extends DollElement("水","dodgerblue",  Some("white"))
+  case object Nature   extends DollElement("然","green",       Some("white"))
+  case object Ground   extends DollElement("地","brown",       Some("white"))
+  case object Steel    extends DollElement("鋼","silver",      None)
+  case object Wind     extends DollElement("風","lawngreen",   None)
+  case object Thunder  extends DollElement("雷","gold",        None)
+  case object Light    extends DollElement("光","yellow",      None)
+  case object Dark     extends DollElement("闇","black",       Some("white"))
+  case object Phantom  extends DollElement("冥","mediumorchid",Some("white"))
+  case object Poison   extends DollElement("毒","mediumpurple",Some("white"))
+  case object Fight    extends DollElement("闘","orange",      None)
+  case object Illusion extends DollElement("幻","fuchsia",     Some("white"))
+  case object Sound    extends DollElement("音","khaki",       None)
+  case object Dream    extends DollElement("夢","Deeppink",    Some("white"))
 
   val values = Array(Plain, Flame, Water, Nature, Ground, Steel,
       Wind, Thunder, Light, Dark, Phantom, Poison, Fight, Illusion,

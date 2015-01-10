@@ -3,9 +3,9 @@
 &br;
 |>|&attachref(./まりさ.jpg,nolink, まりさ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
 |~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集攻|~集防|~散攻|~散防|~俊敏|~合計|
-|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(#ffffaf):光|CENTER:BGCOLOR(#ffe8af):雷|>|>|RIGHT:35|RIGHT:60|RIGHT:30|RIGHT:60|RIGHT:30|RIGHT:70|CENTER:285|
-|~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(#ffffaf):光|CENTER:BGCOLOR(#ffe8af):雷|>|>|RIGHT:60|RIGHT:75|RIGHT:70|RIGHT:110|RIGHT:70|RIGHT:135|CENTER:520|
-|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(#ffffaf):光|CENTER:BGCOLOR(#888888):COLOR(white):闇|>|>|RIGHT:80|RIGHT:130|RIGHT:60|RIGHT:75|RIGHT:60|RIGHT:115|CENTER:520|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(gold):雷|>|>|RIGHT:35|RIGHT:60|RIGHT:30|RIGHT:60|RIGHT:30|RIGHT:70|CENTER:285|
+|~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(gold):雷|>|>|RIGHT:60|RIGHT:75|RIGHT:70|RIGHT:110|RIGHT:70|RIGHT:135|CENTER:520|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|>|>|RIGHT:80|RIGHT:130|RIGHT:60|RIGHT:75|RIGHT:60|RIGHT:115|CENTER:520|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
 |CENTER:[[窃盗癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|装飾品が無い時に攻撃スキルを当てると相手の装飾品を奪う。|
 |CENTER:[[収集癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|持っている装飾品をとられない。|
