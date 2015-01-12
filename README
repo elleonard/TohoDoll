@@ -5,9 +5,12 @@ sbt run
 するとwikitextディレクトリにwiki記法のファイルが生成される。
 
 ## 仕様
-未だテンプレートページ用議論が落ち着いていないため、暫定実装。
-暫定的にtemp04型の表のみ自動生成する。
-http://wikiwiki.jp/tensi-gj-ms/?%A5%C6%A5%F3%A5%D7%A5%EC%A1%BC%A5%C8%C5%F9%2F%BF%CD%B7%C1%B8%C4%CA%CC%A5%DA%A1%BC%A5%B8%B5%C4%CF%C0%2Ftemp04
+決められた書式のJSONを記述して実行すると、
+雛・パルスィ型のテンプレートに従ったwikiソースが生成される。
+http://wikiwiki.jp/tensi-gj-ms/?%A5%C6%A5%F3%A5%D7%A5%EC%A1%BC%A5%C8%C5%F9%2F%BF%CD%B7%C1%B8%C4%CA%CC%A5%DA%A1%BC%A5%B8%B5%C4%CF%C0
+
+鋼鉄属性の背景色については表の罫線とかぶるという指摘があるが
+現在のところsilverのまま。
 
 ## JSONの見本
 resource/hina.jsonが見本
