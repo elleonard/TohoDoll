@@ -6,8 +6,9 @@ object DollStyle {
   case object Defence extends DollStyle("ディフェンス","D","Blue")
   case object Speed extends DollStyle("スピード","S","Forestgreen")
   case object Assist extends DollStyle("アシスト","A","Deeppink")
+  case object DefenceHakutaku extends DollStyle("ディフェンス（ハクタク）","DH","Blue")
 
-  private val values = Array(Normal, Power, Defence, Speed, Assist)
+  private val values = Array(Normal, Power, Defence, Speed, Assist, DefenceHakutaku)
 
   def getFromSymbol(symbol: String):Option[DollStyle] =
     values.find { x => x.symbol == symbol };

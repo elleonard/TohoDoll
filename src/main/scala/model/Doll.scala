@@ -22,7 +22,10 @@ case class Doll(
   /* アビリティリスト */
   def ability:String = {
     val abilityList:List[DollAbility] =
-      style.flatMap(s => s.ability).toList.distinct
+      style.flatMap(s => s.getAbility match {
+          case Some(a) => a
+          case None => Array[DollAbility]()
+      }).toList.distinct
     abilityList.map(ab =>
       "|CENTER:[["+ab.name+"]]|CENTER:"+
         (style.map(s =>
@@ -91,7 +94,7 @@ case class Doll(
   def skillCardTable = {
     if(style.exists { x => x.hasSkillCard }){
       val cardList: List[Int] = {
-        style.flatMap( s => s.skillCard )
+        style.filter { x => x.hasSkillCard }.flatMap( s => s.skillCard )
       }.toList.distinct.sorted
       "*''スキルカード'' [#card]\n"+
         skillCardTableHeader+"\n"+skillCardTableSub
@@ -129,7 +132,7 @@ case class Doll(
   }
   def separatedSkillCardTable(skillCardNumber: Int, wikiText: String, line: Int) = {
     wikiText+
-      style.map(s =>
+      style.filter { x => x.hasSkillCard }.map(s =>
         if(s.hasSkillCard(skillCardNumber))
           TableUtils.evenLineColor(line)+"CENTER:''○''"
         else
@@ -139,14 +142,14 @@ case class Doll(
   def skillCardTableHeader:String = {
     (for(i <- 1 to 3) yield {
       "|~No.|~スキル名|"+
-      style.map(s =>
+      style.filter { x => x.hasSkillCard }.map(s =>
         "~&color("+s.getStyleColor+"){''"+s.styleSymbol+"''};"
       ).mkString("|~")
     }).mkString+"|"
   }
   /* スキルカードを使用可能なスタイルがあるか */
   def hasSkillCard(skillCardNumber: Int): Boolean = {
-    style.exists( s => s.hasSkillCard(skillCardNumber) )
+    style.exists( s => s.hasSkillCard && s.hasSkillCard(skillCardNumber) )
   }
 }
 
@@ -180,12 +183,13 @@ case class StyleStatus(
   /* 種族値合計 */
   def total = hp + concentrateAttack + concentrateDefence + diffuseAttack + diffuseDefence + speed
   /* アビリティを持っているかどうか */
-  def hasAbility(abilityName: String):Boolean = ability.exists(x => x.name == abilityName)
+  def hasAbility(abilityName: String):Boolean =
+    Option(ability).isDefined && ability.exists(x => x.name == abilityName)
   /* スキルを持っているかどうか */
   def hasSkill(skillName: String): Boolean =
-    skill.exists(x => x.name == skillName)
+    Option(skill).isDefined && skill.exists(x => x.name == skillName)
   def hasSkillLv(skillName: String, lv: Int): Boolean =
-    skill.exists(x => x.name == skillName && x.lv == lv)
+    Option(skill).isDefined && skill.exists(x => x.name == skillName && x.lv == lv)
   def hasSkillCard(skillCardNumber: Int): Boolean =
     skillCard.exists(x => x == skillCardNumber)
   def hasSkillCard: Boolean = Option(skillCard).isDefined
@@ -223,6 +227,7 @@ case class StyleStatus(
     }
   }
   def getSkillList = Option(skill)
+  def getAbility = Option(ability)
 }
 
 case class DollAbility(

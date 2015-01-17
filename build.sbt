@@ -2,7 +2,7 @@ import AssemblyKeys._
 
 name := "tohodoll"
 
-version := "1.2"
+version := "1.3"
 
 scalaVersion := "2.10.4"
 

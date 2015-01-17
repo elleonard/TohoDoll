@@ -2,7 +2,7 @@
 *基本情報 [#outline]
 &br;
 |>|&attachref(./まりさ.jpg,nolink, まりさ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
-|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集攻|~集防|~散攻|~散防|~俊敏|~合計|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
 |~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(gold):雷|>|>|RIGHT:35|RIGHT:60|RIGHT:30|RIGHT:60|RIGHT:30|RIGHT:70|CENTER:285|
 |~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(gold):雷|>|>|RIGHT:60|RIGHT:75|RIGHT:70|RIGHT:110|RIGHT:70|RIGHT:135|CENTER:520|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|>|>|RIGHT:80|RIGHT:130|RIGHT:60|RIGHT:75|RIGHT:60|RIGHT:115|CENTER:520|
@@ -20,11 +20,11 @@
 |CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};||||&color(Red){◯};||&color(Blue){△};|&color(Blue){▲};|&color(Blue){△};|&color(Red){◯};|&color(Blue){△};|||&color(Red){◯};|||
 |BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Red){''パワー''};|&color(Blue){▲};|||||&color(Red){◯};||&color(Blue){△};|||&color(Blue){△};||&color(Red){◯};|&color(Red){◯};|||
-&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
 
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
 &br;
 *''スキル'' [#skill]
-|~取得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~習得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|
 
 &br;
 
