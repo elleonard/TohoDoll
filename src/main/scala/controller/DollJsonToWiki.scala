@@ -11,6 +11,11 @@ import java.io.FileOutputStream
 import java.io.PrintWriter
 import java.io.OutputStreamWriter
 
+/**
+ * JSONを読み込み、Wikiソース形式にして出力する
+ *
+ * 幻想人形演舞 ユメノカケラ仕様
+ */
 object DollJsonToWiki {
   def main(args: Array[String]):Unit = {
     getJsonList.map(jsonFileName => {

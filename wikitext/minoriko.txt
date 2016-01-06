@@ -1,0 +1,43 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(./みのりこ.png,nolink, みのりこ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(green):COLOR(white):自然||>|>|RIGHT:65|RIGHT:30|RIGHT:45|RIGHT:60|RIGHT:55|RIGHT:40|CENTER:295|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(green):COLOR(white):自然||>|>|RIGHT:90|RIGHT:55|RIGHT:65|RIGHT:100|RIGHT:75|RIGHT:90|CENTER:475|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(green):COLOR(white):自然|CENTER:BGCOLOR(brown):COLOR(white):大地|>|>|RIGHT:130|RIGHT:50|RIGHT:70|RIGHT:90|RIGHT:85|RIGHT:50|CENTER:475|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(green):COLOR(white):自然|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:95|RIGHT:30|RIGHT:90|RIGHT:50|RIGHT:90|RIGHT:120|CENTER:475|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[陽の気質]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|雷・光・幻属性のスキルを受けた時ダメージを軽減し 自分の俊敏が一段階上がる。|
+|CENTER:[[小休止]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|気象：凪の時 集防が1.5倍になり 毎ターンHPが回復する。|
+|CENTER:[[]]|CENTER:&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>||
+|CENTER:[[オートヒーリング]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|毎ターンHPが回復する。状態異常の時は回復しない。|
+|CENTER:[[抗体持ち]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|毒・猛毒状態にならない。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:秋穣子の力を持つ人形。豊穣を司る程度の能力を持つ。&br;その体からは果物の甘い香りがする。作物の成長を促進する効果があるといわれる。|80|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
+|>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};||&color(Red){◯};|&color(Blue){△};|&color(Blue){△};|&color(Blue){△};|&color(Red){◯};||&color(Blue){△};|&color(Blue){△};|||&color(Red){◯};||||||
+|BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Blue){''ディフェンス''};|||||&color(Blue){△};|&color(Red){◯};||×|&color(Blue){△};||||&color(Red){◯};|||||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+*''スキル'' [#skill]
+|~習得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~Lv1|CENTER:&color(Chocolate){''N''};|[[根流し]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|CENTER:-|CENTER:100|CENTER:30|CENTER:0|相手を 毒状態に する。|CENTER:2|
+|~Lv1|CENTER:&color(Chocolate){''N''};|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|CENTER:55|CENTER:100|CENTER:35|CENTER:0|通常攻撃。|CENTER:2|
+&br;
+*''スキルカード'' [#card]
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|
+
+----
+*コメント[#comment]

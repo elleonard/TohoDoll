@@ -16,6 +16,7 @@ case class Doll(
   val description: String,
   val cost: Int,
   val spot: Array[AppearanceSpot],
+  val fixSpot: Array[AppearanceSpot],
   val dropItem: Array[String],
   val abilityAnnotation: String
 ) {
@@ -40,22 +41,30 @@ case class Doll(
   def toWiki = {
     "[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]\n"+
       "*基本情報 [#outline]\n"+
-      "&br;\n|>|&attachref("+image+",nolink, "+caption+");|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|\n"+
+      "|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c\n"+
+      "|>|&attachref("+image+",nolink, "+caption+");|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|\n"+
       "|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|\n"+
       (style.map(s => s.toWiki).mkString("\n"))+"\n"+
       "|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|\n"+
-      ability+"\n|>|>|>|>|>|>|>|>|>|>|>|>|~図鑑説明|~COST|\n"+
-      "|>|>|>|>|>|>|>|>|>|>|>|>|"+description+"|CENTER:"+cost+"|\n"+
-      "|>|>|>|>|>|>|>|~主な出現場所|>|>|~出現レベル|>|>|~ドロップ&br;アイテム|\n"+
+      ability+"\n|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|\n"+
+      "|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:"+description+"|"+cost+"|\n"+
+      "|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|\n"+
       spot(0).toWiki+"CENTER:"+dropItem.mkString("&br;")+"|\n"+
       (spot.tail.map(s =>
         s.toWiki+"~|"
-      ).mkString("\n"))
+      ).mkString("\n"))+"\n"+
+      (fixSpot match {
+        case null => ""
+        case _ =>
+          "|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|\n"+
+          (fixSpot.map(s =>s.toWiki
+          ).mkString("\n"))
+      })
   }
   /* 属性相性表 */
   def elementRateTable = {
-    "|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|\n"+
-    "|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(deeppink):COLOR(white):夢|\n"+
+    "|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|\n"+
+    "|~スタイル|"+DollElement.values.map(e => e.getWikiText).mkString("|")+"|\n"+
     (style.map(s => s.elementRateTable).mkString("\n"))+"\n"+
     abilityAnnotation+"\n"+
     "&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない\n"+
@@ -196,8 +205,8 @@ case class StyleStatus(
   /* 種族値のwiki記法 */
   def toWiki = {
     "|~|~|CENTER:COLOR("+getStyleColor+"):''"+getStyleName+"''|"+
-      DollElement.getWikiText(element1)+"|"+
-      DollElement.getWikiText(element2)+"|>|>|RIGHT:"+hp+"|RIGHT:"+concentrateAttack+
+      DollElement.getWikiText(element1, true)+"|"+
+      DollElement.getWikiText(element2, true)+"|>|>|RIGHT:"+hp+"|RIGHT:"+concentrateAttack+
       "|RIGHT:"+concentrateDefence+"|RIGHT:"+diffuseAttack+"|RIGHT:"+diffuseDefence+
       "|RIGHT:"+speed+"|CENTER:"+total+"|"
   }
@@ -239,10 +248,14 @@ case class DollAbility(
 case class AppearanceSpot(
   val name: String,
   val minLv: Int,
-  val maxLv: Int
+  val maxLv: Int,
+  val description: String
 ){
   def toWiki = {
-    "|>|>|>|>|>|>|>|CENTER:"+name+"|>|>|"+level+"|>|>|"
+    description match{
+      case null => "|>|>|>|>|>|>|>|CENTER:"+name+"|>|>|CENTER:"+level+"|>|>|"
+      case _ => "|>|>|>|>|>|>|>|CENTER:"+name+"|>|>|CENTER:"+level+"|>|>|"+description+"|"
+    }
   }
   def level = {
     if(minLv == maxLv)

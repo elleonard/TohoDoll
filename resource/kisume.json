@@ -1,0 +1,138 @@
+{
+  "doll":{
+    "image": "./きすめ.png",
+    "caption": "きすめ",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "闇",
+        "element2": "炎",
+        "hp": 60,
+        "concentrateAttack": 25,
+        "concentrateDefence": 70,
+        "diffuseAttack": 50,
+        "diffuseDefence": 70,
+        "speed": 20,
+        "ability": [
+          {
+            "name": "不屈",
+            "description": "	一撃で戦闘不能にならない。痛烈な一撃を受けない。"
+          },
+          {
+            "name": "五分の意地",
+            "description": "	威力90以上のスキルへ弾幕を撃ち返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "A",
+        "element1": "闇",
+        "element2": "炎",
+        "hp": 90,
+        "concentrateAttack": 65,
+        "concentrateDefence": 180,
+        "diffuseAttack": 90,
+        "diffuseDefence": 30,
+        "speed": 20,
+        "ability": [
+           {
+            "name": "不屈",
+            "description": "	一撃で戦闘不能にならない。痛烈な一撃を受けない。"
+          },
+          {
+            "name": "五分の意地",
+            "description": "	威力90以上のスキルへ弾幕を撃ち返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "D",
+        "element1": "闇",
+        "element2": "水",
+        "hp": 90,
+        "concentrateAttack": 65,
+        "concentrateDefence": 30,
+        "diffuseAttack": 90,
+        "diffuseDefence": 180,
+        "speed": 20,
+        "ability": [
+           {
+            "name": "不屈",
+            "description": "	一撃で戦闘不能にならない。痛烈な一撃を受けない。"
+          },
+          {
+            "name": "五分の意地",
+            "description": "	威力90以上のスキルへ弾幕を撃ち返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "炎",
+        "element2": "自然",
+        "hp": 90,
+        "concentrateAttack": 90,
+        "concentrateDefence": 110,
+        "diffuseAttack": 40,
+        "diffuseDefence": 100,
+        "speed": 45,
+        "ability": [
+           {
+            "name": "不屈",
+            "description": "	一撃で戦闘不能にならない。痛烈な一撃を受けない。"
+          },
+           {
+             "name": "徹底拘束",
+             "description": "相手はスキルの効果で交代できない。"
+           }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      }
+    ],
+    "description": "キスメの力を持つ人形。鬼火を落とす程度の能力を持つ。&br;暗いところが好きで 人前に出るのは苦手。連れて歩く際は 姿を見かけないと思ったら頭上に注意。",
+    "cost": 80,
+    "spot": [
+      {
+        "name": "出現場所A",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所B（洞窟）",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所C（濃い草むら）",
+        "minLv": 0,
+        "maxLv": 0
+      }
+    ],
+    "fixSpot": [
+      {
+        "name": "出現場所：出現位置",
+        "minLv": 0,
+        "maxLv": 0,
+        "description": "ブーイングに注意等"
+      }
+    ],
+    "dropItem": [
+    ],
+    "abilityAnnotation": ""
+  }
+}

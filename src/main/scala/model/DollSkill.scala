@@ -5,6 +5,7 @@ case class DollSkill(
   val name: String,
   val element: String,
   val category: String,
+  val asssortment: String = "なし",
   val power: String,
   val hit: String,
   val SP: Int,

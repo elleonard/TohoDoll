@@ -1,35 +1,42 @@
 package model
 
 object DollElement {
-  case object Plain    extends DollElement("無","pink",        Some("white"), None)
-  case object Flame    extends DollElement("炎","red",         Some("white"), None)
-  case object Water    extends DollElement("水","dodgerblue",  Some("white"), None)
-  case object Nature   extends DollElement("然","green",       Some("white"), Some("自然"))
-  case object Ground   extends DollElement("地","brown",       Some("white"), Some("大地"))
-  case object Steel    extends DollElement("鉄","silver",      None,          Some("鋼鉄"))
-  case object Wind     extends DollElement("風","lawngreen",   None,          None)
-  case object Thunder  extends DollElement("雷","gold",        None,          None)
-  case object Light    extends DollElement("光","yellow",      None,          None)
-  case object Dark     extends DollElement("闇","black",       Some("white"), None)
-  case object Phantom  extends DollElement("冥","mediumorchid",Some("white"), None)
-  case object Poison   extends DollElement("毒","mediumpurple",Some("white"), None)
-  case object Fight    extends DollElement("闘","orange",      None,          None)
-  case object Illusion extends DollElement("幻","fuchsia",     Some("white"), None)
-  case object Sound    extends DollElement("音","khaki",       None,          None)
-  case object Dream    extends DollElement("夢","Deeppink",    Some("white"), None)
+  /**
+   * 各属性詳細
+   */
+  case object Plain      extends DollElement("無","pink",        Some("white"), None)
+  case object Flame      extends DollElement("炎","red",         Some("white"), None)
+  case object Water      extends DollElement("水","dodgerblue",  Some("white"), None)
+  case object Nature     extends DollElement("然","green",       Some("white"), Some("自然"))
+  case object Ground     extends DollElement("地","brown",       Some("white"), Some("大地"))
+  case object Steel      extends DollElement("鉄","silver",      None,          Some("鋼鉄"))
+  case object Wind       extends DollElement("風","lawngreen",   None,          None)
+  case object Thunder    extends DollElement("雷","gold",        None,          None)
+  case object Light      extends DollElement("光","yellow",      None,          None)
+  case object Dark       extends DollElement("闇","black",       Some("white"), None)
+  case object Phantom    extends DollElement("冥","mediumorchid",Some("white"), None)
+  case object Poison     extends DollElement("毒","mediumpurple",Some("white"), None)
+  case object Fight      extends DollElement("闘","orange",      None,          None)
+  case object Illusion   extends DollElement("幻","fuchsia",     Some("white"), None)
+  case object Sound      extends DollElement("音","khaki",       None,          None)
+  case object Distortion extends DollElement("歪","blue",        Some("white"), None)
+  case object Dream      extends DollElement("夢","Deeppink",    Some("white"), None)
 
   val values = Array(Plain, Flame, Water, Nature, Ground, Steel,
       Wind, Thunder, Light, Dark, Phantom, Poison, Fight, Illusion,
-      Sound, Dream)
+      Sound, Distortion, Dream)
 
-  def getWikiText(elementName: String) = {
+  def getWikiText(elementName: String, full: Boolean = false): String = {
     getElement(elementName) match {
       case Some(e) => "CENTER:BGCOLOR("+e.backgroundColor+")"+
         (e.textColor match {
           case Some(c) => ":COLOR("+c+")"
           case None => ""
         })+
-        ":"+e.elementName
+        ":"+((full, e.elementFullName) match {
+          case (true, Some(full)) => full
+          case _ => e.elementName
+        })
       case None => ""
     }
   }
@@ -84,7 +91,7 @@ object DollElement {
       }
       case Steel => {  // 鋼鉄属性攻撃
         defender match {
-          case Flame | Water | Steel => 0.5
+          case Flame | Water | Steel | Distortion => 0.5
           case Nature | Wind | Dark => 2
           case _ => 1
         }
@@ -93,13 +100,14 @@ object DollElement {
         defender match {
           case Steel | Thunder => 0.5
           case Poison | Fight | Sound => 2
+          case Distortion => 0
           case _ => 1
         }
       }
       case Thunder => {  // 雷属性攻撃
         defender match {
           case Nature | Thunder | Light => 0.5
-          case Water | Wind => 2
+          case Water | Wind | Sound => 2
           case Ground => 0
           case _ => 1
         }
@@ -120,7 +128,7 @@ object DollElement {
       }
       case Phantom => {  // 冥属性攻撃
         defender match {
-          case Light => 0.5
+          case Light | Sound => 0.5
           case Phantom => 2
           case _ => 1
         }
@@ -128,7 +136,7 @@ object DollElement {
       case Poison => {  // 毒属性攻撃
         defender match {
           case Ground | Phantom | Poison => 0.5
-          case Water | Nature => 2
+          case Water | Nature | Distortion => 2
           case Steel => 0
           case _ => 1
         }
@@ -136,7 +144,7 @@ object DollElement {
       case Fight => {  // 闘属性攻撃
         defender match {
           case Wind | Poison | Illusion => 0.5
-          case Ground | Steel | Dark => 2
+          case Ground | Steel | Dark | Distortion => 2
           case Phantom => 0
           case _ => 1
         }
@@ -151,8 +159,15 @@ object DollElement {
       }
       case Sound => {  // 音属性攻撃
         defender match {
-          case Wind | Sound => 0.5
-          case Fight | Illusion => 2
+          case Wind | Light | Sound => 0.5
+          case Fight | Illusion | Distortion => 2
+          case _ => 1
+        }
+      }
+      case Distortion => {  // 歪属性攻撃
+        defender match {
+          case Steel | Wind | Illusion => 2
+          case Dark | Poison | Fight | Distortion => 0.5
           case _ => 1
         }
       }
@@ -161,10 +176,20 @@ object DollElement {
   }
 }
 
+/**
+ * 属性詳細
+ *
+ * elementName      属性名（1文字）
+ * backgroundColor  背景色
+ * textColor        文字色。黒の場合はNone
+ * elementFullName  属性名（2文字のものがあれば）。1文字で事足りるならNone
+ */
 sealed abstract class DollElement(
   val elementName: String,
   val backgroundColor: String,
   val textColor: Option[String],
   val elementFullName: Option[String]
 ){
+
+  def getWikiText = DollElement.getWikiText(elementName)
 }

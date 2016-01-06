@@ -1,0 +1,40 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(./きすめ.png,nolink, きすめ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:60|RIGHT:25|RIGHT:70|RIGHT:50|RIGHT:70|RIGHT:20|CENTER:295|
+|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:90|RIGHT:65|RIGHT:180|RIGHT:90|RIGHT:30|RIGHT:20|CENTER:475|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:90|RIGHT:65|RIGHT:30|RIGHT:90|RIGHT:180|RIGHT:20|CENTER:475|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(green):COLOR(white):自然|>|>|RIGHT:90|RIGHT:90|RIGHT:110|RIGHT:40|RIGHT:100|RIGHT:45|CENTER:475|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[不屈]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|	一撃で戦闘不能にならない。痛烈な一撃を受けない。|
+|CENTER:[[五分の意地]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|	威力90以上のスキルへ弾幕を撃ち返す。|
+|CENTER:[[徹底拘束]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手はスキルの効果で交代できない。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:キスメの力を持つ人形。鬼火を落とす程度の能力を持つ。&br;暗いところが好きで 人前に出るのは苦手。連れて歩く際は 姿を見かけないと思ったら頭上に注意。|80|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
+|>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};|&color(Blue){△};|&color(Red){◯};|&color(Blue){△};|&color(Red){◯};||||&color(Red){◯};|&color(Blue){△};|||&color(Red){◯};|||&color(Blue){△};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Deeppink){''アシスト''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Blue){''ディフェンス''};|&color(Blue){△};|&color(Blue){△};|&color(Blue){△};|&color(Red){◯};||||&color(Red){◯};||&color(Blue){△};||&color(Red){◯};|&color(Red){◯};|||&color(Blue){△};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+*''スキル'' [#skill]
+|~習得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+&br;
+*''スキルカード'' [#card]
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|
+
+----
+*コメント[#comment]
