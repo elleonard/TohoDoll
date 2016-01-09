@@ -83,35 +83,70 @@ object SkillCard {
   case object ContinueGame     extends SkillCard(78,"コンティニュー",      "変化")
   case object UpBeat           extends SkillCard(79,"アップビート",        "変化")
   case object Claim            extends SkillCard(80,"クレーム",            "変化")
-  case object Flame            extends SkillCard(81,"一符・炎",            "拡散")
-  case object Water            extends SkillCard(82,"二符・水",            "拡散")
-  case object Nature           extends SkillCard(83,"三符・自然",          "拡散")
-  case object Ground           extends SkillCard(84,"四符・大地",          "拡散")
-  case object Steel            extends SkillCard(85,"五符・鋼鉄",          "拡散")
-  case object Wind             extends SkillCard(86,"六符・風",            "拡散")
-  case object Thunder          extends SkillCard(87,"七符・雷",            "拡散")
-  case object Light            extends SkillCard(88,"八符・光",            "拡散")
-  case object Dark             extends SkillCard(89,"九符・闇",            "拡散")
-  case object Phantom          extends SkillCard(90,"十符・冥",            "拡散")
-  case object Poison           extends SkillCard(91,"十一符・毒",          "拡散")
-  case object Fight            extends SkillCard(92,"十二符・闘",          "拡散")
-  case object Illusion         extends SkillCard(93,"十三符・幻",          "拡散")
-  case object Sound            extends SkillCard(94,"十四符・音",          "拡散")
+  case object DistortionBomb   extends SkillCard(81,"ディストーションボム","集中")
+  case object StealthMurder    extends SkillCard(82,"ステルスマーダー",    "集中")
+  case object MazeMist         extends SkillCard(83,"迷霧散花",            "拡散")
+  case object Instinction      extends SkillCard(84,"インスティンクション","拡散")
+  case object FieldBreak       extends SkillCard(85,"フィールドブレイク",  "拡散")
+  case object FlyDance         extends SkillCard(86,"飛翔乱舞",            "集中")
+  case object ThunderBlade     extends SkillCard(87,"雷切",                "集中")
+  case object DancingSword     extends SkillCard(88,"ダンシングソード",    "集中")
+  case object HighTone         extends SkillCard(89,"ハイトーンクラッシュ","集中")
+  case object OverRun          extends SkillCard(90,"オーバーラン",        "拡散")
+  case object BackDraft        extends SkillCard(91,"バックドラフト",      "拡散")
+  case object IcePrison        extends SkillCard(92,"氷獄",                "拡散")
+  case object SpinningAir      extends SkillCard(93,"スピニングエア",      "拡散")
+  case object DarknessSweets   extends SkillCard(94,"ダークネススイーツ",  "拡散")
+  case object BraveBurst       extends SkillCard(95,"ブレイブバースト",    "拡散")
+  case object Catastroph       extends SkillCard(96,"カタストロフィ",      "拡散")
+  case object Poltergeist      extends SkillCard(97,"ポルターガイスト",    "拡散")
+  case object Shiranui         extends SkillCard(98,"不知火",              "変化")
+  case object ShockParalyze    extends SkillCard(99,"ショックパライズ",    "変化")
+  case object AcidTear         extends SkillCard(100,"酸涙",               "変化")
+  case object Flame            extends SkillCard(101,"炎符",               "拡散")
+  case object Water            extends SkillCard(102,"水符",               "拡散")
+  case object Nature           extends SkillCard(103,"自然符",             "拡散")
+  case object Ground           extends SkillCard(104,"大地符",             "拡散")
+  case object Steel            extends SkillCard(105,"鋼鉄符",             "拡散")
+  case object Wind             extends SkillCard(106,"風符",               "拡散")
+  case object Thunder          extends SkillCard(107,"雷符",               "拡散")
+  case object Light            extends SkillCard(108,"光符",               "拡散")
+  case object Dark             extends SkillCard(109,"闇符",               "拡散")
+  case object Phantom          extends SkillCard(110,"冥符",               "拡散")
+  case object Poison           extends SkillCard(111,"毒符",               "拡散")
+  case object Fight            extends SkillCard(112,"闘符",               "拡散")
+  case object Illusion         extends SkillCard(113,"幻符",               "拡散")
+  case object Sound            extends SkillCard(114,"音符",               "拡散")
+  case object Distortion       extends SkillCard(115,"歪符",               "拡散")
 
   val concentrateAttack =
-    Array(FireJavelin, AquaJavelin, GlassJavelin, WindJavelin, SparkJavelin, LightJavelin, ShadowJavelin,
-        Overskill, Joruri, Reversal, RisingSun, BurnStrike, FallOfFall, VoiceOfHunger, TumblePlant, ShootingPress,
-        GroundLiberate, StoneSpike, ImpactRebellion, OutRider, GensoTyphoon, ShockStamp, RobberyWind, PlasmaHole,
-        LightDance, EvilCrushArrow, ChangeLing, DarkArrow, LostCrisis, SankonNanahaku, PoisonArrow, DecadentFist,
-        MeteorImpact, BreakShoot, ChargeStun, AbyssFlower, StElmosFire, DancingLine)
+    Array(FireJavelin, AquaJavelin, GlassJavelin, WindJavelin,
+        SparkJavelin, LightJavelin, ShadowJavelin,
+        Overskill, Joruri, Reversal, RisingSun, BurnStrike, FallOfFall,
+        VoiceOfHunger, TumblePlant, ShootingPress,
+        GroundLiberate, StoneSpike, ImpactRebellion, OutRider, GensoTyphoon,
+        ShockStamp, RobberyWind, PlasmaHole,
+        LightDance, EvilCrushArrow, ChangeLing, DarkArrow, LostCrisis,
+        SankonNanahaku, PoisonArrow, DecadentFist,
+        MeteorImpact, BreakShoot, ChargeStun, AbyssFlower, StElmosFire,
+        DancingLine, DistortionBomb, StealthMurder, FlyDance, ThunderBlade,
+        DancingSword, HighTone)
   val diffuseAttack =
-    Array(TriEffect, DivineProtection, QuadProtection, FlashOver, Inferno, ColdRain, LazyMist, LightFlower,
-        MistFog, JeweryStorm, ChromeRay, SmashSpin, Indignate, Jinrai, ThunderForce, StarFlare, LaplaceEye,
-        GhostWave, Pain, PoisonBomb, Gigantic, UnknownFlare, GravityBlast, UltraHighTone,
-        Flame, Water, Nature, Ground, Steel, Wind, Thunder, Light, Dark, Phantom, Poison, Fight, Illusion, Sound)
+    Array(TriEffect, DivineProtection, QuadProtection, FlashOver, Inferno,
+        ColdRain, LazyMist, LightFlower,
+        MistFog, JeweryStorm, ChromeRay, SmashSpin, Indignate, Jinrai,
+        ThunderForce, StarFlare, LaplaceEye,
+        GhostWave, Pain, PoisonBomb, Gigantic, UnknownFlare, GravityBlast,
+        UltraHighTone, MazeMist, Instinction, FieldBreak,
+        OverRun, BackDraft, IcePrison, SpinningAir, DarknessSweets,
+        BraveBurst, Catastroph, Poltergeist,
+        Flame, Water, Nature, Ground, Steel, Wind, Thunder, Light, Dark,
+        Phantom, Poison, Fight, Illusion, Sound, Distortion)
   val special =
-    Array(Barrier, BarrierOption, ClearMind, Stopper, Thermit, Drought, GustOfWind, FieldBarrier, FieldProtection,
-        LuckyRainbow, StunGrenade, SharkTrade, SweetNightmare, KagomeKagome, Miasma, ContinueGame, UpBeat, Claim)
+    Array(Barrier, BarrierOption, ClearMind, Stopper, Thermit, Drought,
+        GustOfWind, FieldBarrier, FieldProtection,
+        LuckyRainbow, StunGrenade, SharkTrade, SweetNightmare, KagomeKagome,
+        Miasma, ContinueGame, UpBeat, Claim, Shiranui, ShockParalyze, AcidTear)
 
   val values = concentrateAttack ++ diffuseAttack ++ special
 
@@ -124,8 +159,8 @@ sealed abstract class SkillCard(
   val category: String
 ){
   def getWikiText(line: Int) = {
-    if(number >= 81 && number <= 94)
-      "|~81-94|"+TableUtils.evenLineColor(line)+getCategoryColor+"数符|"
+    if(number >= 101 && number <= 115)
+      "|~101-115|"+TableUtils.evenLineColor(line)+getCategoryColor+"属性符|"
     else
       "|~"+number+"|"+TableUtils.evenLineColor(line)+"[["+getCategoryColor+skillName+">"+skillName+"]]|"
   }

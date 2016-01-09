@@ -1,0 +1,139 @@
+{
+  "doll":{
+    "dollName": "やつはし",
+    "image": "",
+    "caption": "",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "音",
+        "element2": "-",
+        "hp": 65,
+        "concentrateAttack": 30,
+        "concentrateDefence": 55,
+        "diffuseAttack": 60,
+        "diffuseDefence": 40,
+        "speed": 40,
+        "ability": [
+          {
+            "name": "鳴り響く縞",
+            "description": "残りHPが1/3以下の時 音属性の威力が上がる。"
+          },
+          {
+            "name": "吸音",
+            "description": "音属性のスキルを無効化し 集弾と散弾が一段階上がる。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "S",
+        "element1": "音",
+        "element2": "-",
+        "hp": 105,
+        "concentrateAttack": 45,
+        "concentrateDefence": 65,
+        "diffuseAttack": 100,
+        "diffuseDefence": 65,
+        "speed": 115,
+        "ability": [
+           {
+            "name": "鳴り響く縞",
+            "description": "残りHPが1/3以下の時 音属性の威力が上がる。"
+          },
+           {
+            "name": "兵法者",
+            "description": "威力60以下のスキルの威力が1.5倍になる。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "D",
+        "element1": "音",
+        "element2": "自然",
+        "hp": 100,
+        "concentrateAttack": 45,
+        "concentrateDefence": 125,
+        "diffuseAttack": 100,
+        "diffuseDefence": 75,
+        "speed": 50,
+        "ability": [
+           {
+             "name": "早目",
+             "description": "場に出た時 相手が持っている装飾品がわかる。"
+           },
+           {
+            "name": "五分の意地",
+            "description": "威力90以上のスキルへ 弾幕を撃ち返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "音",
+        "element2": "風",
+        "hp": 105,
+        "concentrateAttack": 125,
+        "concentrateDefence": 95,
+        "diffuseAttack": 50,
+        "diffuseDefence": 75,
+        "speed": 45,
+        "ability": [
+           {
+             "name": "同調",
+             "description": "歪属性のスキルを無効化し 状態異常を回復する。"
+           },
+           {
+             "name": "冷静沈着",
+             "description": "補助スキルを封じられない。"
+           }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      }
+    ],
+    "description": "九十九八橋の力を持つ人形。自ら音を発して演奏できる程度の能力を持つ。&br;琴の付喪神であり ゆったりとした曲を好む。弁々の人形とよく競い合っている。",
+    "cost": 80,
+    "spot": [
+      {
+        "name": "出現場所A",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所B（洞窟）",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所C（濃い草むら）",
+        "minLv": 0,
+        "maxLv": 0
+      }
+    ],
+    "fixSpot": [
+      {
+        "name": "出現場所：出現位置",
+        "minLv": 0,
+        "maxLv": 0,
+        "description": "ブーイングに注意等"
+      }
+    ],
+    "dropItem": [
+    ],
+    "abilityAnnotation": "※アビリティが吸音の場合、音は×&br;※アビリティが同調の場合、歪は×"
+  }
+}

@@ -12,11 +12,13 @@ http://wikiwiki.jp/enbu-ap/?%A5%C6%A5%F3%A5%D7%A5%EC%A1%BC%A5%C8%C5%F9%2F%BF%CD%
 
 ## JSONの見本
 resourceディレクトリ以下に見本がある
-minoriko.jsonやkisume.jsonが最新
+eris.jsonが最新
+
+skill-list.csvに定義されていない技はエラーになるため
+skill-list.csvの更新も必要
 
 ## 既知の問題点
-* スキル表が現在のスタンダードに対応していない
-* 前作非対応化
+* skill-list.csvにないスキルの扱い
 
 ## 外部リンク
 幻想人形演舞-攻略-wiki

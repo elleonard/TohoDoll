@@ -5,11 +5,13 @@ import utils.TableUtils
 case class DollData(doll: Doll){
   def toWiki = {
     doll.toWiki+"\n&br;\n"+doll.elementRateTable+"\n"+doll.skillTable+"\n"+doll.skillCardTable+"\n"+
-    "----\n*コメント[#comment]"
+    "----\n*コメント[#comment]\n"+
+    "#pComment("+doll.dollName+"/コメント,"+doll.dollName+"/コメント,below,reply)"
   }
 }
 
 case class Doll(
+  val dollName: String,
   val image: String,
   val caption: String,
   val style: Array[StyleStatus],
@@ -72,32 +74,64 @@ case class Doll(
   }
   /* スキル表 */
   def skillTable = {
-    /* スキル情報のリスト レベルソート */
-    val skillList: List[DollSkill] = style.flatMap( s =>
-      s.getSkillList match {
-        case Some(list) => list
+    /**
+     * ソートされたスキル一覧
+     */
+    def sortSkillList(skillList: Option[Array[DollSkill]]): List[DollSkill] = {
+      (skillList match {
+        case Some(list) => list.toList
         case None => List()
+      }).distinct.sortWith((s1, s2) => { s1.lv < s2.lv })
+    }
+    /**
+     * それぞれのスタイルのテーブルを取得
+     */
+    def getSkillTable(style: DollStyle,
+        skillList: List[DollSkill],
+        normalSkillList: List[DollSkill] = List()): String = {
+      style.symbol match {
+        case "N" => {
+            "||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c\n"+
+            "|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|\n"+
+            (skillList.isEmpty match {
+              case true => ""
+              case false => {
+                skillList.head.getWikiText(style, true)+"\n"+
+                (skillList.tail.map( sk =>
+                  sk.getWikiText(style, false)
+                ).mkString("\n")+"\n")
+              }
+            })
+        }
+        case _ => {
+          "#region(&color("+style.color+"){''"+style.styleName+"''};,open)\n"+
+          "&color("+style.color+"){''"+style.styleName+"''};\n"+
+          getSkillTable(DollStyle.Normal, normalSkillList)+
+          (skillList.isEmpty match {
+            case true => ""
+            case false => {
+              skillList.head.getWikiText(style, true)+"\n"+
+              skillList.tail.map( sk =>
+                sk.getWikiText(style, false)
+              ).mkString("\n")+"\n"
+            }
+          })+
+          "#endregion\n"
+        }
       }
-    ).toList.distinct.sortWith((s1,s2) => {
-      /* レベル順にソートされる */
-      s1.lv < s2.lv
-    })
-    /* スキルテーブル */
-    "*''スキル'' [#skill]\n"+
-      "|~習得Lv|~スタイル|~スキル名|~属性|~分類|~威力|~命中|~SP|~優先度|~効果|~取得PP|\n"+
-      skillList.map( sk =>
-        "|~Lv"+sk.lv+"|CENTER:"+
-          style.map(s =>
-            if(s.hasSkillLv(sk.name, sk.lv))
-              "&color("+s.getStyleColor+"){''"+s.styleSymbol+"''};"
-            else
-              ""
-          ).filter { x => x.nonEmpty }.mkString("/")+"|"+sk.nameInWiki+"|"+
-        DollElement.getWikiText(sk.element)+"|"+
-        sk.categoryWikiText+"|CENTER:"+sk.power+"|CENTER:"+sk.hit+
-        "|CENTER:"+sk.SP+"|CENTER:"+sk.priority+
-        "|"+sk.description+"|CENTER:"+sk.PP+"|"
-      ).mkString("\n")+"\n&br;"
+    }
+
+    /* ノーマルのテーブル */
+    val normalSkillList: List[DollSkill] = sortSkillList(style.head.getSkillList)
+
+    /* 全スタイルのテーブルテキストを返す */
+    style.map( s => {
+      s.getStyle match {
+        case Some(style) =>
+          getSkillTable(style, sortSkillList(s.getSkillList), normalSkillList)
+        case None => ""
+      }
+    }).mkString("\n")+"\n&br;"
   }
   /* スキルカード表 */
   def skillCardTable = {
@@ -106,11 +140,11 @@ case class Doll(
         style.filter { x => x.hasSkillCard }.flatMap( s => s.skillCard )
       }.toList.distinct.sorted
       "*''スキルカード'' [#card]\n"+
-        skillCardTableHeader+"\n"+skillCardTableSub
+        skillCardTableHeader+"\n"+skillCardTableSub(4)
     } else
       ""
   }
-  def skillCardTableSub: String = {
+  def skillCardTableSub(styleNum: Int = 4): String = {
     val concentrateList =
       SkillCard.concentrateAttack.filter(x => hasSkillCard(x.number))
     val diffuseList =
@@ -118,24 +152,25 @@ case class Doll(
     val specialList =
       SkillCard.special.filter(x => hasSkillCard(x.number))
 
+    def extraLine = {
+
+    }
+
     (for(i <- 0 until List(concentrateList.size, diffuseList.size, specialList.size).max) yield {
       (if(concentrateList.size > i){
         separatedSkillCardTable(concentrateList(i).number, concentrateList(i).getWikiText(i), i)
       }else {
-        "|~ |"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)+
-        "|"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)
+        "|~ |"+List.fill(styleNum+1)(TableUtils.evenLineColor(i)).mkString("|")
       })+
       (if(diffuseList.size > i){
         separatedSkillCardTable(diffuseList(i).number, diffuseList(i).getWikiText(i), i)
       }else {
-        "|~ |"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)+
-        "|"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)
+        "|~ |"+List.fill(styleNum+1)(TableUtils.evenLineColor(i)).mkString("|")
       })+
       (if(specialList.size > i){
         separatedSkillCardTable(specialList(i).number, specialList(i).getWikiText(i), i)
       }else {
-        "|~ |"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)+
-        "|"+TableUtils.evenLineColor(i)+"|"+TableUtils.evenLineColor(i)
+        "|~ |"+List.fill(styleNum+1)(TableUtils.evenLineColor(i)).mkString("|")
       })+"|\n"
     }).mkString
   }
@@ -149,6 +184,7 @@ case class Doll(
       ).mkString("|")
   }
   def skillCardTableHeader:String = {
+    "|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c\n"+
     (for(i <- 1 to 3) yield {
       "|~No.|~スキル名|"+
       style.filter { x => x.hasSkillCard }.map(s =>

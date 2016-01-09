@@ -1,0 +1,62 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(./Remilia_Scarlet.png,nolink, レミリア);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:40|RIGHT:60|RIGHT:35|RIGHT:70|RIGHT:40|RIGHT:70|CENTER:315|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:55|RIGHT:115|RIGHT:70|RIGHT:120|RIGHT:70|RIGHT:110|CENTER:540|
+|~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(orange):闘|>|>|RIGHT:70|RIGHT:70|RIGHT:80|RIGHT:110|RIGHT:80|RIGHT:130|CENTER:540|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:90|RIGHT:60|RIGHT:100|RIGHT:115|RIGHT:75|RIGHT:100|CENTER:540|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[霧隠れ]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|気象：濃霧の時 相手のスキルをかわしやすくなる。|
+|CENTER:[[深淵なる黒]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|残りHPが1/3以下の時 闇属性の威力が上がる。|
+|CENTER:[[突貫]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|追加効果のあるスキルの威力が1.3倍になるが 追加効果が発動しなくなる。|
+|CENTER:[[プライド]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|状態異常の時 散弾が１．５倍になる。恐怖状態でも散弾が低下しない。|
+|CENTER:[[霧中行]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|気象：濃霧の時 自分の俊敏が２倍になる。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:レミリア・スカーレットの力を持つ人形。運命を操る程度の能力を持つ。&br;吸血鬼の特性を受け継いでおり 太陽の光が届く場所にはいない。人間の血が好物。|120|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:紅魔館地下|>|>|CENTER:CENTER:0|>|>|CENTER:魔力の欠片&br;二折携帯ゲーム機&br;ビンテージワイン|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|調査中|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};|||&color(Blue){△};|×|&color(Red){◎};||&color(Red){◯};|&color(Red){◯};|&color(Blue){△};|||||&color(Blue){△};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){◎};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Forestgreen){''スピード''};|&color(Blue){△};||||&color(Blue){△};|&color(Red){◯};|&color(Red){◯};||&color(Red){◯};|&color(Blue){▲};|||&color(Red){◯};||&color(Red){◯};|&color(Blue){▲};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#region(&color(Red){''パワー''};,open)
+&color(Red){''パワー''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+#endregion
+
+#region(&color(Forestgreen){''スピード''};,open)
+&color(Forestgreen){''スピード''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|
+
+----
+*コメント[#comment]
+#pComment(レミリア/コメント,レミリア/コメント,below,reply)
