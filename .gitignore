@@ -3,4 +3,5 @@ target
 .cache
 .project
 .classpath
+.settings/
 log

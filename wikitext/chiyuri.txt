@@ -1,0 +1,80 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(,nolink, );|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:60|RIGHT:65|RIGHT:65|RIGHT:30|RIGHT:45|RIGHT:30|CENTER:295|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:95|RIGHT:100|RIGHT:120|RIGHT:45|RIGHT:80|RIGHT:45|CENTER:485|
+|~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:105|RIGHT:125|RIGHT:60|RIGHT:45|RIGHT:50|RIGHT:100|CENTER:485|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:80|RIGHT:45|RIGHT:80|RIGHT:100|RIGHT:130|RIGHT:50|CENTER:485|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>||
+|CENTER:[[収集癖]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|持っている装飾品をとられない。|
+|CENTER:[[冶金術]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|鋼鉄属性のスキルを無効化し集弾が一段階上がる。|
+|CENTER:[[撹乱]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|スキルを属性結界で阻んだ時相手の散弾一段階低下させる。|
+|CENTER:[[不惜身命]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|反動スキルの威力が1.2倍になる。|
+|CENTER:[[頑強]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|一撃で戦闘不能にならない。お互い一部のスキルを使えなくなる。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:北白河ちゆりの力を持つ人形。頭は良いはずなのだがあまり行動に現れない。&br;雑用を任せると意外と手際よく済ませてくれる。夢見の人形によく殴られている。|90|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:2の道（遺跡側）|>|>|CENTER:CENTER:0|>|>|CENTER:|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|調査中|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};||&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Red){○};|&color(Blue){△};|&color(Blue){△};||&color(Blue){△};|||&color(Red){○};||||||
+|BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Forestgreen){''スピード''};|&color(Blue){△};||||&color(Red){○};||&color(Blue){△};|&color(Blue){▲};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|||&color(Red){○};|&color(Blue){△};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
+※アビリティが冶金術の場合、''鋼鉄''は''×''
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+* スキル [#skill]
+#region(&color(Blue){''ディフェンス''};,open)
+&color(Blue){''ディフェンス''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+#region(&color(Forestgreen){''スピード''};,open)
+&color(Forestgreen){''スピード''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Forestgreen){''S''};|~~&color(Purple){''E''};|
+|~2|[[COLOR(Red):アクアジャベリン>アクアジャベリン]]||CENTER:''○''|CENTER:''○''||~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''|CENTER:''○''||~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~5|BGCOLOR(#F8FAFB):[[COLOR(Red):スパークジャベリン>スパークジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~44|BGCOLOR(#F8FAFB):[[COLOR(Blue):コールドレイン>コールドレイン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|
+|~6|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]||CENTER:''○''|CENTER:''○''||~45|[[COLOR(Blue):レイジィミスト>レイジィミスト]]||CENTER:''○''|CENTER:''○''||~65|[[無我の境地>無我の境地]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~8|BGCOLOR(#F8FAFB):[[COLOR(Red):オーバースキル>オーバースキル]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~49|BGCOLOR(#F8FAFB):[[COLOR(Blue):クロームレイ>クロームレイ]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~68|BGCOLOR(#F8FAFB):[[干ばつ>干ばつ]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|
+|~9|[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~50|[[COLOR(Blue):スマッシュスピン>スマッシュスピン]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~69|[[突風>突風]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~10|BGCOLOR(#F8FAFB):[[COLOR(Red):逆転の一手>逆転の一手]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~51|BGCOLOR(#F8FAFB):[[COLOR(Blue):雷帝インディグネイト>雷帝インディグネイト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~70|BGCOLOR(#F8FAFB):[[フィールドバリア>フィールドバリア]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|
+|~13|[[COLOR(Red):滝落>滝落]]||CENTER:''○''|CENTER:''○''||~52|[[COLOR(Blue):疾風迅雷>疾風迅雷]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~71|[[フィールドプロテクト>フィールドプロテクト]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~16|BGCOLOR(#F8FAFB):[[COLOR(Red):シューティングプレス>シューティングプレス]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~53|BGCOLOR(#F8FAFB):[[COLOR(Blue):サンダーフォース>サンダーフォース]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~72|BGCOLOR(#F8FAFB):[[幸運の虹>幸運の虹]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|
+|~17|[[COLOR(Red):グランドリベレイト>グランドリベレイト]]|||CENTER:''○''||~54|[[COLOR(Blue):スターフレア>スターフレア]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~78|[[コンティニュー>コンティニュー]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~18|BGCOLOR(#F8FAFB):[[COLOR(Red):ストーンスパイク>ストーンスパイク]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~59|BGCOLOR(#F8FAFB):[[COLOR(Blue):ギガンティック>ギガンティック]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~79|BGCOLOR(#F8FAFB):[[アップビート>アップビート]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|
+|~19|[[COLOR(Red):インパクトリベリオン>インパクトリベリオン]]||CENTER:''○''|CENTER:''○''||~61|[[COLOR(Blue):グラビティブラスト>グラビティブラスト]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~80|[[クレーム>クレーム]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||
+|~20|BGCOLOR(#F8FAFB):[[COLOR(Red):露払い>露払い]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~90|BGCOLOR(#F8FAFB):[[COLOR(Blue):オーバーラン>オーバーラン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~24|[[COLOR(Red):プラズマホール>プラズマホール]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~101-115|COLOR(Blue):属性符|CENTER:''○''|CENTER:''○''|CENTER:''○''||~ ||||||
+|~25|BGCOLOR(#F8FAFB):[[COLOR(Red):天光の舞>天光の舞]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~26|[[COLOR(Red):破邪の弓撃>破邪の弓撃]]|||CENTER:''○''||~ ||||||~ ||||||
+|~32|BGCOLOR(#F8FAFB):[[COLOR(Red):真空破断拳>真空破断拳]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~34|[[COLOR(Red):ブレイクショット>ブレイクショット]]|CENTER:''○''|CENTER:''○''|CENTER:''○''||~ ||||||~ ||||||
+|~87|BGCOLOR(#F8FAFB):[[COLOR(Red):雷切>雷切]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+----
+*コメント[#comment]
+#pComment(ちゆり/コメント,ちゆり/コメント,below,reply)

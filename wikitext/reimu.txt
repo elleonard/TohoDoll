@@ -1,0 +1,81 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(./gn_enbu_reimu(196x180).png,nolink, れいむ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:65|RIGHT:55|RIGHT:55|RIGHT:50|RIGHT:55|RIGHT:50|CENTER:330|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:110|RIGHT:90|RIGHT:90|RIGHT:65|RIGHT:90|RIGHT:90|CENTER:535|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:100|RIGHT:125|RIGHT:85|RIGHT:65|RIGHT:85|RIGHT:75|CENTER:535|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:85|RIGHT:110|RIGHT:70|RIGHT:80|RIGHT:65|RIGHT:125|CENTER:535|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[倹約家]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|使った符を取り戻すことがある。気象：凪の時 必ず取り戻す。|
+|CENTER:[[冷静沈着]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|	補助スキルを封じられない。|
+|CENTER:[[自祓]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|冥属性のスキルを無効化し　集弾が一段階上がる。|
+|CENTER:[[心眼]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|状態異常の時　集弾が１．５倍になる。暗闇状態でも集弾が低下しない。|
+|CENTER:[[怪天虹]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|気象：天気雨のときに集弾が１．３倍になる。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:博麗霊夢の力を持つ人形。空を飛ぶ程度の能力と霊力を操る程度の能力を持つ。&br;妖怪の力を持つ人形に強い。妖怪の人形を見るとグーで殴りかかる。|110|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:博麗神社|>|>|CENTER:CENTER:25～27|>|>|CENTER:魔力の欠片&br;銅銭|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|調査中|
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};|×||||||||&color(Blue){△};||||&color(Blue){△};|×|&color(Red){○};|&color(Red){○};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Red){''パワー''};|×||||&color(Blue){△};||&color(Red){○};||&color(Blue){△};|&color(Blue){▲};|||&color(Blue){△};|&color(Red){○};|&color(Red){◎};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+&color(Red){''パワー''};''スタイル''でアビリティが自祓の場合、''冥''は''×''。&br;&color(Red){※Ver1.011現在では不具合につき自祓でも冥属性を無効化できません！};
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+* スキル [#skill]
+#region(&color(Blue){''ディフェンス''};,open)
+&color(Blue){''ディフェンス''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+#region(&color(Red){''パワー''};,open)
+&color(Red){''パワー''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Blue){''D''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|
+|~6|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]||CENTER:''○''||CENTER:''○''|~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''||CENTER:''○''|~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|
+|~8|BGCOLOR(#F8FAFB):[[COLOR(Red):オーバースキル>オーバースキル]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~40|BGCOLOR(#F8FAFB):[[COLOR(Blue):天神の加護>天神の加護]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~9|[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|~41|[[COLOR(Blue):四神の加護>四神の加護]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|~65|[[無我の境地>無我の境地]]|CENTER:''○''|||CENTER:''○''|
+|~10|BGCOLOR(#F8FAFB):[[COLOR(Red):逆転の一手>逆転の一手]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~46|BGCOLOR(#F8FAFB):[[COLOR(Blue):彩光百花>彩光百花]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~66|BGCOLOR(#F8FAFB):[[足止め>足止め]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~14|[[COLOR(Red):飢餓の声>飢餓の声]]||CENTER:''○''|||~50|[[COLOR(Blue):スマッシュスピン>スマッシュスピン]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|~68|[[干ばつ>干ばつ]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|
+|~15|BGCOLOR(#F8FAFB):[[COLOR(Red):タンブルプラント>タンブルプラント]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~51|BGCOLOR(#F8FAFB):[[COLOR(Blue):雷帝インディグネイト>雷帝インディグネイト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~69|BGCOLOR(#F8FAFB):[[突風>突風]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~16|[[COLOR(Red):シューティングプレス>シューティングプレス]]||CENTER:''○''|||~59|[[COLOR(Blue):ギガンティック>ギガンティック]]||CENTER:''○''||CENTER:''○''|~70|[[フィールドバリア>フィールドバリア]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|
+|~17|BGCOLOR(#F8FAFB):[[COLOR(Red):グランドリベレイト>グランドリベレイト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~60|BGCOLOR(#F8FAFB):[[COLOR(Blue):アンノウンフレア>アンノウンフレア]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~71|BGCOLOR(#F8FAFB):[[フィールドプロテクト>フィールドプロテクト]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~21|[[COLOR(Red):幻想郷直撃タイフーン>幻想郷直撃タイフーン]]||CENTER:''○''||CENTER:''○''|~83|[[COLOR(Blue):迷霧散花>迷霧散花]]||||CENTER:''○''|~77|[[ミアズマ>ミアズマ]]||CENTER:''○''|||
+|~22|BGCOLOR(#F8FAFB):[[COLOR(Red):ショックスタンプ>ショックスタンプ]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~84|BGCOLOR(#F8FAFB):[[COLOR(Blue):インスティンクション>インスティンクション]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~78|BGCOLOR(#F8FAFB):[[コンティニュー>コンティニュー]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~25|[[COLOR(Red):天光の舞>天光の舞]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|~85|[[COLOR(Blue):フィールドブレイク>フィールドブレイク]]||||CENTER:''○''|~79|[[アップビート>アップビート]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|
+|~26|BGCOLOR(#F8FAFB):[[COLOR(Red):破邪の弓撃>破邪の弓撃]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~90|BGCOLOR(#F8FAFB):[[COLOR(Blue):オーバーラン>オーバーラン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~80|BGCOLOR(#F8FAFB):[[クレーム>クレーム]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~34|[[COLOR(Red):ブレイクショット>ブレイクショット]]|CENTER:''○''|CENTER:''○''||CENTER:''○''|~93|[[COLOR(Blue):スピニングエア>スピニングエア]]||||CENTER:''○''|~99|[[ショックパライズ>ショックパライズ]]||||CENTER:''○''|
+|~36|BGCOLOR(#F8FAFB):[[COLOR(Red):奈落の花>奈落の花]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~101-115|BGCOLOR(#F8FAFB):COLOR(Blue):属性符|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~37|[[COLOR(Red):セントエルモの火>セントエルモの火]]||CENTER:''○''|||~ ||||||~ ||||||
+|~81|BGCOLOR(#F8FAFB):[[COLOR(Red):ディストーションボム>ディストーションボム]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~82|[[COLOR(Red):ステルスマーダー>ステルスマーダー]]||||CENTER:''○''|~ ||||||~ ||||||
+|~86|BGCOLOR(#F8FAFB):[[COLOR(Red):飛翔乱舞>飛翔乱舞]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~88|[[COLOR(Red):ダンシングソード>ダンシングソード]]||||CENTER:''○''|~ ||||||~ ||||||
+|~89|BGCOLOR(#F8FAFB):[[COLOR(Red):ハイトーンクラッシュ>ハイトーンクラッシュ]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+----
+*コメント[#comment]
+#pComment(れいむ/コメント,れいむ/コメント,below,reply)

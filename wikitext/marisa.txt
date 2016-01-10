@@ -14,29 +14,28 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:魔法の森(玄武の沢から行けるエリア)|>|>|CENTER:CENTER:0|>|>|CENTER:ITEM1&br;ITEM2|
 |>|>|>|>|>|>|>|CENTER:博麗神社裏山の洞窟|>|>|CENTER:CENTER:0|>|>|~|
-
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
 |~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
-|CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};||||&color(Red){◯};||&color(Blue){△};|&color(Blue){▲};|&color(Blue){△};|&color(Red){◯};|&color(Blue){△};|||&color(Red){◯};|&color(Blue){△};|||
-|BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◯};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
-|CENTER:&color(Red){''パワー''};|&color(Blue){▲};|||||&color(Red){◯};||&color(Blue){△};|||&color(Blue){△};||&color(Red){◯};|&color(Red){◯};|&color(Blue){△};|&color(Blue){△};||
+|CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};||||&color(Red){○};||&color(Blue){△};|&color(Blue){▲};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|||&color(Red){○};|&color(Blue){△};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Red){''パワー''};|&color(Blue){▲};|||||&color(Red){○};||&color(Blue){△};|||&color(Blue){△};||&color(Red){○};|&color(Red){○};|&color(Blue){△};|&color(Blue){△};||
 
 &color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
 &br;
-||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
-|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-
+* スキル [#skill]
 #region(&color(Forestgreen){''スピード''};,open)
 &color(Forestgreen){''スピード''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
 #endregion
 
 #region(&color(Red){''パワー''};,open)
 &color(Red){''パワー''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+
 #endregion
 
 &br;

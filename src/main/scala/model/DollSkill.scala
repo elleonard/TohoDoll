@@ -12,12 +12,22 @@ case class DollSkill(
     case Some(e) => e
   }
 
-  def getWikiText(style: DollStyle,first: Boolean) = {
+  /**
+   * wikiに表示する際のテキストを返す
+   *
+   * @params style DollStyle このスキルを覚えるスタイル
+   * @params first Boolean
+   * @params ommitLv Boolean レベルを省略するかどうか
+   */
+  def getWikiText(style: DollStyle,first: Boolean, ommitLv: Boolean = false) = {
     "|~"+(first match {
       case true =>
         "&color("+style.color+"){''"+style.symbol+"''};"
       case false => ""
-    })+"|~Lv"+lv+"|"+nameInWiki+"|"+
+    })+"|~"+(ommitLv match {
+      case true => ""
+      case false => "Lv"+lv
+    })+"|"+nameInWiki+"|"+
     DollElement.getWikiText(element)+"|"+
     categoryWikiText+"|"+buen+"|"+power+"|"+hit+
     "|"+SP+"|"+priority+

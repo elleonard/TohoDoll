@@ -1,6 +1,7 @@
 package model
 
 import utils.TableUtils
+import scala.collection.immutable.TreeMap
 
 case class DollData(doll: Doll){
   def toWiki = {
@@ -54,7 +55,7 @@ case class Doll(
       spot(0).toWiki+"CENTER:"+dropItem.mkString("&br;")+"|\n"+
       (spot.tail.map(s =>
         s.toWiki+"~|"
-      ).mkString("\n"))+"\n"+
+      ).mkString("\n"))+
       (fixSpot match {
         case null => ""
         case _ =>
@@ -89,6 +90,23 @@ case class Doll(
     def getSkillTable(style: DollStyle,
         skillList: List[DollSkill],
         normalSkillList: List[DollSkill] = List()): String = {
+      /**
+       * 行をレベルでグルーピングして返す
+       */
+      def getSkillTableLineGroupsByLv(skillList: List[DollSkill], style: DollStyle) = {
+        skillList.groupBy(_.lv).mapValues(groupByLv =>
+          groupByLv.head.lv match {
+            case 1 => groupByLv.map( skill =>
+              skill.getWikiText(style, false, true)).mkString("\n")+"\n"
+            case _ => {
+              groupByLv.head.getWikiText(style, false)+"\n"+
+                (groupByLv.tail.map(skill =>
+                  skill.getWikiText(style, false, true)).mkString("\n"))
+            }
+          }
+        ).toSeq.sortWith(_._1 < _._1).map(grouped => grouped._2).mkString
+      }
+
       style.symbol match {
         case "N" => {
             "||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c\n"+
@@ -97,9 +115,12 @@ case class Doll(
               case true => ""
               case false => {
                 skillList.head.getWikiText(style, true)+"\n"+
+                getSkillTableLineGroupsByLv(skillList.tail, style)
+                /*
                 (skillList.tail.map( sk =>
                   sk.getWikiText(style, false)
                 ).mkString("\n")+"\n")
+                */
               }
             })
         }
@@ -111,12 +132,14 @@ case class Doll(
             case true => ""
             case false => {
               skillList.head.getWikiText(style, true)+"\n"+
+              getSkillTableLineGroupsByLv(skillList.tail, style)
+              /*
               skillList.tail.map( sk =>
                 sk.getWikiText(style, false)
               ).mkString("\n")+"\n"
+              */
             }
-          })+
-          "#endregion\n"
+          })+"\n#endregion\n"
         }
       }
     }
@@ -124,14 +147,15 @@ case class Doll(
     /* ノーマルのテーブル */
     val normalSkillList: List[DollSkill] = sortSkillList(style.head.getSkillList)
 
-    /* 全スタイルのテーブルテキストを返す */
-    style.map( s => {
+    /* ノーマルのテーブルテキストをマージして返す */
+    "* スキル [#skill]\n"+
+    (style.tail.map( s => {
       s.getStyle match {
         case Some(style) =>
           getSkillTable(style, sortSkillList(s.getSkillList), normalSkillList)
         case None => ""
       }
-    }).mkString("\n")+"\n&br;"
+    }).mkString("\n")+"\n&br;")
   }
   /* スキルカード表 */
   def skillCardTable = {
@@ -264,7 +288,7 @@ case class StyleStatus(
     /* 対応するマークを返す */
     rate match {
       case 4 => "&color(Red){◎};"
-      case 2 => "&color(Red){◯};"
+      case 2 => "&color(Red){○};"
       case 0.5 => "&color(Blue){△};"
       case 0.25 => "&color(Blue){▲};"
       case 0 => "×"
