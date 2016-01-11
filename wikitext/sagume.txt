@@ -17,11 +17,12 @@
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:稀神サグメの力を持つ人形。口に出すと事態を逆転させる程度の能力を持つ。頭がよく切れ者。&br;能力の所為で基本は無口。ただし事態が好転しそうなときは饒舌になったりする。|120|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:月の都|>|>|CENTER:CENTER:18～20|>|>|CENTER:魔力の欠片|
+
 |>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
 |>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||||&color(Blue){△};|&color(Red){○};||&color(Red){○};|||||&color(Blue){△};|&color(Blue){△};|||&color(Blue){△};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◎};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Blue){''ディフェンス''};||||&color(Blue){△};|&color(Red){◎};|||&color(Blue){△};||||&color(Blue){△};|&color(Blue){△};|||&color(Blue){△};||
@@ -84,7 +85,7 @@
 |~&color(Purple){''E''};|~Lv1|[[呪い返し]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|-|20|0|自分と相手のHPを合わせてそれを自分と相手で分ける。|5|
 |~|~|[[マインドコントロール]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|100|15|0|相手のアビリティを自分と同じにする。|6|
 |~|~|[[気象発現「天気雨」]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|-|10|0|気象を天気雨にする。|10|
-|~|~|[[低速移動]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|10|0|自分の集弾と集防を上げて俊敏を下げる。|10|
+|~|~|[[低速移動]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|10|0|自分の集弾と集防を上げて俊敏を下げる。|10|
 |~|~Lv30|[[COLOR(Red):時の螺旋>時の螺旋]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Red){集中};|EN|60|-|20|0|必ず攻撃が当たる。|6|
 |~|~Lv36|[[COLOR(Red):ダンシングライン>ダンシングライン]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|BU|75|95|10|0|５割の確率で相手の集防を下げる。|13|
 |~|~Lv42|[[COLOR(Red):トリックスター>トリックスター]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Red){集中};|BU|40|100|20|1|相手に対して先制できる。|7|

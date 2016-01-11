@@ -4,7 +4,7 @@
 |>|&attachref(,nolink, );|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
 |~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
 |~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:60|RIGHT:55|RIGHT:40|RIGHT:65|RIGHT:40|RIGHT:40|CENTER:300|
-|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:100|RIGHT:70|RIGHT:90|RIGHT:95|RIGHT:75|RIGHT:80|CENTER:510|
+|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:100|RIGHT:70|RIGHT:90|RIGHT:95|RIGHT:75|RIGHT:60|CENTER:490|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(orange):闘|>|>|RIGHT:90|RIGHT:130|RIGHT:90|RIGHT:40|RIGHT:90|RIGHT:50|CENTER:490|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(silver):鋼鉄|>|>|RIGHT:90|RIGHT:50|RIGHT:70|RIGHT:120|RIGHT:65|RIGHT:95|CENTER:490|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
@@ -19,11 +19,12 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
 |>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
-|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
 |>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};|||&color(Blue){△};||||&color(Red){○};|&color(Red){○};|&color(Red){○};|&color(Red){○};||&color(Blue){△};|×|&color(Blue){△};|&color(Blue){△};|||
 |BGCOLOR(#F8FAFB):CENTER:&color(Deeppink){''アシスト''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Red){''パワー''};|||&color(Blue){△};||&color(Blue){△};||&color(Red){◎};|&color(Red){○};||&color(Blue){△};|&color(Blue){△};|||||&color(Blue){△};||
@@ -36,7 +37,7 @@
 &color(Deeppink){''アシスト''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
+|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
 |~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Blue):人魂ウォーキング>人魂ウォーキング]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を恐怖状態にする。|3|
 |~|~Lv10|[[COLOR(Blue):円舞曲>円舞曲]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|65|100|20|0|１割の確率で自分の能力をランダムに１つ上げる。|5|
@@ -44,7 +45,7 @@
 |~|~Lv19|[[COLOR(Blue):ブラッディストーム>ブラッディストーム]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Blue){拡散};|EN|70|100|20|0|１割の確率で相手をひるませる。|5|
 |~|~Lv24|[[COLOR(Blue):夢幻のメロディー>夢幻のメロディー]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|60|-|15|0|必ず攻撃が当たる。|8|
 |~&color(Deeppink){''A''};|~Lv1|[[ア・テンポ]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|30|0|全員の能力変化を元に戻す。|3|
-|~|~|[[二段構え]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|40|0|控えの人形と入れ替わる能力変化は替わった人形がそのまま受け継ぐ。|2|
+|~|~|[[二段構え]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|40|0|控えの人形と入れ替わる能力変化は替わった人形がそのまま受け継ぐ。|2|
 |~|~|[[ブーイング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|-6|控えの人形をひきずり出す。|5|
 |~|~Lv30|[[COLOR(Blue):ソウルイート>ソウルイート]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Blue){拡散};|BU|60|100|10|0|１割の確率で自分のすべての能力が上がる。|13|
 |~|~Lv36|[[ハピネスダンス]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|0|自分の集防と散防を上げる。|6|
@@ -60,7 +61,7 @@
 &color(Red){''パワー''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
+|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
 |~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Blue):人魂ウォーキング>人魂ウォーキング]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を恐怖状態にする。|3|
 |~|~Lv10|[[COLOR(Blue):円舞曲>円舞曲]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|65|100|20|0|１割の確率で自分の能力をランダムに１つ上げる。|5|
@@ -85,7 +86,7 @@
 &color(Purple){''エクストラ''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
+|~&color(Chocolate){''N''};|~Lv1|[[チューニング]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の散弾を上げる。|3|
 |~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Blue):人魂ウォーキング>人魂ウォーキング]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を恐怖状態にする。|3|
 |~|~Lv10|[[COLOR(Blue):円舞曲>円舞曲]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|65|100|20|0|１割の確率で自分の能力をランダムに１つ上げる。|5|
@@ -94,14 +95,14 @@
 |~|~Lv24|[[COLOR(Blue):夢幻のメロディー>夢幻のメロディー]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|60|-|15|0|必ず攻撃が当たる。|8|
 |~&color(Purple){''E''};|~Lv1|[[ア・テンポ]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|30|0|全員の能力変化を元に戻す。|3|
 |~|~|[[気象発現「凪」]]|CENTER:BGCOLOR(lawngreen):風|CENTER:変化|なし|-|-|10|0|気象を凪にする。|10|
-|~|~|[[もったいない精神]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|10|0|一度使った装飾品をもう一度使うことができる。|10|
+|~|~|[[もったいない精神]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|10|0|一度使った装飾品をもう一度使うことができる。|10|
 |~|~|[[地相発現「白虎」]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|10|0|地相を白虎にする。|10|
 |~|~Lv30|[[COLOR(Blue):クロームレイ>クロームレイ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|EN|90|100|15|0|１割の確率で相手の散防を下げる。|8|
 |~|~Lv36|[[COLOR(Blue):ハウンドノイズ>ハウンドノイズ]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|75|95|10|0|５割の確率で相手の散防を下げる。|13|
 |~|~Lv42|[[COLOR(Blue):銀色の雨>銀色の雨]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|EN|95|100|15|0|１割の確率で自分の散弾を上げる。|9|
 |~|~Lv49|[[ブレイブソング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|0|自分の散弾を大きく上げる。|7|
 |~|~Lv56|[[COLOR(Blue):ウルトラハイトーン>ウルトラハイトーン]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|BU|95|100|15|0|１割の確率で自分の能力をランダムに１つ上げる。|10|
-|~|~Lv63|[[二段構え]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|40|0|控えの人形と入れ替わる能力変化は替わった人形がそのまま受け継ぐ。|4|
+|~|~Lv63|[[二段構え]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|40|0|控えの人形と入れ替わる能力変化は替わった人形がそのまま受け継ぐ。|4|
 |~|~Lv70|[[COLOR(Blue):弾幕オーケストラ>弾幕オーケストラ]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|120|85|5|0|通常攻撃。|34|
 |~|~|[[COLOR(Blue):ヴォルケイノ>ヴォルケイノ]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
 |~|~|[[精神歪曲]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|80|10|0|相手を暗闇と混乱状態にする。|17|

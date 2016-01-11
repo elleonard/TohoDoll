@@ -16,9 +16,10 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:人間の里|>|>|CENTER:CENTER:5～7|>|>|CENTER:時計|
 
+
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||&color(Red){○};|||&color(Red){○};|&color(Blue){△};|&color(Blue){△};|||||×|&color(Red){○};|&color(Blue){△};||&color(Red){○};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Blue){''ディフェンス（ハクタク）''};||&color(Red){○};||||&color(Blue){△};||||&color(Blue){△};||×|&color(Red){○};|&color(Blue){△};|&color(Red){○};|||
@@ -31,12 +32,12 @@
 &color(Blue){''ディフェンス''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
+|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ハンマー投げ>ハンマー投げ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BUEN|65|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
-|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
+|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
+|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
 |~|~Lv24|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|75|100|15|0|1割の確率で相手を混乱状態にする。|8|
 |~&color(Blue){''D''};|~Lv30|[[COLOR(Red):崩山掌>崩山掌]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BUEN|-|100|20|0|相手のコストが高いほど威力が高くなる。|5|
 |~|~Lv30|[[COLOR(Red):ばくれつゲンコツ>ばくれつゲンコツ]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BUEN|120|50|5|0|相手を混乱にする。|20|
@@ -53,12 +54,12 @@
 &color(Blue){''ディフェンス（ハクタク）''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
+|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ハンマー投げ>ハンマー投げ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BUEN|65|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
-|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
+|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
+|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
 |~|~Lv24|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|75|100|15|0|1割の確率で相手を混乱状態にする。|8|
 
 #endregion
@@ -67,12 +68,12 @@
 &color(Red){''パワー''};
 ||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
 |~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
-|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
+|~&color(Chocolate){''N''};|~Lv1|[[防壁強化]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|35|0|自分の集防を上げる。|2|
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ハンマー投げ>ハンマー投げ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BUEN|65|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
-|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
+|~|~Lv14|[[COLOR(Red):牙突>牙突]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|70|100|20|0|相手の能力変化を無視して攻撃する。|5|
+|~|~Lv19|[[COLOR(Red):急襲>急襲]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BUEN|40|100|10|3|先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。|11|
 |~|~Lv24|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|75|100|15|0|1割の確率で相手を混乱状態にする。|8|
 |~&color(Red){''P''};|~Lv30|[[月の加護]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の散弾と散防を上げる。|6|
 |~|~Lv36|[[マナの恵み]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|なし|-|-|10|0|最大HPの半分回復する。|13|

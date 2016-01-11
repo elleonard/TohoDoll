@@ -5,7 +5,7 @@
 |~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
 |~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(lawngreen):風||>|>|RIGHT:50|RIGHT:50|RIGHT:60|RIGHT:35|RIGHT:40|RIGHT:30|CENTER:265|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(lawngreen):風||>|>|RIGHT:100|RIGHT:100|RIGHT:95|RIGHT:50|RIGHT:95|RIGHT:35|CENTER:475|
-|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(pink):COLOR(white):無|>|>|RIGHT:95|RIGHT:70|RIGHT:100|RIGHT:70|RIGHT:65|RIGHT:75|CENTER:475|
+|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(pink):無|>|>|RIGHT:95|RIGHT:70|RIGHT:100|RIGHT:70|RIGHT:65|RIGHT:75|CENTER:475|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(blue):COLOR(white):歪|>|>|RIGHT:80|RIGHT:40|RIGHT:60|RIGHT:120|RIGHT:105|RIGHT:70|CENTER:475|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
 |CENTER:[[吹き荒ぶ萌黄]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|残りHPが1/3以下の時 風属性の威力が上がる。|
@@ -18,11 +18,12 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
 |>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
-|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
 |>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||||&color(Blue){△};|×|&color(Red){○};||&color(Red){○};|||||&color(Blue){△};||&color(Blue){△};|&color(Red){○};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Deeppink){''アシスト''};||||&color(Blue){△};|×|&color(Red){○};||&color(Red){○};||&color(Red){○};|||&color(Blue){△};|×|&color(Blue){△};|&color(Red){○};||

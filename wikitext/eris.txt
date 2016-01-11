@@ -17,11 +17,12 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
 |>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
-|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
 |>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};||||&color(Red){○};|&color(Red){○};|&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|||&color(Red){○};|||&color(Blue){△};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Red){''パワー''};|&color(Blue){△};|||&color(Blue){△};|&color(Red){○};|&color(Red){○};|&color(Red){○};||&color(Red){○};|&color(Blue){△};||&color(Blue){△};||||&color(Blue){▲};||
@@ -38,7 +39,7 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ダークボール>ダークボール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|55|100|25|0|１割の確率で相手を暗闇状態にする。|4|
 |~|~Lv10|[[COLOR(Red):スパークショット>スパークショット]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|EN|55|100|25|0|１割の確率で相手を麻痺状態にする。|4|
-|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
+|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
 |~|~Lv19|[[甘い悪夢]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|90|15|0|相手を暗闇状態にする。|7|
 |~|~Lv24|[[COLOR(Red):ダークアロー>ダークアロー]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|50|90|10|0|２回連続して攻撃する。|12|
 
@@ -52,7 +53,7 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ダークボール>ダークボール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|55|100|25|0|１割の確率で相手を暗闇状態にする。|4|
 |~|~Lv10|[[COLOR(Red):スパークショット>スパークショット]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|EN|55|100|25|0|１割の確率で相手を麻痺状態にする。|4|
-|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
+|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
 |~|~Lv19|[[甘い悪夢]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|90|15|0|相手を暗闇状態にする。|7|
 |~|~Lv24|[[COLOR(Red):ダークアロー>ダークアロー]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|50|90|10|0|２回連続して攻撃する。|12|
 |~&color(Red){''P''};|~Lv1|[[COLOR(Blue):無限の闇>無限の闇]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Blue){拡散};|EN|20|100|20|0|４～５ターンのあいだ相手を閉じ込めて攻撃する。|5|
@@ -71,7 +72,7 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ダークボール>ダークボール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|55|100|25|0|１割の確率で相手を暗闇状態にする。|4|
 |~|~Lv10|[[COLOR(Red):スパークショット>スパークショット]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|EN|55|100|25|0|１割の確率で相手を麻痺状態にする。|4|
-|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
+|~|~Lv14|[[COLOR(Red):影走り>影走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|30|100|10|2|相手に先制して攻撃する。&br;相手の防御結界を無視できる。|11|
 |~|~Lv19|[[甘い悪夢]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|90|15|0|相手を暗闇状態にする。|7|
 |~|~Lv24|[[COLOR(Red):ダークアロー>ダークアロー]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|50|90|10|0|２回連続して攻撃する。|12|
 

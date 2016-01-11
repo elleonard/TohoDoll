@@ -55,7 +55,7 @@ case class Doll(
       spot(0).toWiki+"CENTER:"+dropItem.mkString("&br;")+"|\n"+
       (spot.tail.map(s =>
         s.toWiki+"~|"
-      ).mkString("\n"))+
+      ).mkString("\n"))+"\n"+
       (fixSpot match {
         case null => ""
         case _ =>

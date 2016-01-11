@@ -1,7 +1,7 @@
 [[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
 *基本情報 [#outline]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
-|>|&attachref(,nolink, );|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|>|&attachref(./ユメノカケラよりひめ.png,nolink, よりひめ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
 |~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
 |~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(silver):鋼鉄|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:65|RIGHT:70|RIGHT:50|RIGHT:55|RIGHT:45|RIGHT:65|CENTER:350|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(silver):鋼鉄|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:100|RIGHT:120|RIGHT:85|RIGHT:100|RIGHT:70|RIGHT:105|CENTER:580|
@@ -18,9 +18,10 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:月の都|>|>|CENTER:CENTER:0|>|>|CENTER:砂金|
 
+
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};|&color(Red){○};|||&color(Red){○};|&color(Blue){△};|&color(Blue){△};|&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|×|&color(Red){○};||&color(Blue){△};|&color(Red){○};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Forestgreen){''スピード''};||&color(Red){○};|||&color(Red){◎};|&color(Blue){△};|&color(Blue){▲};|&color(Blue){△};||||×|&color(Red){○};|&color(Blue){△};||&color(Red){○};||
@@ -37,11 +38,11 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ザ・リッパー>ザ・リッパー]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|95|25|0|痛烈な一撃が出やすい。|4|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
+|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
 |~|~Lv19|[[COLOR(Red):返しの刃>返しの刃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|-|20|0|必ず攻撃が当たる。|5|
 |~|~Lv24|[[COLOR(Red):天光の舞>天光の舞]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|60|100|10|0|何らかの気象の時威力を２倍にし気象を解除する。|12|
 |~&color(Red){''P''};|~Lv1|[[八幡神の加護]]|CENTER:BGCOLOR(orange):闘|CENTER:変化|なし|-|-|30|0|自分の痛烈補正を大きく上げる。|3|
-|~|~|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
+|~|~|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
 |~|~|[[地相発現「朱雀」]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|-|10|0|地相を朱雀にする。|10|
 |~|~Lv30|[[COLOR(Red):ダンシングソード>ダンシングソード]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|13|
 |~|~Lv36|[[COLOR(Blue):ラストスラッシュ>ラストスラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|BUEN|100|100|5|0|攻撃した後体勢を崩してしまう。|9|
@@ -63,7 +64,7 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ザ・リッパー>ザ・リッパー]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|95|25|0|痛烈な一撃が出やすい。|4|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
+|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
 |~|~Lv19|[[COLOR(Red):返しの刃>返しの刃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|-|20|0|必ず攻撃が当たる。|5|
 |~|~Lv24|[[COLOR(Red):天光の舞>天光の舞]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|60|100|10|0|何らかの気象の時威力を２倍にし気象を解除する。|12|
 |~&color(Forestgreen){''S''};|~Lv1|[[八幡神の加護]]|CENTER:BGCOLOR(orange):闘|CENTER:変化|なし|-|-|30|0|自分の痛烈補正を大きく上げる。|3|
@@ -88,17 +89,17 @@
 |~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
 |~|~Lv7|[[COLOR(Red):ザ・リッパー>ザ・リッパー]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|95|25|0|痛烈な一撃が出やすい。|4|
 |~|~Lv10|[[COLOR(Red):エンジェルラダー>エンジェルラダー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|70|90|20|0|２割の確率で相手の命中を下げる。|5|
-|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
+|~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
 |~|~Lv19|[[COLOR(Red):返しの刃>返しの刃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|-|20|0|必ず攻撃が当たる。|5|
 |~|~Lv24|[[COLOR(Red):天光の舞>天光の舞]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|60|100|10|0|何らかの気象の時威力を２倍にし気象を解除する。|12|
-|~&color(Purple){''E''};|~Lv1|[[先読み]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|20|0|威力を1.5倍で相手がだそうとするスキルを先に出す。先に出せないと失敗する。|5|
+|~&color(Purple){''E''};|~Lv1|[[先読み]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|20|0|威力を1.5倍で相手がだそうとするスキルを先に出す。先に出せないと失敗する。|5|
 |~|~|[[奮闘之構]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|20|0|自分の集弾を大きく上げる。|5|
-|~|~|[[COLOR(Red):奥の手>奥の手]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|140|100|5|0|このスキルは自分の持つ他のスキルをすべて使うと使えるようになる。|20|
+|~|~|[[COLOR(Red):奥の手>奥の手]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|140|100|5|0|このスキルは自分の持つ他のスキルをすべて使うと使えるようになる。|20|
 |~|~Lv30|[[COLOR(Blue):フラッシュオーバー>フラッシュオーバー]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|80|100|20|0|3割の確率で相手を火傷状態にする。|6|
 |~|~Lv36|[[COLOR(Blue):疾風迅雷>疾風迅雷]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Blue){拡散};|BU|70|100|15|0|攻撃後控え人形と入れ替わる。ダメージを与えられなかった時交代できない。野良人形との戦闘は終わる。|9|
 |~|~Lv42|[[COLOR(Red):烈火>烈火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|-|100|10|0|自分のコストが相手より高いほど威力が高くなる。|14|
 |~|~Lv49|[[ショックパライズ]]|CENTER:BGCOLOR(gold):雷|CENTER:変化|なし|-|85|10|0|相手を感電状態にする。大地属性には効かない。|14|
-|~|~Lv56|[[応急手当]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|10|
+|~|~Lv56|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|10|
 |~|~Lv63|[[COLOR(Red):雷切>雷切]]|CENTER:BGCOLOR(lawngreen):風|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で自分の俊敏を上げる。|10|
 |~|~Lv70|[[不知火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|85|10|0|相手を火傷と暗闇状態にする。|17|
 |~|~|[[COLOR(Blue):雷帝インディグネイト>雷帝インディグネイト]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Blue){拡散};|EN|120|85|5|0|１割の確率で相手を麻痺状態にする。|34|

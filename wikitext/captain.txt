@@ -18,9 +18,10 @@
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:命蓮寺|>|>|CENTER:CENTER:14～16|>|>|CENTER:-|
 
+
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||&color(Blue){△};|&color(Blue){△};|&color(Red){○};||&color(Blue){△};||&color(Red){○};|&color(Blue){△};|||&color(Red){○};||||||
 |BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){◎};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Blue){''ディフェンス''};||&color(Blue){△};|&color(Blue){△};|&color(Red){○};||&color(Blue){△};||&color(Red){○};||&color(Red){○};|&color(Red){○};||×|&color(Blue){△};||||
@@ -40,7 +41,7 @@
 |~|~Lv14|[[呪詛]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|100|20|0|直前にだしていたスキルを４ターンのあいだ使えなくする。|5|
 |~|~Lv19|[[シャドウパワー]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|-|20|0|自分の集弾と集防を上げる。|5|
 |~|~Lv24|[[COLOR(Red):アクアカッター>アクアカッター]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Red){集中};|BU|40|100|20|1|相手に対して先制できる。|4|
-|~&color(Red){''P''};|~Lv1|[[COLOR(Red):奥の手>奥の手]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|140|100|5|0|このスキルは自分の持つ他のスキルをすべて使うと使えるようになる。|20|
+|~&color(Red){''P''};|~Lv1|[[COLOR(Red):奥の手>奥の手]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|140|100|5|0|このスキルは自分の持つ他のスキルをすべて使うと使えるようになる。|20|
 |~|~|[[COLOR(Red):ソウルハウンド>ソウルハウンド]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|EN|60|-|20|0|必ず攻撃が当たる。|5|
 |~|~|[[お化けごっこ]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|-|10|0|闇属性のスキルが当たらなくなる。|10|
 |~|~|[[エンカレッジ]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|100|5|0|相手が最後に使ったスキルを3ターンのあいだずっとださせる。|20|
@@ -52,7 +53,7 @@
 |~|~Lv63|[[COLOR(Red):鉄塊フルクラッシュ>鉄塊フルクラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|150|80|5|0|与えたダメージの半分のダメージを受ける。|32|
 |~|~Lv70|[[COLOR(Red):好調ビッグウェーブ>好調ビッグウェーブ]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Red){集中};|BU|120|85|5|0|通常攻撃。|17|
 |~|~|[[COLOR(Red):爆音フルバースト>爆音フルバースト]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|EN|120|100|5|0|攻撃後自分の集弾と集防が下がる。|34|
-|~|~|[[威風堂々]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|20|0|自分の集弾と俊敏を上げる。|8|
+|~|~|[[威風堂々]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|20|0|自分の集弾と俊敏を上げる。|8|
 #endregion
 
 #region(&color(Blue){''ディフェンス''};,open)
@@ -103,7 +104,7 @@
 |~|~Lv70|[[COLOR(Blue):桜吹雪>桜吹雪]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Blue){拡散};|BU|120|85|5|0|1割の確率で相手を衰弱状態にする。|34|
 |~|~|[[COLOR(Blue):彩光百花>彩光百花]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Blue){拡散};|EN|120|100|10|0|1ターン目で力を溜め2ターン目に攻撃する。気象が極光の時力を溜めずに使える。|17|
 |~|~|[[COLOR(Blue):迷霧散花>迷霧散花]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Blue){拡散};|EN|120|100|10|0|１ターン目に力を溜め２ターン目に攻撃する。気象が濃霧の時力を溜めずに使える。|17|
-|~|~|[[COLOR(Red):不動心>不動心]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|EN|130|100|10|0|1ターン目で力を溜め自分の集防を上げる。2ターン目に攻撃する。|17|
+|~|~|[[COLOR(Red):不動心>不動心]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|EN|130|100|10|0|1ターン目で力を溜め自分の集防を上げる。2ターン目に攻撃する。|17|
 #endregion
 
 &br;

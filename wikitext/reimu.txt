@@ -3,8 +3,8 @@
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
 |>|&attachref(./gn_enbu_reimu(196x180).png,nolink, れいむ);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
 |~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
-|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:65|RIGHT:55|RIGHT:55|RIGHT:50|RIGHT:55|RIGHT:50|CENTER:330|
-|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:110|RIGHT:90|RIGHT:90|RIGHT:65|RIGHT:90|RIGHT:90|CENTER:535|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:65|RIGHT:55|RIGHT:55|RIGHT:50|RIGHT:55|RIGHT:50|CENTER:330|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:110|RIGHT:90|RIGHT:90|RIGHT:65|RIGHT:90|RIGHT:90|CENTER:535|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:100|RIGHT:125|RIGHT:85|RIGHT:65|RIGHT:85|RIGHT:75|CENTER:535|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:85|RIGHT:110|RIGHT:70|RIGHT:80|RIGHT:65|RIGHT:125|CENTER:535|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
@@ -17,11 +17,12 @@
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:博麗霊夢の力を持つ人形。空を飛ぶ程度の能力と霊力を操る程度の能力を持つ。&br;妖怪の力を持つ人形に強い。妖怪の人形を見るとグーで殴りかかる。|110|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
 |>|>|>|>|>|>|>|CENTER:博麗神社|>|>|CENTER:CENTER:25～27|>|>|CENTER:魔力の欠片&br;銅銭|
-|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
 |>|>|>|>|>|>|>|CENTER:調査中|>|>|CENTER:CENTER:0|>|>|調査中|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};|×||||||||&color(Blue){△};||||&color(Blue){△};|×|&color(Red){○};|&color(Red){○};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Red){''パワー''};|×||||&color(Blue){△};||&color(Red){○};||&color(Blue){△};|&color(Blue){▲};|||&color(Blue){△};|&color(Red){○};|&color(Red){◎};|||

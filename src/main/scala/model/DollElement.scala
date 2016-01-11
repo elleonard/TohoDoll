@@ -4,7 +4,7 @@ object DollElement {
   /**
    * 各属性詳細
    */
-  case object Plain      extends DollElement("無","pink",        Some("white"), None)
+  case object Plain      extends DollElement("無","pink",        None,          None)
   case object Flame      extends DollElement("炎","red",         Some("white"), None)
   case object Water      extends DollElement("水","dodgerblue",  Some("white"), None)
   case object Nature     extends DollElement("然","green",       Some("white"), Some("自然"))

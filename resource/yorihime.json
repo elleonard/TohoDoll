@@ -1,8 +1,8 @@
 {
   "doll":{
     "dollName": "よりひめ",
-    "image": "",
-    "caption": "",
+    "image": "./ユメノカケラよりひめ.png",
+    "caption": "よりひめ",
     "style": [
       {
         "styleId": 0,

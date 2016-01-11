@@ -14,13 +14,14 @@
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:鬼人正邪の力を持つ人形。何でもひっくり返す程度の能力を持つ。&br;嘘をついたり人が嫌がることをやっては楽しんでいるやっかいな人形。&br;天邪鬼なので別のことをやってみるといいかもしれない。|100|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
-|>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:|
+|>|>|>|>|>|>|>|CENTER:出現場所A|>|>|CENTER:CENTER:0|>|>|CENTER:時計|
 |>|>|>|>|>|>|>|CENTER:出現場所B（洞窟）|>|>|CENTER:CENTER:0|>|>|~|
-|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~||>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
-|>|>|>|>|>|>|>|CENTER:出現場所：出現位置|>|>|CENTER:CENTER:0|>|>|ブーイングに注意等|
+|>|>|>|>|>|>|>|CENTER:出現場所C（濃い草むら）|>|>|CENTER:CENTER:0|>|>|~|
+|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|
+|>|>|>|>|>|>|>|CENTER:一の道：休憩所横の樽|>|>|CENTER:CENTER:3|>|>|特になし|
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||||&color(Blue){△};|&color(Red){○};||&color(Red){○};|||||&color(Blue){△};|&color(Blue){△};|||&color(Blue){△};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Blue){''ディフェンス''};|&color(Blue){△};|||&color(Blue){△};|&color(Red){○};||&color(Red){○};|&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|&color(Blue){△};||
@@ -39,7 +40,7 @@
 |~|~Lv10|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
 |~|~Lv19|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|11|
-|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
+|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
 |~&color(Forestgreen){''S''};|~Lv1|[[アップビート]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|100|30|0|３ターンのあいだ相手はダメージを与えるスキルしかだせなくなる。|3|
 |~|~|[[マナの恵み]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|なし|-|-|10|0|最大HPの半分回復する。|10|
 |~|~|[[叫喚]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|100|15|0|相手の集弾を大きく下げる。|5|
@@ -66,7 +67,7 @@
 |~|~Lv10|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
 |~|~Lv19|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|11|
-|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
+|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
 |~&color(Blue){''D''};|~Lv1|[[負の嘲笑]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|100|10|0|相手が最後に使ったスキルのSPを4だけ減らす。|10|
 |~|~|[[皆既日食]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|75|10|0|相手を恐怖と混乱状態にする。|10|
 |~|~|[[COLOR(Blue):ネガティブミスト>ネガティブミスト]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|60|-|15|0|必ず攻撃が当たる。相手の能力変化を元に戻す。|6|
@@ -94,7 +95,7 @@
 |~|~Lv10|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
 |~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
 |~|~Lv19|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|11|
-|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
+|~|~Lv24|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|4|
 |~&color(Purple){''E''};|~Lv1|[[ブーイング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|-6|控えの人形をひきずり出す。|5|
 |~|~|[[金切り声]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|0|100|20|0|相手の散弾を大きく下げる。|5|
 |~|~|[[負の嘲笑]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|100|10|0|相手が最後に使ったスキルのSPを4だけ減らす。|10|
@@ -103,10 +104,10 @@
 |~|~Lv36|[[COLOR(Red):ソウルハウンド>ソウルハウンド]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|EN|60|-|20|0|必ず攻撃が当たる。|6|
 |~|~Lv42|[[COLOR(Red):ステルスマーダー>ステルスマーダー]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Red){集中};|BU|80|-|20|0|相手のバリアオプションを無視して攻撃できる。|7|
 |~|~Lv49|[[COLOR(Red):パニックコール>パニックコール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BUEN|65|100|10|0|相手が装飾品を持っていると威力が1.5倍。&br;相手は装飾品をなくしてしまう。|14|
-|~|~Lv56|[[応急手当]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|10|
+|~|~Lv56|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|10|
 |~|~Lv63|[[COLOR(Red):死霊の舞>死霊の舞]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で相手を恐怖状態にする。|10|
 |~|~Lv70|[[COLOR(Red):オーバードライブ>オーバードライブ]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Red){集中};|EN|130|90|5|0|攻撃後自分の集弾が大きく下がる。|34|
-|~|~|[[臨戦]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:変化|なし|-|-|20|0|自分の集弾と集防と命中を上げる。|8|
+|~|~|[[臨戦]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|20|0|自分の集弾と集防と命中を上げる。|8|
 |~|~|[[ドレインシード]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|なし|-|90|10|0|相手のHPを毎ターン吸い取り自分のHPを回復する。自然属性には効かない。|17|
 #endregion
 

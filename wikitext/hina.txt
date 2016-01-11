@@ -15,9 +15,10 @@
 |>|>|>|>|>|>|>|CENTER:玄武の沢（洞窟）|>|>|CENTER:CENTER:25|>|>|CENTER:真珠&br;魔力の欠片|
 |>|>|>|>|>|>|>|CENTER:妖怪の山-前半（洞窟）|>|>|CENTER:CENTER:28|>|>|~|
 |>|>|>|>|>|>|>|CENTER:妖怪の山-後半（洞窟）|>|>|CENTER:CENTER:30|>|>|~|
+
 &br;
 |>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
-|~スタイル|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
 |CENTER:&color(Chocolate){''ノーマル''};||||&color(Blue){△};|&color(Red){○};||&color(Red){○};||&color(Red){○};|&color(Red){○};|&color(Red){○};|&color(Blue){▲};|×|&color(Blue){△};||&color(Blue){△};||
 |BGCOLOR(#F8FAFB):CENTER:&color(Blue){''ディフェンス''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
 |CENTER:&color(Deeppink){''アシスト''};|&color(Blue){△};|||&color(Blue){△};|&color(Red){○};|&color(Red){○};|&color(Red){○};||&color(Red){○};|&color(Blue){△};||&color(Blue){△};||||&color(Blue){▲};||
@@ -34,7 +35,7 @@
 |~|~Lv7|[[COLOR(Red):パープルスモッグ>パープルスモッグ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|EN|55|100|25|0|１割の確率で相手を毒状態にする。|4|
 |~|~Lv10|[[COLOR(Red):ゴーストトリック>ゴーストトリック]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|55|100|25|0|１割の確率で相手を衰弱状態にする。|4|
 |~|~Lv14|[[ポイズントラップ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|20|0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。&br;２回使うと猛毒にする。|5|
-|~|~Lv19|[[COLOR(Red):仇討>仇討]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|70|100|5|0|前のターンに味方が倒されていると威力が倍になる。|23|
+|~|~Lv19|[[COLOR(Red):仇討>仇討]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|70|100|5|0|前のターンに味方が倒されていると威力が倍になる。|23|
 |~|~Lv24|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|12|
 |~&color(Blue){''D''};|~Lv30|[[金切り声]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|0|100|20|0|相手の散弾を大きく下げる。|5|
 |~|~Lv30|[[ハピネスダンス]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|0|自分の集防と散防を上げる。|5|
@@ -56,7 +57,7 @@
 |~|~Lv7|[[COLOR(Red):パープルスモッグ>パープルスモッグ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|EN|55|100|25|0|１割の確率で相手を毒状態にする。|4|
 |~|~Lv10|[[COLOR(Red):ゴーストトリック>ゴーストトリック]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|55|100|25|0|１割の確率で相手を衰弱状態にする。|4|
 |~|~Lv14|[[ポイズントラップ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|20|0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。&br;２回使うと猛毒にする。|5|
-|~|~Lv19|[[COLOR(Red):仇討>仇討]]|CENTER:BGCOLOR(pink):COLOR(white):無|CENTER:&color(Red){集中};|BU|70|100|5|0|前のターンに味方が倒されていると威力が倍になる。|23|
+|~|~Lv19|[[COLOR(Red):仇討>仇討]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|70|100|5|0|前のターンに味方が倒されていると威力が倍になる。|23|
 |~|~Lv24|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|12|
 |~&color(Deeppink){''A''};|~Lv30|[[金切り声]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|0|100|20|0|相手の散弾を大きく下げる。|5|
 |~|~Lv30|[[COLOR(Blue):悲哀の旋律>悲哀の旋律]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|BUEN|55|95|15|0|相手の散弾を下げる。|6|

@@ -371,13 +371,14 @@
     ],
     "fixSpot": [
       {
-        "name": "出現場所：出現位置",
-        "minLv": 0,
-        "maxLv": 0,
-        "description": "ブーイングに注意等"
+        "name": "一の道：休憩所横の樽",
+        "minLv": 3,
+        "maxLv": 3,
+        "description": "特になし"
       }
     ],
     "dropItem": [
+      "時計"
     ],
     "abilityAnnotation": ""
   }

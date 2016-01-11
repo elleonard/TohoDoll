@@ -74,7 +74,7 @@
         "concentrateDefence": 90,
         "diffuseAttack": 95,
         "diffuseDefence": 75,
-        "speed": 80,
+        "speed": 60,
         "ability": [
           {
             "name": "吸音",
