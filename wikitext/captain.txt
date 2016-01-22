@@ -75,7 +75,7 @@
 |~|~Lv42|[[COLOR(Red):三魂七魄の離散>三魂七魄の離散]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|EN|55|100|15|0|自分が装飾品を持っていない時ダメージが2倍になる。|9|
 |~|~Lv49|[[COLOR(Red):ブレイクショット>ブレイクショット]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|75|100|15|0|相手のFバリアとFプロテクトを破壊する。|9|
 |~|~Lv56|[[COLOR(Red):飢餓の声>飢餓の声]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Red){集中};|EN|95|100|15|0|1割の確率で相手を衰弱状態にする。|10|
-|~|~Lv63|[[COLOR(Red):亡霊ミッドナイト>亡霊ミッドナイト]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|120|100|10|0|自分は与えたダメージの３分の１のダメージを受ける。１割の確率で相手を恐怖状態にする。|16|
+|~|~Lv63|[[COLOR(Red):亡霊ミッドナイト>亡霊ミッドナイト]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|120|100|10|0|自分は与えたダメージの３分の１のダメージを受ける。&br;１割の確率で相手を恐怖状態にする。|16|
 |~|~Lv70|[[COLOR(Red):好調ビッグウェーブ>好調ビッグウェーブ]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Red){集中};|BU|120|85|5|0|通常攻撃。|17|
 |~|~|[[死神の舞]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|-|10|0|自分のHPを代償に相手に死神を呼び寄せる。|15|
 #endregion
@@ -100,7 +100,7 @@
 |~|~Lv42|[[破滅の声]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|0|聴いた人形は3ターン後戦闘不能になる。交代すると効果はなくなる。|28|
 |~|~Lv49|[[COLOR(Blue):飢え行く霊魂>飢え行く霊魂]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Blue){拡散};|BU|100|100|10|0|通常攻撃。|14|
 |~|~Lv56|[[COLOR(Red):ストークマーダー>ストークマーダー]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|120|-|10|0|一度姿を消し次のターンに攻撃する。相手の壁を無視してダメージを与えられる。|15|
-|~|~Lv63|[[COLOR(Red):亡霊ミッドナイト>亡霊ミッドナイト]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|120|100|10|0|自分は与えたダメージの３分の１のダメージを受ける。１割の確率で相手を恐怖状態にする。|16|
+|~|~Lv63|[[COLOR(Red):亡霊ミッドナイト>亡霊ミッドナイト]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:&color(Red){集中};|BU|120|100|10|0|自分は与えたダメージの３分の１のダメージを受ける。&br;１割の確率で相手を恐怖状態にする。|16|
 |~|~Lv70|[[COLOR(Blue):桜吹雪>桜吹雪]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Blue){拡散};|BU|120|85|5|0|1割の確率で相手を衰弱状態にする。|34|
 |~|~|[[COLOR(Blue):彩光百花>彩光百花]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Blue){拡散};|EN|120|100|10|0|1ターン目で力を溜め2ターン目に攻撃する。気象が極光の時力を溜めずに使える。|17|
 |~|~|[[COLOR(Blue):迷霧散花>迷霧散花]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Blue){拡散};|EN|120|100|10|0|１ターン目に力を溜め２ターン目に攻撃する。気象が濃霧の時力を溜めずに使える。|17|

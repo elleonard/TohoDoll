@@ -1,0 +1,145 @@
+{
+  "doll":{
+    "dollName": "せいが",
+    "image": "",
+    "caption": "",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "冥",
+        "element2": "-",
+        "hp": 40,
+        "concentrateAttack": 35,
+        "concentrateDefence": 50,
+        "diffuseAttack": 60,
+        "diffuseDefence": 50,
+        "speed": 65,
+        "ability": [
+          {
+            "name": "浸透戦術",
+            "description": "相手の場の壁・バリアオプションを無視して攻撃できる。"
+          },
+          {
+            "name": "呪詛返し",
+            "description": "補助スキルを受けた時その効果を相手に跳ね返す。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "積み岩",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "陽の気力",
+            "PP": 2
+          }
+        ],
+        "skillCard": [9,10,24,27,34,41,63,64,66,68,69,70,71,72,74,77,78,79,80,98,101]
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "S",
+        "element1": "冥",
+        "element2": "-",
+        "hp": 70,
+        "concentrateAttack": 65,
+        "concentrateDefence": 90,
+        "diffuseAttack": 100,
+        "diffuseDefence": 90,
+        "speed": 110,
+        "ability": [
+          {
+            "name": "浸透戦術",
+            "description": "相手の場の壁・バリアオプションを無視して攻撃できる。"
+          },
+          {
+            "name": "呪詛返し",
+            "description": "補助スキルを受けた時その効果を相手に跳ね返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": [5,7,8,9,10,14,15,24,27,31,34,35,36,39,41,44,46,47,49,55,56,57,58,60,61,63,64,65,66,68,69,70,71,72,74,76,77,78,79,80,90,97,98,101]
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "P",
+        "element1": "冥",
+        "element2": "毒",
+        "hp": 70,
+        "concentrateAttack": 65,
+        "concentrateDefence": 60,
+        "diffuseAttack": 120,
+        "diffuseDefence": 110,
+        "speed": 100,
+        "ability": [
+          {
+            "name": "浸透戦術",
+            "description": "相手の場の壁・バリアオプションを無視して攻撃できる。"
+          },
+          {
+            "name": "呪詛返し",
+            "description": "補助スキルを受けた時その効果を相手に跳ね返す。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "毒",
+        "element2": "闘",
+        "hp": 65,
+        "concentrateAttack": 110,
+        "concentrateDefence": 95,
+        "diffuseAttack": 65,
+        "diffuseDefence": 70,
+        "speed": 120,
+        "ability": [
+          {
+             "name": "フラットスピード",
+             "description": "お互いの優先度が高いスキルの優先度を０にする。"
+           },
+          {
+            "name": "苦手意識",
+            "description": "お互いの属性一致でないスキルの威力が低くなる。"
+          }
+           
+        ],
+        "skill": [
+        ],
+        "skillCard": [5,7,8,9,10,14,15,23,24,27,31,33,34,35,36,39,41,44,47,51,55,56,57,58,59,60,61,63,64,65,66,68,69,70,71,72,74,76,77,78,79,80,81,82,88,90,94,95,97,98,100,101]
+      }
+    ],
+    "description": "霍青娥の力を持つ人形。壁をすり抜けられる程度の能力を持つ。&br;性格はお世辞にも良いとはいえず騙されることもしばしば。死んだふりが得意。",
+    "cost": 110,
+    "spot": [
+      {
+        "name": "調査中",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "調査中",
+        "minLv": 0,
+        "maxLv": 0
+      }
+    ],
+    "fixSpot": [
+      {
+        "name": "調査中",
+        "minLv": 0,
+        "maxLv": 0,
+        "description": "調査中"
+      }
+    ],
+    "dropItem": [
+    ],
+    "abilityAnnotation": ""
+  }
+}

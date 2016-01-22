@@ -56,12 +56,15 @@ case class Doll(
       (spot.tail.map(s =>
         s.toWiki+"~|"
       ).mkString("\n"))+"\n"+
-      (fixSpot match {
-        case null => ""
+      (Option(fixSpot) match {
+        case None => ""
         case _ =>
-          "|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|\n"+
-          (fixSpot.map(s =>s.toWiki
-          ).mkString("\n"))
+          fixSpot.isEmpty match {
+            case true => ""
+            case false => "|>|>|>|>|>|>|>|CENTER:~固定エンカウント|>|>|CENTER:~出現レベル|>|>|~備考|\n"+
+              (fixSpot.map(s =>s.toWiki
+              ).mkString("\n"))
+          }
       })
   }
   /* 属性相性表 */
@@ -107,8 +110,9 @@ case class Doll(
         ).toSeq.sortWith(_._1 < _._1).map(grouped => grouped._2).mkString
       }
 
-      style.symbol match {
-        case "N" => {
+      (style.symbol, style.isSpecial) match {
+        case (_, true) => ""
+        case ("N", false) => {
             "||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c\n"+
             "|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|\n"+
             (skillList.isEmpty match {
@@ -116,15 +120,11 @@ case class Doll(
               case false => {
                 skillList.head.getWikiText(style, true)+"\n"+
                 getSkillTableLineGroupsByLv(skillList.tail, style)
-                /*
-                (skillList.tail.map( sk =>
-                  sk.getWikiText(style, false)
-                ).mkString("\n")+"\n")
-                */
               }
             })
         }
         case _ => {
+          println("[お知らせ]: "+style.symbol+""+dollName+"のスキルをロードします。")
           "#region(&color("+style.color+"){''"+style.styleName+"''};,open)\n"+
           "&color("+style.color+"){''"+style.styleName+"''};\n"+
           getSkillTable(DollStyle.Normal, normalSkillList)+
@@ -133,11 +133,6 @@ case class Doll(
             case false => {
               skillList.head.getWikiText(style, true)+"\n"+
               getSkillTableLineGroupsByLv(skillList.tail, style)
-              /*
-              skillList.tail.map( sk =>
-                sk.getWikiText(style, false)
-              ).mkString("\n")+"\n"
-              */
             }
           })+"\n#endregion\n"
         }

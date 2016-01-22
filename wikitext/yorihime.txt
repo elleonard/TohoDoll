@@ -45,12 +45,12 @@
 |~|~|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
 |~|~|[[地相発現「朱雀」]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|-|10|0|地相を朱雀にする。|10|
 |~|~Lv30|[[COLOR(Red):ダンシングソード>ダンシングソード]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|13|
-|~|~Lv36|[[COLOR(Blue):ラストスラッシュ>ラストスラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|BUEN|100|100|5|0|攻撃した後体勢を崩してしまう。|9|
+|~|~Lv36|[[COLOR(Blue):ラストスラッシュ>ラストスラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|BU|100|100|5|0|攻撃した後体勢を崩してしまう。|9|
 |~|~Lv42|[[COLOR(Red):グランドリベレイト>グランドリベレイト]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|7|
 |~|~Lv49|[[COLOR(Blue):ラプラスの目>ラプラスの目]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Blue){拡散};|BU|80|100|20|0|痛烈な一撃が出やすい。|14|
-|~|~Lv56|[[COLOR(Blue):ムーンボウ>ムーンボウ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BUEN|95|100|15|0|1割の確率で相手を混乱させる。|15|
+|~|~Lv56|[[COLOR(Blue):ムーンボウ>ムーンボウ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BU|95|100|15|0|1割の確率で相手を混乱させる。|15|
 |~|~Lv63|[[COLOR(Red):一閃>一閃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|120|100|15|0|自分は与えたダメージの３分の１データを受ける。|10|
-|~|~Lv70|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BUEN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+|~|~Lv70|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
 |~|~|[[COLOR(Blue):ファイアウォール>ファイアウォール]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|65|100|10|0|相手が持っている装飾品を威力が1.5倍にしたり、装飾品を燃やして使えなくくする。|17|
 |~|~|[[COLOR(Blue):ヴォルケイノ>ヴォルケイノ]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
 |~|~|[[COLOR(Blue):スパーククロス>スパーククロス]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Blue){拡散};|BUEN|60|100|10|0|相手の俊敏を下げる。|17|
@@ -74,10 +74,10 @@
 |~|~Lv30|[[COLOR(Red):スパークジャベリン>スパークジャベリン]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|BU|75|100|15|0|１割の確率で相手を麻痺状態にする。|8|
 |~|~Lv36|[[COLOR(Red):ストーンスパイク>ストーンスパイク]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|BU|60|100|20|0|相手の俊敏を下げる。|6|
 |~|~Lv42|[[COLOR(Red):鎧通し>鎧通し]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で相手をひるませる。|9|
-|~|~Lv49|[[COLOR(Red):雷切>雷切]]|CENTER:BGCOLOR(lawngreen):風|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で自分の俊敏を上げる。|9|
+|~|~Lv49|[[COLOR(Red):雷切>雷切]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で自分の俊敏を上げる。|9|
 |~|~Lv56|[[奮闘之構]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|20|0|自分の集弾を大きく上げる。|7|
 |~|~Lv63|[[COLOR(Red):一閃>一閃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|120|100|15|0|自分は与えたダメージの３分の１データを受ける。|11|
-|~|~Lv70|[[COLOR(Blue):ラストスラッシュ>ラストスラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|BUEN|100|100|5|0|攻撃した後体勢を崩してしまう。|11|
+|~|~Lv70|[[COLOR(Blue):ラストスラッシュ>ラストスラッシュ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|BU|100|100|5|0|攻撃した後体勢を崩してしまう。|11|
 
 #endregion
 
@@ -92,7 +92,7 @@
 |~|~Lv14|[[神降ろし]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|30|0|自分の全ての能力のどれか１つを大きく上げる。|3|
 |~|~Lv19|[[COLOR(Red):返しの刃>返しの刃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|-|20|0|必ず攻撃が当たる。|5|
 |~|~Lv24|[[COLOR(Red):天光の舞>天光の舞]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|60|100|10|0|何らかの気象の時威力を２倍にし気象を解除する。|12|
-|~&color(Purple){''E''};|~Lv1|[[先読み]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|20|0|威力を1.5倍で相手がだそうとするスキルを先に出す。先に出せないと失敗する。|5|
+|~&color(Purple){''E''};|~Lv1|[[先読み]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|20|0|威力を1.5倍で相手がだそうとするスキルを先に出す。&br;先に出せないと失敗する。|5|
 |~|~|[[奮闘之構]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|20|0|自分の集弾を大きく上げる。|5|
 |~|~|[[COLOR(Red):奥の手>奥の手]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|140|100|5|0|このスキルは自分の持つ他のスキルをすべて使うと使えるようになる。|20|
 |~|~Lv30|[[COLOR(Blue):フラッシュオーバー>フラッシュオーバー]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|80|100|20|0|3割の確率で相手を火傷状態にする。|6|
@@ -100,7 +100,7 @@
 |~|~Lv42|[[COLOR(Red):烈火>烈火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|-|100|10|0|自分のコストが相手より高いほど威力が高くなる。|14|
 |~|~Lv49|[[ショックパライズ]]|CENTER:BGCOLOR(gold):雷|CENTER:変化|なし|-|85|10|0|相手を感電状態にする。大地属性には効かない。|14|
 |~|~Lv56|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|10|
-|~|~Lv63|[[COLOR(Red):雷切>雷切]]|CENTER:BGCOLOR(lawngreen):風|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で自分の俊敏を上げる。|10|
+|~|~Lv63|[[COLOR(Red):雷切>雷切]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Red){集中};|BU|90|100|15|0|１割の確率で自分の俊敏を上げる。|10|
 |~|~Lv70|[[不知火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|85|10|0|相手を火傷と暗闇状態にする。|17|
 |~|~|[[COLOR(Blue):雷帝インディグネイト>雷帝インディグネイト]]|CENTER:BGCOLOR(gold):雷|CENTER:&color(Blue){拡散};|EN|120|85|5|0|１割の確率で相手を麻痺状態にする。|34|
 |~|~|[[COLOR(Red):ホーリーフレア>ホーリーフレア]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|100|95|5|0|５割の確率で相手を火傷状態にする。|34|

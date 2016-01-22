@@ -1,0 +1,142 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(,nolink, );|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:50|RIGHT:70|RIGHT:50|RIGHT:50|RIGHT:40|RIGHT:65|CENTER:325|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:75|RIGHT:125|RIGHT:80|RIGHT:95|RIGHT:70|RIGHT:115|CENTER:560|
+|~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(brown):COLOR(white):大地|>|>|RIGHT:100|RIGHT:115|RIGHT:90|RIGHT:65|RIGHT:90|RIGHT:100|CENTER:560|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(brown):COLOR(white):大地|>|>|RIGHT:90|RIGHT:70|RIGHT:40|RIGHT:110|RIGHT:120|RIGHT:130|CENTER:560|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[気勢崩し]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|スキルを属性結界で阻んだ時相手の集弾一段階低下させる。|
+|CENTER:[[撹乱]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|スキルを属性結界で阻んだ時相手の散弾一段階低下させる。|
+|CENTER:[[士気向上]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|相手を倒した時集弾が一段階上がる。|
+|CENTER:[[妨害戦法]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|威力80以上のスキルを受けた時相手の俊敏を一段階低下させる。|
+|CENTER:[[見極め]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手のアビリティによるスキルのダメージ変化がなくなる。|
+|CENTER:[[気象発現「天気雨」]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|戦闘に出ると気象が天気雨になる。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:八雲藍の力を持つ人形。式神を使う程度の能力を持つ。&br;紫の人形を守るように行動する。様々な式神を従えて戦う。|120|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:山の廃村|>|>|CENTER:CENTER:29～31|>|>|CENTER:|
+
+
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};|×|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|||&color(Blue){△};|&color(Blue){△};|||&color(Blue){△};|&color(Red){○};|&color(Red){○};|&color(Red){○};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Red){''パワー''};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Blue){''ディフェンス''};|×|&color(Blue){△};|&color(Red){○};|&color(Red){○};||||×|&color(Blue){△};|&color(Blue){△};||&color(Blue){△};||&color(Red){○};|&color(Red){○};|&color(Red){○};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):×|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){◎};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+* スキル [#skill]
+#region(&color(Red){''パワー''};,open)
+&color(Red){''パワー''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[陽炎]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|相手の集弾を下げる。|10|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):幻覚弾>幻覚弾]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv10|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv14|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
+|~|~Lv19|[[韋駄天]]|CENTER:BGCOLOR(lawngreen):風|CENTER:変化|なし|-|-|30|0|自分の俊敏を大きく上げる。|3|
+|~|~Lv24|[[COLOR(Red):詐欺玉>詐欺玉]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|10|0|「死ぬまで借りてくぜ」。|12|
+|~&color(Red){''P''};|~Lv1|[[気象発現「天気雨」]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|-|10|0|気象を天気雨にする。|10|
+|~|~|[[蜃気楼]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|15|4|変化スキルを相手に跳ね返す。|6|
+|~|~Lv30|[[COLOR(Red):ライジングサン>ライジングサン]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|50|100|20|0|自分の俊敏を上げる。|6|
+|~|~Lv36|[[COLOR(Red):ファイアジャベリン>ファイアジャベリン]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|75|100|15|0|１割の確率で相手を火傷状態にする。|9|
+|~|~Lv42|[[COLOR(Red):ミラージュエッジ>ミラージュエッジ]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|7|
+|~|~Lv49|[[テルミット]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|90|10|0|相手を大火傷状態にする。|14|
+|~|~Lv56|[[COLOR(Red):バーンストライク>バーンストライク]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|85|90|10|0|痛烈な一撃が出やすく１割の確率で相手を火傷状態にする。|15|
+|~|~Lv63|[[COLOR(Red):グランドリベレイト>グランドリベレイト]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|32|
+|~|~Lv70|[[COLOR(Red):烈火>烈火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|-|100|10|0|自分のコストが相手より高いほど威力が高くなる。|17|
+|~|~|[[COLOR(Blue):ヴォルケイノ>ヴォルケイノ]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+#endregion
+
+#region(&color(Blue){''ディフェンス''};,open)
+&color(Blue){''ディフェンス''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[陽炎]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|相手の集弾を下げる。|10|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):幻覚弾>幻覚弾]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv10|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv14|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
+|~|~Lv19|[[韋駄天]]|CENTER:BGCOLOR(lawngreen):風|CENTER:変化|なし|-|-|30|0|自分の俊敏を大きく上げる。|3|
+|~|~Lv24|[[COLOR(Red):詐欺玉>詐欺玉]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|10|0|「死ぬまで借りてくぜ」。|12|
+|~&color(Blue){''D''};|~Lv1|[[マイントラップ]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:変化|なし|-|-|20|0|マイントラップを設置し交代で出てきた相手の人形にダメージを与える。重ね掛けで威力が上がる。|5|
+|~|~|[[気象発現「天気雨」]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|-|10|0|気象を天気雨にする。|10|
+|~|~|[[蜃気楼]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|15|4|変化スキルを相手に跳ね返す。|6|
+|~|~|[[フォースシールド]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|100|10|4|使ったターン無防備になり属性結界が無効になるが受けるダメージが小さくなる。連続で出すと失敗しやすい。|10|
+|~|~Lv30|[[COLOR(Red):ストーンスパイク>ストーンスパイク]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|BU|60|100|20|0|相手の俊敏を下げる。|6|
+|~|~Lv42|[[COLOR(Red):ミラージュエッジ>ミラージュエッジ]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|7|
+|~|~Lv49|[[COLOR(Red):グランドリベレイト>グランドリベレイト]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|BU|80|100|20|0|痛烈な一撃が出やすい。|9|
+|~|~Lv56|[[COLOR(Red):奈落の花>奈落の花]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|80|100|20|0|３割の確率で相手の体勢を崩す。|7|
+|~|~Lv63|[[COLOR(Red):夢幻泡影>夢幻泡影]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|EN|95|100|15|0|1割の確率で相手の集防を下げる。|10|
+|~|~Lv70|[[COLOR(Red):シューティングプレス>シューティングプレス]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Red){集中};|EN|100|100|10|0|通常攻撃。|17|
+|~|~|[[COLOR(Blue):大地の宴>大地の宴]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Blue){拡散};|BU|120|85|5|0|１割の確率で相手の命中を下げる。|34|
+|~|~|[[COLOR(Red):チェンジリング>チェンジリング]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|70|100|15|0|攻撃後控え人形と入れ替わる。ダメージを与えられなかった時交代できない。&br;野良人形との戦闘は終わる。|11|
+|~|~|[[パワースポット]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|次のターンに自分の最大HPの半分回復する。|11|
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[陽炎]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|相手の集弾を下げる。|10|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):幻覚弾>幻覚弾]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv10|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv14|[[COLOR(Red):虎走り>虎走り]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|BU|40|100|30|1|相手に対して先制できる。|3|
+|~|~Lv19|[[韋駄天]]|CENTER:BGCOLOR(lawngreen):風|CENTER:変化|なし|-|-|30|0|自分の俊敏を大きく上げる。|3|
+|~|~Lv24|[[COLOR(Red):詐欺玉>詐欺玉]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:&color(Red){集中};|BU|60|100|10|0|「死ぬまで借りてくぜ」。|12|
+|~&color(Purple){''E''};|~Lv1|[[気象発現「天気雨」]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:変化|なし|-|-|10|0|気象を天気雨にする。|10|
+|~|~|[[気象発現「黄砂」]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:変化|なし|-|-|10|0|気象を黄砂にする。|10|
+|~|~|[[地相発現「青龍」]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|なし|-|-|10|-1|地相を青龍にする。|10|
+|~|~|[[蜃気楼]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|15|4|変化スキルを相手に跳ね返す。|6|
+|~|~Lv30|[[COLOR(Blue):甘美な囁き>甘美な囁き]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Blue){拡散};|EN|80|100|10|0|相手の散防ではなく集防でダメージが影響する。|13|
+|~|~Lv36|[[COLOR(Blue):不安定な地平線>不安定な地平線]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Blue){拡散};|EN|80|100|20|0|３割の確率で相手の命中を下げる。|6|
+|~|~Lv42|[[呪詛]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|100|20|0|直前にだしていたスキルを４ターンのあいだ使えなくする。|7|
+|~|~Lv49|[[COLOR(Blue):山崩れ>山崩れ]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Blue){拡散};|BU|65|100|10|0|相手のHPが少ない時威力が上がる。|14|
+|~|~Lv56|[[パワースポット]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|次のターンに自分の最大HPの半分回復する。|10|
+|~|~Lv63|[[COLOR(Blue):インスティンクション>インスティンクション]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Blue){拡散};|EN|95|100|15|0|1割の確率で相手の散防を下げる。|10|
+|~|~Lv70|[[風神の加護]]|CENTER:BGCOLOR(lawngreen):風|CENTER:変化|なし|-|-|30|0|４ターンのあいだ味方全員の俊敏を上げる。|5|
+|~|~|[[COLOR(Blue):土石の荒波>土石の荒波]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:&color(Blue){拡散};|EN|95|100|15|0|１割の確率で相手の命中を下げる。|11|
+|~|~|[[COLOR(Blue):乱反射レーザー>乱反射レーザー]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|65|100|20|0|2割の確率で相手をひるませる。|8|
+|~|~|[[クロスチェンジ]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|自分と相手のアビリティを入れ替える。|17|
+|~|~|[[ア・テンポ]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|30|0|全員の能力変化を元に戻す。|5|
+|~|~|[[集中之構]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|15|0|自分の集弾と命中を上げる。|11|
+|~|~|[[占星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|100|20|0|相手の集弾を大きく下げる。|8|
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Red){''P''};|~~&color(Blue){''D''};|~~&color(Purple){''E''};|
+|~1|[[COLOR(Red):ファイアジャベリン>ファイアジャベリン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~2|BGCOLOR(#F8FAFB):[[COLOR(Red):アクアジャベリン>アクアジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~40|BGCOLOR(#F8FAFB):[[COLOR(Blue):天神の加護>天神の加護]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~4|[[COLOR(Red):ウィンドジャベリン>ウィンドジャベリン]]||||CENTER:''○''|~42|[[COLOR(Blue):フラッシュオーバー>フラッシュオーバー]]||CENTER:''○''|||~65|[[無我の境地>無我の境地]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~8|BGCOLOR(#F8FAFB):[[COLOR(Red):オーバースキル>オーバースキル]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~43|BGCOLOR(#F8FAFB):[[COLOR(Blue):インフェルノ>インフェルノ]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~66|BGCOLOR(#F8FAFB):[[足止め>足止め]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~9|[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~44|[[COLOR(Blue):コールドレイン>コールドレイン]]||||CENTER:''○''|~67|[[テルミット>テルミット]]||CENTER:''○''|||
+|~10|BGCOLOR(#F8FAFB):[[COLOR(Red):逆転の一手>逆転の一手]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~46|BGCOLOR(#F8FAFB):[[COLOR(Blue):彩光百花>彩光百花]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~69|BGCOLOR(#F8FAFB):[[突風>突風]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~11|[[COLOR(Red):ライジングサン>ライジングサン]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~48|[[COLOR(Blue):ジュエリーストーム>ジュエリーストーム]]|||CENTER:''○''|CENTER:''○''|~71|[[フィールドプロテクト>フィールドプロテクト]]|||CENTER:''○''||
+|~12|BGCOLOR(#F8FAFB):[[COLOR(Red):バーンストライク>バーンストライク]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~54|BGCOLOR(#F8FAFB):[[COLOR(Blue):スターフレア>スターフレア]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~72|BGCOLOR(#F8FAFB):[[幸運の虹>幸運の虹]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~15|[[COLOR(Red):タンブルプラント>タンブルプラント]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~60|[[COLOR(Blue):アンノウンフレア>アンノウンフレア]]||CENTER:''○''|CENTER:''○''||~78|[[コンティニュー>コンティニュー]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~16|BGCOLOR(#F8FAFB):[[COLOR(Red):シューティングプレス>シューティングプレス]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~83|BGCOLOR(#F8FAFB):[[COLOR(Blue):迷霧散花>迷霧散花]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~79|BGCOLOR(#F8FAFB):[[アップビート>アップビート]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~17|[[COLOR(Red):グランドリベレイト>グランドリベレイト]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~84|[[COLOR(Blue):インスティンクション>インスティンクション]]||||CENTER:''○''|~80|[[クレーム>クレーム]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~18|BGCOLOR(#F8FAFB):[[COLOR(Red):ストーンスパイク>ストーンスパイク]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~85|BGCOLOR(#F8FAFB):[[COLOR(Blue):フィールドブレイク>フィールドブレイク]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~19|[[COLOR(Red):インパクトリベリオン>インパクトリベリオン]]|||CENTER:''○''|CENTER:''○''|~90|[[COLOR(Blue):オーバーラン>オーバーラン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~ ||||||
+|~21|BGCOLOR(#F8FAFB):[[COLOR(Red):幻想郷直撃タイフーン>幻想郷直撃タイフーン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~101-115|BGCOLOR(#F8FAFB):COLOR(Blue):属性符|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~22|[[COLOR(Red):ショックスタンプ>ショックスタンプ]]|||CENTER:''○''||~ ||||||~ ||||||
+|~25|BGCOLOR(#F8FAFB):[[COLOR(Red):天光の舞>天光の舞]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~27|[[COLOR(Red):チェンジリング>チェンジリング]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~ ||||||~ ||||||
+|~29|BGCOLOR(#F8FAFB):[[COLOR(Red):ロストクライシス>ロストクライシス]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~36|[[COLOR(Red):奈落の花>奈落の花]]||CENTER:''○''|CENTER:''○''||~ ||||||~ ||||||
+|~37|BGCOLOR(#F8FAFB):[[COLOR(Red):セントエルモの火>セントエルモの火]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~81|[[COLOR(Red):ディストーションボム>ディストーションボム]]||||CENTER:''○''|~ ||||||~ ||||||
+|~82|BGCOLOR(#F8FAFB):[[COLOR(Red):ステルスマーダー>ステルスマーダー]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+----
+*コメント[#comment]
+#pComment(らん/コメント,らん/コメント,below,reply)

@@ -73,7 +73,7 @@
 |~|~|[[叫喚]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|100|15|0|相手の集弾を大きく下げる。|5|
 |~|~Lv30|[[COLOR(Red):ライフバースト>ライフバースト]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|EN|80|-|20|0|必ず攻撃が当たる。|6|
 |~|~Lv36|[[COLOR(Red):ダンシングライン>ダンシングライン]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|BU|75|95|10|0|５割の確率で相手の集防を下げる。|13|
-|~|~Lv42|[[COLOR(Red):バーンストライク>バーンストライク]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BUEN|85|90|10|0|痛烈な一撃が出やすく１割の確率で相手を火傷状態にする。|14|
+|~|~Lv42|[[COLOR(Red):バーンストライク>バーンストライク]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|85|90|10|0|痛烈な一撃が出やすく１割の確率で相手を火傷状態にする。|14|
 |~|~Lv49|[[COLOR(Red):ストライクショット>ストライクショット]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|40|100|20|1|相手に対して先制できる。|7|
 |~|~Lv56|[[COLOR(Red):クロスドライブ>クロスドライブ]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|100|100|15|0|使うと自分の俊敏が下がる。|10|
 |~|~Lv63|[[COLOR(Red):天昇>天昇]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BUEN|120|100|5|0|攻撃後自分の集防と散防が下がる。|32|

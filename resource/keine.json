@@ -1,8 +1,8 @@
 {
   "doll":{
     "dollName": "けいね",
-    "image": "./けいね.png",
-    "caption": "けいね",
+    "image": "",
+    "caption": "",
     "style": [
       {
         "styleId": 0,
@@ -29,89 +29,40 @@
            {
              "lv": 1,
              "name": "防壁強化",
-             "element": "無",
-             "category": "変化",
-             "power": "-",
-             "hit": "-",
-             "SP": 35,
-             "priority": 0,
-             "description": "自分の集防を上げる。",
              "PP": 2
            },
            {
              "lv": 1,
              "name": "陰の気力",
-             "element": "夢",
-             "category": "集中",
-             "power": "55",
-             "hit": "100",
-             "SP": 35,
-             "priority": 0,
-             "description": "通常攻撃。",
              "PP": 2
            },
            {
              "lv": 7,
              "name": "ハンマー投げ",
-             "element": "鋼鉄",
-             "category": "集中",
-             "power": "65",
-             "hit": "100",
-             "SP": 20,
-             "priority": 0,
-             "description": "痛烈な一撃が出やすい。",
              "PP": 5
            },
            {
              "lv": 10,
              "name": "エンジェルラダー",
-             "element": "光",
-             "category": "集中",
-             "power": "70",
-             "hit": "100",
-             "SP": 20,
-             "priority": 0,
-             "description": "２割の確率で相手の命中を下げる。",
              "PP": 5
            },
            {
              "lv": 14,
-             "name": "牙突",
-             "element": "無",
-             "category": "集中",
-             "power": "70",
-             "hit": "100",
-             "SP": 20,
-             "priority": 0,
-             "description": "相手の能力変化を無視して攻撃する。",
+             "name": "穿突",
              "PP": 5
            },
            {
              "lv": 19,
              "name": "急襲",
-             "element": "無",
-             "category": "集中",
-             "power": "40",
-             "hit": "100",
-             "SP": 10,
-             "priority": 3,
-             "description": "先制攻撃で相手をひるませる。戦闘に出たらすぐに出さないと成功しない。",
              "PP": 11
            },
            {
              "lv": 24,
              "name": "ライトジャベリン",
-             "element": "光",
-             "category": "集中",
-             "power": "75",
-             "hit": "100",
-             "SP": 15,
-             "priority": 0,
-             "description": "1割の確率で相手を混乱状態にする。",
              "PP": 8
            }
         ],
-        "skillCard": [9,10,18,20,25,29,34,40,41,50,61,63,64,65,70,71,72,78,79,81]
+        "skillCard": [6,9,10,18,20,25,29,34,40,41,50,61,63,64,65,70,71,72,78,79,101]
       },
       {
         "styleId": 1,
@@ -120,127 +71,78 @@
         "element2": "-",
         "hp": 95,
         "concentrateAttack": 95,
-        "concentrateDefence": 115,
-        "diffuseAttack": 55,
+        "concentrateDefence": 125,
+        "diffuseAttack": 45,
         "diffuseDefence": 80,
         "speed": 45,
         "ability": [
           {
             "name": "ハクタク化",
             "description": "HPが半分以下になると姿と能力が変わる。"
+          },
+          {
+            "name": "慧眼",
+            "description": "俊敏以外の相手の能力変化を無視する。"
           }
         ],
         "skill": [
           {
+            "lv": 1,
+            "name": "集中之構",
+            "PP": 6
+          },
+          {
+            "lv": 1,
+            "name": "地相発現「白虎」",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ばくれつゲンコツ",
+            "PP": 20
+          },
+          {
              "lv": 30,
              "name": "崩山掌",
-             "element": "闘",
-             "category": "集中",
-             "power": "-",
-             "hit": "100",
-             "SP": 20,
-             "priority": 0,
-             "description": "相手のコストが高いほど威力が高くなる。",
              "PP": 5
-           },
-           {
-             "lv": 30,
-             "name": "ばくれつゲンコツ",
-             "element": "闘",
-             "category": "集中",
-             "power": "120",
-             "hit": "50",
-             "SP": 5,
-             "priority": 0,
-             "description": "相手を混乱にする。",
-             "PP": 20
-           },
-           {
-             "lv": 30,
-             "name": "地相発現「白虎」",
-             "element": "鋼鉄",
-             "category": "変化",
-             "power": "-",
-             "hit": "-",
-             "SP": 10,
-             "priority": 0,
-             "description": "地相を白虎にする。",
-             "PP": 10
-           },
-           {
-             "lv": 30,
-             "name": "集中之構",
-             "element": "鋼鉄",
-             "category": "変化",
-             "power": "-",
-             "hit": "-",
-             "SP": 15,
-             "priority": 0,
-             "description": "自分の集弾と命中を上げる。",
-             "PP": 10
            },
            {
              "lv": 36,
              "name": "インパクトリベリオン",
-             "element": "鋼鉄",
-             "category": "集中",
-             "power": "-",
-             "hit": "100",
-             "SP": 5,
-             "priority": 0,
-             "description": "相手より俊敏が低いほど威力が上がる。",
              "PP": 27
            },
            {
              "lv": 42,
              "name": "鉄壁之構",
-             "element": "鋼鉄",
-             "category": "変化",
-             "power": "-",
-             "hit": "-",
-             "SP": 15,
-             "priority": 0,
-             "description": "自分の集防を大きく上げる。",
              "PP": 9
            },
            {
              "lv": 56,
-             "name": "水鏡",
-             "element": "幻",
-             "category": "拡散",
-             "power": "-",
-             "hit": "100",
-             "SP": 20,
-             "priority": -5,
-             "description": "そのターンの最後に受けた拡散スキルのダメージを2倍にして返す。",
-             "PP": 7
+             "name": "奇跡の代償",
+             "PP": 29
            },
            {
              "lv": 63,
+             "name": "ストライクショット",
+             "PP": 7
+           },
+           {
+             "lv": 70,
              "name": "天昇",
-             "element": "闘",
-             "category": "集中",
-             "power": "120",
-             "hit": "100",
-             "SP": 5,
-             "priority": 0,
-             "description": "攻撃後自分の集防と散防が下がる。",
              "PP": 32
            },
            {
              "lv": 70,
              "name": "菊水",
-             "element": "鋼鉄",
-             "category": "集中",
-             "power": "120",
-             "hit": "85",
-             "SP": 10,
-             "priority": 0,
-             "description": "1割の確率で自分の集中を上げる。",
              "PP": 17
+           },
+           {
+             "lv": 70,
+             "name": "水鏡",
+             "PP": 8
            }
         ],
-        "skillCard": [2,6,8,9,10,11,13,16,17,18,19,20,25,26,29,32,34,36,39,40,41,50,59,61,63,64,65,70,71,72,78,79,81]
+        "skillCard": [2,6,8,9,10,11,13,16,17,18,19,20,25,26,29,32,34,35,36,39,40,41,50,59,61,63,64,65,70,71,72,77,78,79,90,101]
       },
       {
         "styleId": 2,
@@ -248,7 +150,7 @@
         "element1": "鋼鉄",
         "element2": "闘",
         "hp": 95,
-        "concentrateAttack": 130,
+        "concentrateAttack": 140,
         "concentrateDefence": 50,
         "diffuseAttack": 55,
         "diffuseDefence": 50,
@@ -259,16 +161,16 @@
         "styleSymbol": "P",
         "element1": "鋼鉄",
         "element2": "光",
-        "hp": 75,
-        "concentrateAttack": 55,
+        "hp": 80,
+        "concentrateAttack": 40,
         "concentrateDefence": 60,
         "diffuseAttack": 125,
         "diffuseDefence": 90,
-        "speed": 80,
+        "speed": 90,
         "ability": [
           {
-            "name": "説教",
-            "description": "拡散スキルを受けたとき　３割の確率で相手を衰弱状態にする。"
+            "name": "白帝之金",
+            "description": "地相：白虎の時鋼鉄属性のスキルの威力が1.5倍になる。"
           },
           {
             "name": "威圧",
@@ -277,79 +179,167 @@
         ],
         "skill": [
           {
+            "lv": 1,
+            "name": "地相発現「白虎」",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "気象発現「黄砂」",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ステルストラップ",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "皆既日食",
+            "PP": 10
+          },
+          {
             "lv": 30,
-            "name": "月の加護",
-            "element": "光",
-            "category": "変化",
-            "power": "-",
-            "hit": "-",
-            "SP": 20,
-            "priority": 0,
-            "description": "自分の散弾と散防を上げる。",
-            "PP": 6
+            "name": "メタルニードル",
+            "PP": 8
           },
           {
             "lv": 36,
-            "name": "マナの恵み",
-            "element": "自然",
-            "category": "変化",
-            "power": "-",
-            "hit": "-",
-            "SP": 10,
-            "priority": 0,
-            "description": "最大HPの半分回復する。",
+            "name": "スターフレア",
             "PP": 13
           },
           {
             "lv": 42,
-            "name": "ムーンボウ",
-            "element": "光",
-            "category": "拡散",
-            "power": "95",
-            "hit": "100",
-            "SP": 15,
-            "priority": 0,
-            "description": "1割の確率で相手を混乱させる。",
+            "name": "マナの恵み",
+            "PP": 14
+          },
+          {
+            "lv": 49,
+            "name": "クロームレイ",
             "PP": 9
           },
           {
             "lv": 56,
-            "name": "皆既日食",
-            "element": "光",
-            "category": "変化",
-            "power": "-",
-            "hit": "75",
-            "SP": 10,
-            "priority": 0,
-            "description": "相手を恐怖と混乱状態にする。",
-            "PP": 14
+            "name": "ムーンボウ",
+            "PP": 15
           },
           {
             "lv": 63,
             "name": "ラストスラッシュ",
-            "element": "鋼鉄",
-            "category": "拡散",
-            "power": "100",
-            "hit": "100",
-            "SP": 5,
-            "priority": 0,
-            "description": "攻撃した後体勢を崩してしまう。",
-            "PP": 32
+            "PP": 10
           },
           {
              "lv": 70,
              "name": "アークライト",
-             "element": "光",
-             "category": "拡散",
-             "power": "130",
-             "hit": "90",
-             "SP": 5,
-             "priority": 0,
-             "description": "攻撃後自分の散弾が大きく下がる。",
              "PP": 34
+           },
+           {
+             "lv": 70,
+             "name": "月の加護",
+             "PP": 8
            }
+         ],
+        "skillCard": [2,6,8,9,10,11,18,20,25,26,29,34,39,40,41,43,44,48,49,50,54,59,61,63,64,65,70,71,72,78,79,90,99,101]
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "大地",
+        "element2": "歪",
+        "hp": 75,
+        "concentrateAttack": 110,
+        "concentrateDefence": 70,
+        "diffuseAttack": 55,
+        "diffuseDefence": 70,
+        "speed": 105,
+        "ability": [
+          {
+            "name": "説教",
+            "description": "拡散スキルを受けたとき　３割の確率で相手を衰弱状態にする。"
+          },
+          {
+            "name": "八咫の鏡",
+            "description": "HPが満タンの時 受けるダメージを半減する。"
+          }
         ],
-        "skillCard": [2,6,8,9,10,11,18,20,25,26,29,34,39,40,41,43,44,48,49,50,54,59,61,63,64,65,70,71,72,78,79,81]
+        "skill": [
+          {
+            "lv": 1,
+            "name": "マイントラップ",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "差引勘定",
+            "PP": 20
+          },
+          {
+            "lv": 1,
+            "name": "ガードミーン",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "アタックミーン",
+            "PP": 10
+          },
+          {
+            "lv": 30,
+            "name": "ロイヤルプリズム",
+            "PP": 8
+          },
+          {
+            "lv": 36,
+            "name": "時の螺旋",
+            "PP": 6
+          },
+          {
+            "lv": 42,
+            "name": "オーバーレイ",
+            "PP": 7
+          },
+          {
+            "lv": 49,
+            "name": "ダークスフィア",
+            "PP": 14
+          },
+          {
+            "lv": 56,
+            "name": "水鏡",
+            "PP": 7
+          },
+          {
+            "lv": 63,
+            "name": "奥の手",
+            "PP": 32
+          },
+          {
+            "lv": 70,
+            "name": "オーバードライブ",
+            "PP" : 34
+          },
+          {
+            "lv": 70,
+            "name": "震天動地",
+            "PP": 21
+          },
+          {
+            "lv": 70,
+            "name": "鉄壁之構",
+            "PP": 11
+          },
+          {
+            "lv": 70,
+            "name": "奮闘之構",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "虚像",
+            "PP": 8
+          }
+        ],
+        "skillCard": [2,6,8,9,10,11,13,15,16,17,18,19,20,25,26,29,30,33,34,36,38,39,40,41,43,44,46,50,54,59,61,63,64,65,68,70,71,72,78,79,81,85,88,90,100,101]
       }
     ],
     "description": "上白沢慧音の力を持つ人形。歴史を食べる（隠す）程度の能力と歴史を創る程度の能力。&br;満月の夜にはハクタクの力が強くなる。妹紅の人形と行動する。",

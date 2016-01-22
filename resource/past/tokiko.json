@@ -1,0 +1,139 @@
+{
+  "doll":{
+    "dollName": "ときこ",
+    "image": "",
+    "caption": "",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "風",
+        "element2": "-",
+        "hp": 50,
+        "concentrateAttack": 50,
+        "concentrateDefence": 60,
+        "diffuseAttack": 35,
+        "diffuseDefence": 40,
+        "speed": 30,
+        "ability": [
+          {
+            "name": "吹き荒ぶ萌黄",
+            "description": "残りHPが1/3以下の時 風属性の威力が上がる。"
+          },
+          {
+            "name": "治癒力",
+            "description": "手持ちに戻った時 最大HPの1/3回復する。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "P",
+        "element1": "風",
+        "element2": "-",
+        "hp": 100,
+        "concentrateAttack": 100,
+        "concentrateDefence": 95,
+        "diffuseAttack": 50,
+        "diffuseDefence": 95,
+        "speed": 35,
+        "ability": [
+           {
+             "name": "威嚇射撃",
+             "description": "場に出た時 相手の散弾を一段階下げる。"
+           },
+           {
+            "name": "治癒力",
+            "description": "手持ちに戻った時 最大HPの1/3回復する。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "A",
+        "element1": "風",
+        "element2": "無",
+        "hp": 95,
+        "concentrateAttack": 70,
+        "concentrateDefence": 100,
+        "diffuseAttack": 70,
+        "diffuseDefence": 65,
+        "speed": 75,
+        "ability": [
+           {
+             "name": "威嚇射撃",
+             "description": "場に出た時 相手の散弾を一段階下げる。"
+           },
+           {
+            "name": "治癒力",
+            "description": "手持ちに戻った時 最大HPの1/3回復する。"
+          }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "風",
+        "element2": "歪",
+        "hp": 80,
+        "concentrateAttack": 40,
+        "concentrateDefence": 60,
+        "diffuseAttack": 120,
+        "diffuseDefence": 105,
+        "speed": 70,
+        "ability": [
+           {
+             "name": "無効化",
+             "description": "相手のアビリティをなくす。"
+           },
+           {
+             "name": "警戒心",
+             "description": "威力50以下の攻撃スキルを無効化する。"
+           }
+        ],
+        "skill": [
+        ],
+        "skillCard": []
+      }
+    ],
+    "description": "香霖堂で静かに本を呼んでいる人形。内容を理解しているわけではないが とにかく本を読む。&br;霊夢の人形とは仲が悪い。",
+    "cost": 80,
+    "spot": [
+      {
+        "name": "出現場所A",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所B（洞窟）",
+        "minLv": 0,
+        "maxLv": 0
+      },
+      {
+        "name": "出現場所C（濃い草むら）",
+        "minLv": 0,
+        "maxLv": 0
+      }
+    ],
+    "fixSpot": [
+      {
+        "name": "出現場所：出現位置",
+        "minLv": 0,
+        "maxLv": 0,
+        "description": "ブーイングに注意等"
+      }
+    ],
+    "dropItem": [
+    ],
+    "abilityAnnotation": ""
+  }
+}

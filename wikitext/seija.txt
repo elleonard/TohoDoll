@@ -53,7 +53,7 @@
 |~|~Lv63|[[COLOR(Red):毒の濁流>毒の濁流]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|EN|100|100|10|0|通常攻撃。|16|
 |~|~Lv70|[[COLOR(Red):ベノムノヴァ>ベノムノヴァ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|BUEN|120|85|5|0|１割の確率で相手を毒状態にする。|34|
 |~|~|[[COLOR(Blue):スイートデスペラート>スイートデスペラート]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
-|~|~|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BUEN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+|~|~|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
 |~|~|[[ブーイング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|-6|控えの人形をひきずり出す。|8|
 #endregion
 

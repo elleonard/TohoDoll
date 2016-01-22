@@ -8,7 +8,7 @@ case class DollSkill(
   val PP: Int
 ) {
   def entity = SkillDao.getByName(name) match {
-    case Some(null) | None => throw new Exception("not found skill:"+name)
+    case Some(null) | None => throw new Exception("[error]: not found skill:"+name)
     case Some(e) => e
   }
 

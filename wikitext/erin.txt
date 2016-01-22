@@ -1,0 +1,126 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(./Baidu IME_2016-1-7_16-15-38.jpg,nolink, えいりん);|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:80|RIGHT:45|RIGHT:40|RIGHT:70|RIGHT:40|RIGHT:45|CENTER:320|
+|~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:145|RIGHT:80|RIGHT:65|RIGHT:120|RIGHT:75|RIGHT:75|CENTER:560|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(silver):鋼鉄|>|>|RIGHT:125|RIGHT:85|RIGHT:80|RIGHT:130|RIGHT:80|RIGHT:60|CENTER:560|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:100|RIGHT:60|RIGHT:100|RIGHT:95|RIGHT:100|RIGHT:105|CENTER:560|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[薬毒変換]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|吸収スキルを受けた時相手は回復せずその分のダメージを受ける。|
+|CENTER:[[応急処置]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Red){''P''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|手持ちに戻った時 状態異常を回復する。|
+|CENTER:[[冷静沈着]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|補助スキルを封じられない。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:八意永琳の力を持つ人形。あらゆる薬を作る程度の能力を持つ。&br;傷ついた生き物を見つけると薬草を分け与える。竹林の奥で何かを隠している。  |120|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:永遠亭|>|>|CENTER:CENTER:18～20|>|>|CENTER:|
+
+
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};||&color(Blue){△};|&color(Blue){△};||&color(Red){○};|&color(Blue){△};|&color(Red){○};|&color(Red){○};|&color(Blue){△};||||&color(Blue){△};|||&color(Blue){△};||
+|BGCOLOR(#F8FAFB):CENTER:&color(Deeppink){''アシスト''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Red){''パワー''};||&color(Red){○};||&color(Blue){△};|&color(Red){◎};|&color(Blue){△};||||||×||&color(Blue){△};||||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+* スキル [#skill]
+#region(&color(Deeppink){''アシスト''};,open)
+&color(Deeppink){''アシスト''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[感染]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|25|0|相手を毒状態にする。|3|
+|~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Blue):煙幕弾>煙幕弾]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を毒状態にする。|3|
+|~|~Lv10|[[COLOR(Blue):シャボン玉>シャボン玉]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv14|[[COLOR(Blue):乱射>乱射]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Blue){拡散};|EN|25|100|10|0|２～５回連続で攻撃する。|11|
+|~|~Lv19|[[ポイズントラップ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|20|0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。&br;２回使うと猛毒にする。|5|
+|~|~Lv24|[[COLOR(Blue):猛毒ガス>猛毒ガス]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|65|100|10|0|２割の確率で相手を猛毒状態にする。|12|
+|~&color(Deeppink){''A''};|~Lv1|[[COLOR(Blue):集中豪雨>集中豪雨]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|EN|20|100|20|0|４～５ターンのあいだ相手を閉じ込めて攻撃する。|5|
+|~|~|[[気象発現「黄砂」]]|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:変化|なし|-|-|10|0|気象を黄砂にする。|10|
+|~|~|[[クロスチェンジ]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|自分と相手のアビリティを入れ替える。|10|
+|~|~Lv30|[[COLOR(Blue):スライムショット>スライムショット]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|BU|55|100|15|0|相手の俊敏を下げる。|8|
+|~|~Lv36|[[COLOR(Blue):毒々スパイラル>毒々スパイラル]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|40|100|20|0|相手の散防を大きく下げる。|6|
+|~|~Lv42|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|9|
+|~|~Lv49|[[COLOR(Blue):レイジィミスト>レイジィミスト]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|EN|80|100|20|0|３割の確率で相手を衰弱状態にする。|14|
+|~|~Lv56|[[COLOR(Blue):ナゾの液体>ナゾの液体]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|65|100|10|0|毒 猛毒状態の相手には威力が２倍になる。|15|
+|~|~Lv63|[[COLOR(Blue):ポイズンボム>ポイズンボム]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|95|100|15|0|１割の確率で相手を毒状態にする。|10|
+|~|~Lv70|[[COLOR(Blue):コールドレイン>コールドレイン]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|EN|120|80|5|0|１割の確率で相手を衰弱状態にする。|34|
+|~|~|[[COLOR(Blue):迷霧散花>迷霧散花]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Blue){拡散};|EN|120|100|10|0|１ターン目に力を溜め２ターン目に攻撃する。気象が濃霧の時力を溜めずに使える。|17|
+#endregion
+
+#region(&color(Red){''パワー''};,open)
+&color(Red){''パワー''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[感染]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|25|0|相手を毒状態にする。|3|
+|~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Blue):煙幕弾>煙幕弾]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を毒状態にする。|3|
+|~|~Lv10|[[COLOR(Blue):シャボン玉>シャボン玉]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv14|[[COLOR(Blue):乱射>乱射]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Blue){拡散};|EN|25|100|10|0|２～５回連続で攻撃する。|11|
+|~|~Lv19|[[ポイズントラップ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|20|0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。&br;２回使うと猛毒にする。|5|
+|~|~Lv24|[[COLOR(Blue):猛毒ガス>猛毒ガス]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|65|100|10|0|２割の確率で相手を猛毒状態にする。|12|
+|~&color(Red){''P''};|~Lv1|[[臨死体験]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|20|0|最後に使われたスキルで相手に攻撃する。|5|
+|~|~|[[映し身]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|能力変化の状態を相手と同じにする。|10|
+|~|~|[[COLOR(Blue):集中豪雨>集中豪雨]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|EN|20|100|20|0|４～５ターンのあいだ相手を閉じ込めて攻撃する。|5|
+|~|~|[[月の加護]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の散弾と散防を上げる。|5|
+|~|~Lv30|[[COLOR(Blue):クロームレイ>クロームレイ]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|EN|90|100|15|0|１割の確率で相手の散防を下げる。|8|
+|~|~Lv36|[[COLOR(Blue):毒々スパイラル>毒々スパイラル]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|40|100|20|0|相手の散防を大きく下げる。|6|
+|~|~Lv42|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|9|
+|~|~Lv49|[[COLOR(Blue):ネガティブミスト>ネガティブミスト]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|60|-|15|0|必ず攻撃が当たる。相手の能力変化を元に戻す。|9|
+|~|~Lv56|[[COLOR(Red):毒の濁流>毒の濁流]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|EN|100|100|10|0|通常攻撃。|15|
+|~|~Lv63|[[COLOR(Blue):銀色の雨>銀色の雨]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|EN|95|100|15|0|１割の確率で自分の散弾を上げる。|10|
+|~|~Lv70|[[COLOR(Blue):ポイズンボム>ポイズンボム]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|95|100|15|0|１割の確率で相手を毒状態にする。|11|
+|~|~|[[COLOR(Red):ディストーションボム>ディストーションボム]]|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:&color(Red){集中};|BU|95|100|15|0|１割の確率で相手の集防を下げる。|11|
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[感染]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|25|0|相手を毒状態にする。|3|
+|~|~|[[COLOR(Blue):陽の気力>陽の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Blue){拡散};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Blue):煙幕弾>煙幕弾]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|55|100|30|0|３割の確率で相手を毒状態にする。|3|
+|~|~Lv10|[[COLOR(Blue):シャボン玉>シャボン玉]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|BU|60|100|30|0|通常攻撃。|3|
+|~|~Lv14|[[COLOR(Blue):乱射>乱射]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Blue){拡散};|EN|25|100|10|0|２～５回連続で攻撃する。|11|
+|~|~Lv19|[[ポイズントラップ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|-|20|0|ポイズントラップを設置し交代で出てきた相手の人形を毒にする。&br;２回使うと猛毒にする。|5|
+|~|~Lv24|[[COLOR(Blue):猛毒ガス>猛毒ガス]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|65|100|10|0|２割の確率で相手を猛毒状態にする。|12|
+|~&color(Purple){''E''};|~Lv1|[[蜃気楼]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|15|4|変化スキルを相手に跳ね返す。|6|
+|~|~|[[占星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|100|20|0|相手の集弾を大きく下げる。|5|
+|~|~|[[気象発現「極光」]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|10|0|気象を極光にする。|10|
+|~|~|[[負の嘲笑]]|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:変化|なし|-|100|10|0|相手が最後に使ったスキルのSPを4だけ減らす。|10|
+|~|~Lv30|[[COLOR(Blue):ネガティブミスト>ネガティブミスト]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|60|-|15|0|必ず攻撃が当たる。相手の能力変化を元に戻す。|8|
+|~|~Lv36|[[COLOR(Blue):スターフレア>スターフレア]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BU|80|100|20|0|２割の確率で相手の命中を下げる。|6|
+|~|~Lv42|[[パワースポット]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|次のターンに自分の最大HPの半分回復する。|9|
+|~|~Lv49|[[COLOR(Blue):ナゾの液体>ナゾの液体]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|BU|65|100|10|0|毒 猛毒状態の相手には威力が２倍になる。|9|
+|~|~Lv56|[[COLOR(Blue):ムーンボウ>ムーンボウ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|BU|95|100|15|0|1割の確率で相手を混乱させる。|15|
+|~|~Lv63|[[COLOR(Blue):エナジーアブソーブ>エナジーアブソーブ]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:&color(Blue){拡散};|EN|75|100|10|0|与えたダメージの半分のHPを回復できる。|16|
+|~|~Lv70|[[COLOR(Blue):銀色の雨>銀色の雨]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Blue){拡散};|EN|95|100|15|0|１割の確率で自分の散弾を上げる。|11|
+|~|~|[[COLOR(Blue):スイートデスペラート>スイートデスペラート]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+|~|~|[[COLOR(Blue):スライムショット>スライムショット]]|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:&color(Blue){拡散};|BU|55|100|15|0|相手の俊敏を下げる。|11|
+|~|~|[[月の加護]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の散弾と散防を上げる。|8|
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Deeppink){''A''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|
+|~2|[[COLOR(Red):アクアジャベリン>アクアジャベリン]]||CENTER:''○''|CENTER:''○''||~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~5|BGCOLOR(#F8FAFB):[[COLOR(Red):スパークジャベリン>スパークジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~44|BGCOLOR(#F8FAFB):[[COLOR(Blue):コールドレイン>コールドレイン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~7|[[COLOR(Red):シャドウジャベリン>シャドウジャベリン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~45|[[COLOR(Blue):レイジィミスト>レイジィミスト]]||CENTER:''○''|||~65|[[無我の境地>無我の境地]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~8|BGCOLOR(#F8FAFB):[[COLOR(Red):オーバースキル>オーバースキル]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~47|BGCOLOR(#F8FAFB):[[COLOR(Blue):ミストフォッグ>ミストフォッグ]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~66|BGCOLOR(#F8FAFB):[[足止め>足止め]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~9|[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~49|[[COLOR(Blue):クロームレイ>クロームレイ]]|||CENTER:''○''||~68|[[干ばつ>干ばつ]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~10|BGCOLOR(#F8FAFB):[[COLOR(Red):逆転の一手>逆転の一手]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~54|BGCOLOR(#F8FAFB):[[COLOR(Blue):スターフレア>スターフレア]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~71|BGCOLOR(#F8FAFB):[[フィールドプロテクト>フィールドプロテクト]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~13|[[COLOR(Red):滝落>滝落]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~57|[[COLOR(Blue):ラヴォルペイン>ラヴォルペイン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~77|[[ミアズマ>ミアズマ]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~26|BGCOLOR(#F8FAFB):[[COLOR(Red):破邪の弓撃>破邪の弓撃]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~58|BGCOLOR(#F8FAFB):[[COLOR(Blue):ポイズンボム>ポイズンボム]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~78|BGCOLOR(#F8FAFB):[[コンティニュー>コンティニュー]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~28|[[COLOR(Red):ダークアロー>ダークアロー]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~83|[[COLOR(Blue):迷霧散花>迷霧散花]]||CENTER:''○''|||~80|[[クレーム>クレーム]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~31|BGCOLOR(#F8FAFB):[[COLOR(Red):毒矢>毒矢]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~90|BGCOLOR(#F8FAFB):[[COLOR(Blue):オーバーラン>オーバーラン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~35|[[COLOR(Red):チャージングスタン>チャージングスタン]]|||CENTER:''○''||~92|[[COLOR(Blue):氷獄>氷獄]]||CENTER:''○''|||~ ||||||
+|~81|BGCOLOR(#F8FAFB):[[COLOR(Red):ディストーションボム>ディストーションボム]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~101-115|BGCOLOR(#F8FAFB):COLOR(Blue):属性符|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+----
+*コメント[#comment]
+#pComment(えいりん/コメント,えいりん/コメント,below,reply)
