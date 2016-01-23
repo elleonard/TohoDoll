@@ -1,0 +1,329 @@
+{
+  "doll":{
+    "dollName": "パチュリー",
+    "image": "",
+    "caption": "",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "無",
+        "element2": "",
+        "hp": 35,
+        "concentrateAttack": 40,
+        "concentrateDefence": 30,
+        "diffuseAttack": 85,
+        "diffuseDefence": 85,
+        "speed": 30,
+        "ability": [
+          {
+            "name": "共鳴",
+            "description": "状態異常になった時相手も同じ状態異常にする。"
+          },
+          {
+            "name": "不動の構え",
+            "description": "強制交代させられず怯まない。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "障壁強化",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "陽の気力",
+            "PP": 2
+          },
+          {
+            "lv": 7,
+            "name": "雪月花",
+            "PP": 10
+          },
+          {
+            "lv": 10,
+            "name": "純水のベール",
+            "PP": 4
+          },
+          {
+            "lv": 14,
+            "name": "エナジーボルト",
+            "PP": 5
+          },
+          {
+            "lv": 19,
+            "name": "フレア",
+            "PP": 11
+          },
+          {
+            "lv": 24,
+            "name": "トライエフェクト",
+            "PP": 6
+          }
+        ],
+        "skillCard": [9,39,50,63,64,70,72,78,79,80,101]
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "P",
+        "element1": "炎",
+        "element2": "水",
+        "hp": 70,
+        "concentrateAttack": 55,
+        "concentrateDefence": 35,
+        "diffuseAttack": 145,
+        "diffuseDefence": 155,
+        "speed": 55,
+        "ability": [
+          {
+            "name": "共鳴",
+            "description": "状態異常になった時相手も同じ状態異常にする。"
+          },
+          {
+            "name": "不動の構え",
+            "description": "強制交代させられず怯まない。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "アタックミーン",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ガードミーン",
+            "PP": 10
+          },
+          {
+            "lv": 30,
+            "name": "フラッシュオーバー",
+            "PP": 6
+          },
+          {
+            "lv": 36,
+            "name": "レイジィミスト",
+            "PP": 6
+          },
+          {
+            "lv": 42,
+            "name": "月の加護",
+            "PP": 7
+          },
+          {
+            "lv": 49,
+            "name": "ラプラスの目",
+            "PP": 7
+          },
+          {
+            "lv": 56,
+            "name": "インフェルノ",
+            "PP": 31
+          },
+          {
+            "lv": 63,
+            "name": "コールドレイン",
+            "PP": 32
+          },
+          {
+            "lv": 70,
+            "name": "エクスプロージョン",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "占星",
+            "PP": 8
+          }
+        ],
+        "skillCard": [9,22,39,42,43,44,45,49,50,54,55,59,63,64,65,70,71,72,73,78,79,80,90,91,92,101]
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "D",
+        "element1": "雷",
+        "element2": "自然",
+        "hp": 100,
+        "concentrateAttack": 55,
+        "concentrateDefence": 80,
+        "diffuseAttack": 130,
+        "diffuseDefence": 80,
+        "speed": 70,
+        "ability": [
+          {
+            "name": "共鳴",
+            "description": "状態異常になった時相手も同じ状態異常にする。"
+          },
+          {
+            "name": "慧眼",
+            "description": "俊敏以外の相手の能力変化を無視する。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "アタックミーン",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ガードミーン",
+            "PP": 10
+          },
+          {
+            "lv": 30,
+            "name": "ミストフォッグ",
+            "PP": 8
+          },
+          {
+            "lv": 36,
+            "name": "月の加護",
+            "PP": 6
+          },
+          {
+            "lv": 42,
+            "name": "雷雲の瞳",
+            "PP": 7
+          },
+          {
+            "lv": 49,
+            "name": "ムーンボウ",
+            "PP": 14
+          },
+          {
+            "lv": 56,
+            "name": "サンダーフォース",
+            "PP": 10
+          },
+          {
+            "lv": 63,
+            "name": "彩光百花",
+            "PP": 16
+          },
+          {
+            "lv": 70,
+            "name": "雷帝インディグネイト",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "占星",
+            "PP": 8
+          }
+        ],
+        "skillCard": [9,39,46,47,48,50,51,53,54,55,59,63,64,65,70,72,78,79,80,90,101]
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "風",
+        "element2": "鋼鉄",
+        "hp": 100,
+        "concentrateAttack": 55,
+        "concentrateDefence": 150,
+        "diffuseAttack": 100,
+        "diffuseDefence": 60,
+        "speed": 50,
+        "ability": [
+          {
+            "name": "受け流し",
+            "description": "相手のスキルを無効にした時集防が一段階上がる。"
+          },
+          {
+            "name": "迎撃体勢",
+            "description": "種別BUのスキルを受けた時弾幕を打ち返す。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "低速移動",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "占星",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "フォースシールド",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "攻撃置換",
+            "PP": 10
+          },
+          {
+            "lv": 30,
+            "name": "ウィンドウェイブ",
+            "PP": 8
+          },
+          {
+            "lv": 36,
+            "name": "命の泉",
+            "PP": 6
+          },
+          {
+            "lv": 42,
+            "name": "シェイクギア",
+            "PP": 14
+          },
+          {
+            "lv": 49,
+            "name": "スピニングエア",
+            "PP": 14
+          },
+          {
+            "lv": 56,
+            "name": "スライムショット",
+            "PP": 10
+          },
+          {
+            "lv": 63,
+            "name": "月の加護",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "銀色の雨",
+            "PP" : 11
+          },
+          {
+            "lv": 70,
+            "name": "エレメントリバース",
+            "PP": 17
+          },
+          {
+            "lv": 70,
+            "name": "パワースポット",
+            "PP": 11
+          },
+          {
+            "lv": 70,
+            "name": "オーラドレイン",
+            "PP": 17
+          }
+        ],
+        "skillCard": [1,4,9,15,16,17,19,22,23,39,43,49,50,54,55,63,64,65,66,67,70,72,78,79,80,90,93,101]
+      }
+    ],
+    "description": "パチュリー・ノーレッジの力を持つ人形。火＋水＋木＋金＋土＋日＋月を操る程度の能力を持つ。&br;運動が苦手だが色々な魔法を使う。",
+    "cost": 100,
+    "spot": [
+      {
+        "name": "紅魔館",
+        "minLv": 23,
+        "maxLv": 25
+      }
+    ],
+    "fixSpot": [
+    ],
+    "dropItem": [
+      "魔力の欠片", "魔導書"
+    ],
+    "abilityAnnotation": ""
+  }
+}

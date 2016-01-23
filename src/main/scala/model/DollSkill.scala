@@ -7,9 +7,21 @@ case class DollSkill(
   val name: String,
   val PP: Int
 ) {
-  def entity = SkillDao.getByName(name) match {
-    case Some(null) | None => throw new Exception("[error]: not found skill:"+name)
-    case Some(e) => e
+  /**
+   * スキル詳細情報をDBから取得する
+   */
+  def entity = {
+    SkillDao.getByName(name) match {
+      case Some(null) | None => throw new Exception("[error]: not found skill:"+name)
+      case Some(e) => e
+    }
+  }
+
+  /**
+   * スキルがDB上に存在するかどうか
+   */
+  def existSkill = {
+    SkillDao.getByName(name).isDefined
   }
 
   /**

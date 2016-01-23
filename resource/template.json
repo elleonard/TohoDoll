@@ -1,0 +1,319 @@
+{
+  "doll":{
+    "dollName": "",
+    "image": "",
+    "caption": "",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "",
+        "element2": "",
+        "hp": ,
+        "concentrateAttack": ,
+        "concentrateDefence": ,
+        "diffuseAttack": ,
+        "diffuseDefence": ,
+        "speed": ,
+        "ability": [
+          {
+            "name": "",
+            "description": ""
+          },
+          {
+            "name": "",
+            "description": ""
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 7,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 10,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 14,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 19,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 24,
+            "name": "",
+            "PP": 
+          }
+        ],
+        "skillCard": [101]
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "",
+        "element1": "",
+        "element2": "",
+        "hp": ,
+        "concentrateAttack": ,
+        "concentrateDefence": ,
+        "diffuseAttack": ,
+        "diffuseDefence": ,
+        "speed": ,
+        "ability": [
+          {
+            "name": "",
+            "description": ""
+          },
+          {
+            "name": "",
+            "description": ""
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 30,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 36,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 42,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 49,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 56,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 63,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          }
+        ],
+        "skillCard": [101]
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "",
+        "element1": "",
+        "element2": "",
+        "hp": ,
+        "concentrateAttack": ,
+        "concentrateDefence": ,
+        "diffuseAttack": ,
+        "diffuseDefence": ,
+        "speed": ,
+        "ability": [
+          {
+            "name": "",
+            "description": ""
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 30,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 36,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 42,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 49,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 56,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 63,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          }
+        ],
+        "skillCard": [101]
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "E",
+        "element1": "",
+        "element2": "",
+        "hp": ,
+        "concentrateAttack": ,
+        "concentrateDefence": ,
+        "diffuseAttack": ,
+        "diffuseDefence": ,
+        "speed": ,
+        "ability": [
+          {
+            "name": "",
+            "description": ""
+          },
+          {
+            "name": "",
+            "description": ""
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 1,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 30,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 36,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 42,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 49,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 56,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 63,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP" : 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          },
+          {
+            "lv": 70,
+            "name": "",
+            "PP": 
+          }
+        ],
+        "skillCard": [101]
+      }
+    ],
+    "description": "",
+    "cost": ,
+    "spot": [
+      {
+        "name": "",
+        "minLv": ,
+        "maxLv": 
+      }
+    ],
+    "fixSpot": [
+    ],
+    "dropItem": [
+    ],
+    "abilityAnnotation": ""
+  }
+}

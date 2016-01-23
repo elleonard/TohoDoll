@@ -4,6 +4,9 @@ resourceディレクトリに決められた書式のJSONファイルを置い�
 sbt run
 するとwikitextディレクトリにwiki記法のファイルが生成される。
 
+sbt "run checkskill"
+でcsvに定義されていないスキルを洗い出せる。
+
 ## 仕様
 決められた書式のJSONを記述して実行すると、
 テンプレートに従ったwikiソースが生成される。
@@ -15,6 +18,7 @@ resourceディレクトリ以下に見本がある
 
 skill-list.csvに定義されていない技はエラーになるため
 skill-list.csvの更新も必要
+（sbt "run checkskill"でチェック可能）
 
 ## 既知の問題点
 * skill-list.csvにないスキルの扱い

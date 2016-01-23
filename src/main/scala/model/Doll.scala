@@ -2,13 +2,16 @@ package model
 
 import utils.TableUtils
 import scala.collection.immutable.TreeMap
+import utils.TDLogger
 
 case class DollData(doll: Doll){
-  def toWiki = {
+  def toWiki: String = {
     doll.toWiki+"\n&br;\n"+doll.elementRateTable+"\n"+doll.skillTable+"\n"+doll.skillCardTable+"\n"+
     "----\n*コメント[#comment]\n"+
     "#pComment("+doll.dollName+"/コメント,"+doll.dollName+"/コメント,below,reply)"
   }
+
+  def checkSkill: Int = doll.checkSkill
 }
 
 case class Doll(
@@ -124,7 +127,7 @@ case class Doll(
             })
         }
         case _ => {
-          println("[お知らせ]: "+style.getStyleSymbol+""+dollName+"のスキルをロードします。")
+          TDLogger.info(style.getStyleSymbol+""+dollName+"のスキルをロードします。")
           "#region(&color("+style.color+"){''"+style.styleName+"''};,open)\n"+
           "&color("+style.color+"){''"+style.styleName+"''};\n"+
           getSkillTable(DollStyle.Normal, normalSkillList)+
@@ -214,6 +217,31 @@ case class Doll(
   /* スキルカードを使用可能なスタイルがあるか */
   def hasSkillCard(skillCardNumber: Int): Boolean = {
     style.exists( s => s.hasSkillCard && s.hasSkillCard(skillCardNumber) )
+  }
+
+  /**
+   * スキルチェック
+   * ハクタクや三位一体等の特殊スタイルはチェックしない
+   *
+   * @return Int DB上に存在しなかったスキルの数
+   */
+  def checkSkill: Int = {
+    var errorCount = 0
+    style.filter { st => !st.getStyle.get.isSpecial }.map(s => {
+      TDLogger.info(s.getStyleSymbol+""+dollName+"のスキルをチェックします。")
+      s.getSkillList match {
+        case Some(slist) => {
+          slist.map(skill =>
+            if(!skill.existSkill){
+              TDLogger.error("スキル:"+skill.name+"がDBに存在しません。")
+              errorCount+=1
+            }
+          )
+        }
+        case None =>
+      }
+    })
+    errorCount
   }
 }
 
