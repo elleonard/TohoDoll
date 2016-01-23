@@ -8,12 +8,12 @@
 |~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:60|RIGHT:50|RIGHT:100|RIGHT:75|RIGHT:120|RIGHT:80|CENTER:485|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:80|RIGHT:40|RIGHT:85|RIGHT:125|RIGHT:70|RIGHT:85|CENTER:485|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[陰の気質]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|闇・冥・毒のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。|
-|CENTER:[[光明之型]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|自分が使う無属性のスキルが 光属性になり 威力が1.3倍になる。|
-|CENTER:[[気質発現「濃霧」]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|戦闘に出ると 気象が濃霧になる。|
-|CENTER:[[御霊信仰]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|冥属性のスキルを無効化し HPが回復する。|
-|CENTER:[[威嚇射撃]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|場に出た時 相手の散弾を一段階下げる。|
-|CENTER:[[お調子者]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手のスキルを無効にした時 俊敏が一段階あがる。|
+|CENTER:[[陰の気質]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:闇・冥・毒のスキルを受けた時 ダメージを軽減し 自分の俊敏が一段階上がる。|
+|CENTER:[[光明之型]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:自分が使う無属性のスキルが 光属性になり 威力が1.3倍になる。|
+|CENTER:[[気質発現「濃霧」]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:戦闘に出ると 気象が濃霧になる。|
+|CENTER:[[御霊信仰]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:冥属性のスキルを無効化し HPが回復する。|
+|CENTER:[[威嚇射撃]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:場に出た時 相手の散弾を一段階下げる。|
+|CENTER:[[お調子者]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手のスキルを無効にした時 俊敏が一段階あがる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:赤蛮奇の力を持つ人形。首を飛ばせる程度の能力を持つ。&br;首を飛ばして人を驚かせるのが特異だが飛ばしすぎてよく頭をぶつけてしまう。いたそう。|80|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

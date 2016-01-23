@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|>|>|RIGHT:100|RIGHT:125|RIGHT:85|RIGHT:65|RIGHT:85|RIGHT:75|CENTER:535|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:85|RIGHT:110|RIGHT:70|RIGHT:80|RIGHT:65|RIGHT:125|CENTER:535|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[倹約家]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|使った符を取り戻すことがある。気象：凪の時 必ず取り戻す。|
-|CENTER:[[冷静沈着]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|	補助スキルを封じられない。|
-|CENTER:[[自祓]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|冥属性のスキルを無効化し　集弾が一段階上がる。|
-|CENTER:[[心眼]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|状態異常の時　集弾が１．５倍になる。暗闇状態でも集弾が低下しない。|
-|CENTER:[[怪天虹]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|気象：天気雨のときに集弾が１．３倍になる。|
+|CENTER:[[倹約家]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:使った符を取り戻すことがある。気象：凪の時 必ず取り戻す。|
+|CENTER:[[冷静沈着]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:	補助スキルを封じられない。|
+|CENTER:[[自祓]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:冥属性のスキルを無効化し　集弾が一段階上がる。|
+|CENTER:[[心眼]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:状態異常の時　集弾が１．５倍になる。暗闇状態でも集弾が低下しない。|
+|CENTER:[[怪天虹]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:気象：天気雨のときに集弾が１．３倍になる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:博麗霊夢の力を持つ人形。空を飛ぶ程度の能力と霊力を操る程度の能力を持つ。&br;妖怪の力を持つ人形に強い。妖怪の人形を見るとグーで殴りかかる。|110|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

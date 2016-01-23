@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(green):COLOR(white):自然|>|>|RIGHT:100|RIGHT:105|RIGHT:85|RIGHT:50|RIGHT:100|RIGHT:55|CENTER:495|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(brown):COLOR(white):大地|>|>|RIGHT:165|RIGHT:40|RIGHT:90|RIGHT:90|RIGHT:45|RIGHT:65|CENTER:495|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[応急処置]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|手持ちに戻った時 状態異常を回復する。|
-|CENTER:[[共鳴]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|状態異常になった時 相手も同じ 状態異常にする。|
-|CENTER:[[倹約家]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|使った装飾品を取り戻すことがある。気象：凪の時 必ず取り戻す。|
-|CENTER:[[光のカーテン]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|気象：極光の時 混乱状態にならず ターン終了時に状態異常が回復する。|
-|CENTER:[[テンションアップ]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手のスキルを無効にした時 散弾が一段階上がる。|
+|CENTER:[[応急処置]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:手持ちに戻った時 状態異常を回復する。|
+|CENTER:[[共鳴]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:状態異常になった時 相手も同じ 状態異常にする。|
+|CENTER:[[倹約家]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:使った装飾品を取り戻すことがある。気象：凪の時 必ず取り戻す。|
+|CENTER:[[光のカーテン]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:気象：極光の時 混乱状態にならず ターン終了時に状態異常が回復する。|
+|CENTER:[[テンションアップ]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手のスキルを無効にした時 散弾が一段階上がる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:九十九弁々の力を持つ人形。自ら音を発して演奏できる程度の能力を持つ。&br;琵琶の付喪神であり スピード感のある直線的な曲を好む。八橋の人形とよく競い合っている。|80|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

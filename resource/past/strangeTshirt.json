@@ -1,0 +1,404 @@
+{
+  "doll":{
+    "dollName": "ヘカーティア",
+    "image": "./ユメノカケラへカーティア.png",
+    "caption": "ヘカーティア",
+    "style": [
+      {
+        "styleId": 0,
+        "styleSymbol": "N",
+        "element1": "無",
+        "element2": "",
+        "hp": 50,
+        "concentrateAttack": 70,
+        "concentrateDefence": 60,
+        "diffuseAttack": 55,
+        "diffuseDefence": 60,
+        "speed": 50,
+        "ability": [
+          {
+            "name": "テンションアップ",
+            "description": "相手のスキルを無効にした時 散弾が一段階あがる。"
+          },
+          {
+            "name": "第六感",
+            "description": "場に出た時 相手が結界を貫通するスキルを持っているかどうかわかる。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "陰の気力",
+            "PP": 2
+          },
+          {
+            "lv": 1,
+            "name": "順風",
+            "PP": 6
+          },
+          {
+            "lv": 7,
+            "name": "ストーンレイン",
+            "PP": 5
+          },
+          {
+            "lv": 10,
+            "name": "インビジブルハート",
+            "PP": 5
+          },
+          {
+            "lv": 14,
+            "name": "仇討",
+            "PP": 22
+          },
+          {
+            "lv": 19,
+            "name": "太陽の加護",
+            "PP": 2
+          },
+          {
+            "lv": 24,
+            "name": "ブラックホール",
+            "PP": 24
+          }
+        ],
+        "skillCard": [9,10,16,18,33,39,40,41,63,64,65,72,78,79,80,101]
+      },
+      {
+        "styleId": 1,
+        "styleSymbol": "P",
+        "element1": "無",
+        "element2": "",
+        "hp": 90,
+        "concentrateAttack": 100,
+        "concentrateDefence": 85,
+        "diffuseAttack": 135,
+        "diffuseDefence": 85,
+        "speed": 95,
+        "ability": [
+          {
+            "name": "得意分野",
+            "description": "属性一致のスキルの威力が高い。"
+          },
+          {
+            "name": "中央の地脈",
+            "description": "地相：黄龍の時 相手の能力ランクを無視し アビリティを無視して攻撃できる。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "怒号",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "正直者の大嘘",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "不動心",
+            "PP": 10
+          },
+          {
+            "lv": 30,
+            "name": "トライエフェクト",
+            "PP": 6
+          },
+          {
+            "lv": 36,
+            "name": "夢幻のメロディー",
+            "PP": 9
+          },
+          {
+            "lv": 42,
+            "name": "シューティングプレス",
+            "PP": 14
+          },
+          {
+            "lv": 49,
+            "name": "マナの恵み",
+            "PP": 7
+          },
+          {
+            "lv": 56,
+            "name": "土石の荒波",
+            "PP": 10
+          },
+          {
+            "lv": 63,
+            "name": "エクスプロージョン",
+            "PP": 32
+          },
+          {
+            "lv": 70,
+            "name": "弾幕乱舞",
+            "PP": 17
+          },
+          {
+            "lv": 70,
+            "name": "神鳴",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "天明の大火",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "ばくれつゲンコツ",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "ブレイブソング",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "奮戦",
+            "PP": 11
+          }
+        ],
+        "skillCard": [8,9,10,11,12,15,16,18,26,29,33,39,40,41,62,63,64,65,70,71,72,78,79,80,101]
+      },
+      {
+        "styleId": 2,
+        "styleSymbol": "D",
+        "element1": "大地",
+        "element2": "闇",
+        "hp": 80,
+        "concentrateAttack": 120,
+        "concentrateDefence": 70,
+        "diffuseAttack": 70,
+        "diffuseDefence": 200,
+        "speed": 50,
+        "ability": [
+          {
+            "name": "徹底拘束",
+            "description": "相手はスキルの効果で交代できない。"
+          },
+          {
+            "name": "中央の地脈",
+            "description": "地相：黄龍の時 相手の能力ランクを無視し アビリティを無視して攻撃できる。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "気象発現「黄砂」",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ステルストラップ",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "ブーイング",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "地走り",
+            "PP": 5
+          },
+          {
+            "lv": 30,
+            "name": "パニックコール",
+            "PP": 13
+          },
+          {
+            "lv": 36,
+            "name": "ロイヤルプリズム",
+            "PP": 9
+          },
+          {
+            "lv": 42,
+            "name": "インパクトリベリオン",
+            "PP": 28
+          },
+          {
+            "lv": 49,
+            "name": "クロスドライブ",
+            "PP": 9
+          },
+          {
+            "lv": 56,
+            "name": "ダークスフィア",
+            "PP": 15
+          },
+          {
+            "lv": 63,
+            "name": "シューティングプレス",
+            "PP": 16
+          },
+          {
+            "lv": 70,
+            "name": "全身全霊",
+            "PP": 34
+          },
+          {
+            "lv": 70,
+            "name": "クロスカウンター",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "奮闘之構",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "砂塵",
+            "PP": 17
+          },
+          {
+            "lv": 70,
+            "name": "無限の闇",
+            "PP": 8
+          }
+        ],
+        "skillCard": [1,5,6,7,8,9,10,15,16,18,19,26,29,33,35,39,40,41,43,51,53,54,58,60,63,64,65,66,67,72,78,79,80,90,94,101]
+      },
+      {
+        "styleId": 3,
+        "styleSymbol": "ER",
+        "element1": "歪",
+        "element2": "冥",
+        "hp": 60,
+        "concentrateAttack": 85,
+        "concentrateDefence": 150,
+        "diffuseAttack": 85,
+        "diffuseDefence": 150,
+        "speed": 60,
+        "ability": [
+          {
+            "name": "三相一体",
+            "description": "使用するスキルの種類によって姿が変わる。"
+          }
+        ],
+        "skill": [
+          {
+            "lv": 1,
+            "name": "咆哮",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "怒号",
+            "PP": 5
+          },
+          {
+            "lv": 1,
+            "name": "フォースシールド",
+            "PP": 10
+          },
+          {
+            "lv": 1,
+            "name": "ドッペルゲンガー",
+            "PP": 6
+          },
+          {
+            "lv": 30,
+            "name": "ストーンスパイク",
+            "PP": 6
+          },
+          {
+            "lv": 36,
+            "name": "ラプラスの目",
+            "PP": 6
+          },
+          {
+            "lv": 42,
+            "name": "タンブルプラント",
+            "PP": 7
+          },
+          {
+            "lv": 49,
+            "name": "スターフレア",
+            "PP": 7
+          },
+          {
+            "lv": 56,
+            "name": "ムーンボウ",
+            "PP": 15
+          },
+          {
+            "lv": 63,
+            "name": "桃弧棘矢",
+            "PP": 10
+          },
+          {
+            "lv": 70,
+            "name": "暗黒演舞",
+            "PP" : 17
+          },
+          {
+            "lv": 70,
+            "name": "無限の闇",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "オーバーレイ",
+            "PP": 8
+          },
+          {
+            "lv": 70,
+            "name": "負の嘲笑",
+            "PP": 17
+          },
+          {
+            "lv": 70,
+            "name": "砂塵",
+            "PP": 17
+          }
+        ],
+        "skillCard": [8,9,10,14,15,16,17,18,33,39,40,41,54,55,56,57,63,64,65,72,77,78,79,80,81,82,90,94,97,101]
+      },
+      {
+       "styleId": 4,
+        "styleSymbol": "EB",
+        "element1": "大地",
+        "element2": "自然",
+        "hp": 60,
+        "concentrateAttack": 140,
+        "concentrateDefence": 140,
+        "diffuseAttack": 60,
+        "diffuseDefence": 10,
+        "speed": 90
+      },
+      {
+       "styleId": 5,
+        "styleSymbol": "EY",
+        "element1": "光",
+        "element2": "闇",
+        "hp": 60,
+        "concentrateAttack": 60,
+        "concentrateDefence": 10,
+        "diffuseAttack": 140,
+        "diffuseDefence": 140,
+        "speed": 90
+      }
+    ],
+    "description": "ヘカーティア・ラピスラズリの力を持つ人形。三つの体を持つ程度の能力を持つ。&br;性格は好戦的で　Ｔシャツのセンスが独特。クラウンピースと純弧の人形と行動することが多い。",
+    "cost": 120,
+    "spot": [
+      {
+        "name": "槐安通路",
+        "minLv": 18,
+        "maxLv": 20
+      }
+    ],
+    "fixSpot": [
+    ],
+    "dropItem": [
+      "魔力の欠片", "二折携帯ゲーム機", "ビンテージワイン"
+    ],
+    "abilityAnnotation": ""
+  }
+}

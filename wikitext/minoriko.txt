@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(green):COLOR(white):自然|CENTER:BGCOLOR(brown):COLOR(white):大地|>|>|RIGHT:130|RIGHT:50|RIGHT:70|RIGHT:90|RIGHT:85|RIGHT:50|CENTER:475|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(green):COLOR(white):自然|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:95|RIGHT:30|RIGHT:90|RIGHT:50|RIGHT:90|RIGHT:120|CENTER:475|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[陽の気質]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|雷・光・幻属性のスキルを受けた時ダメージを軽減し 自分の俊敏が一段階上がる。|
-|CENTER:[[小休止]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|気象：凪の時 集防が1.5倍になり 毎ターンHPが回復する。|
-|CENTER:[[]]|CENTER:&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>||
-|CENTER:[[オートヒーリング]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|毎ターンHPが回復する。状態異常の時は回復しない。|
-|CENTER:[[抗体持ち]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|毒・猛毒状態にならない。|
+|CENTER:[[陽の気質]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:雷・光・幻属性のスキルを受けた時ダメージを軽減し 自分の俊敏が一段階上がる。|
+|CENTER:[[小休止]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:気象：凪の時 集防が1.5倍になり 毎ターンHPが回復する。|
+|CENTER:[[]]|CENTER:&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:|
+|CENTER:[[オートヒーリング]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毎ターンHPが回復する。状態異常の時は回復しない。|
+|CENTER:[[抗体持ち]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毒・猛毒状態にならない。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:秋穣子の力を持つ人形。豊穣を司る程度の能力を持つ。&br;その体からは果物の甘い香りがする。作物の成長を促進する効果があるといわれる。|80|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

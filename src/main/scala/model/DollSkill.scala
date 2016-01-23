@@ -22,7 +22,7 @@ case class DollSkill(
   def getWikiText(style: DollStyle,first: Boolean, ommitLv: Boolean = false) = {
     "|~"+(first match {
       case true =>
-        "&color("+style.color+"){''"+style.symbol+"''};"
+        "&color("+style.color+"){''"+style.getStyleSymbol+"''};"
       case false => ""
     })+"|~"+(ommitLv match {
       case true => ""

@@ -8,12 +8,12 @@
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(orange):闘|>|>|RIGHT:90|RIGHT:130|RIGHT:90|RIGHT:40|RIGHT:90|RIGHT:50|CENTER:490|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(silver):鋼鉄|>|>|RIGHT:90|RIGHT:50|RIGHT:70|RIGHT:120|RIGHT:65|RIGHT:95|CENTER:490|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[吸音]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|音属性のスキルを無効化し集弾と散弾が一段階上がる。|
-|CENTER:[[楽天家]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|混乱状態にならない。|
-|CENTER:[[アップテンポ]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|毎ターン俊敏が一段階上がる。|
-|CENTER:[[死に物狂い]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|毒・猛毒状態の時集弾が1.5倍になる。|
-|CENTER:[[突貫]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|追加効果のあるスキルの威力が1.3倍になるが追加効果が発動しなくなる。|
-|CENTER:[[お調子者]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手のスキルを無効にした時俊敏が一段階上がる。|
+|CENTER:[[吸音]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:音属性のスキルを無効化し集弾と散弾が一段階上がる。|
+|CENTER:[[楽天家]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:混乱状態にならない。|
+|CENTER:[[アップテンポ]]|CENTER:&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毎ターン俊敏が一段階上がる。|
+|CENTER:[[死に物狂い]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毒・猛毒状態の時集弾が1.5倍になる。|
+|CENTER:[[突貫]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:追加効果のあるスキルの威力が1.3倍になるが追加効果が発動しなくなる。|
+|CENTER:[[お調子者]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手のスキルを無効にした時俊敏が一段階上がる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:メルラン・プリズムリバーの力を持つ人形。躁の音を演奏する程度の能力を持つ。&br;強い魔力をトランペットから放出する。ルナサ リリカの人形と常に一緒。|90|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
@@ -76,7 +76,7 @@
 |~|~Lv42|[[COLOR(Red):バーンストライク>バーンストライク]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|85|90|10|0|痛烈な一撃が出やすく１割の確率で相手を火傷状態にする。|14|
 |~|~Lv49|[[COLOR(Red):ストライクショット>ストライクショット]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|40|100|20|1|相手に対して先制できる。|7|
 |~|~Lv56|[[COLOR(Red):クロスドライブ>クロスドライブ]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|100|100|15|0|使うと自分の俊敏が下がる。|10|
-|~|~Lv63|[[COLOR(Red):天昇>天昇]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BUEN|120|100|5|0|攻撃後自分の集防と散防が下がる。|32|
+|~|~Lv63|[[COLOR(Red):天昇>天昇]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Red){集中};|BU|120|100|5|0|攻撃後自分の集防と散防が下がる。|32|
 |~|~Lv70|[[COLOR(Red):爆音フルバースト>爆音フルバースト]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|EN|120|100|5|0|攻撃後自分の集弾と集防が下がる。|34|
 |~|~|[[ブレイブソング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|0|自分の散弾を大きく上げる。|8|
 |~|~|[[COLOR(Blue):ギガンティック>ギガンティック]]|CENTER:BGCOLOR(orange):闘|CENTER:&color(Blue){拡散};|EN|120|85|5|0|１割の確率で相手の散防が下がる。|34|

@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(lawngreen):風|>|>|RIGHT:80|RIGHT:115|RIGHT:85|RIGHT:75|RIGHT:80|RIGHT:85|CENTER:520|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:100|RIGHT:85|RIGHT:110|RIGHT:50|RIGHT:60|RIGHT:115|CENTER:520|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[電磁誘導]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|雷属性のスキルを無効化し散弾が一段階上がる。|
-|CENTER:[[エアクッション]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|大地属性のスキルを無効化する。逆風でも逃げられる。|
-|CENTER:[[暴風之型]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|自分が使う無属性のすきるが風属性になり威力が1.3倍になる。|
-|CENTER:[[帯電]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|集中スキルを受けたとき３割の確率で相手を感電状態にする。|
-|CENTER:[[不惜身命]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|反動スキルの威力が1.2倍になる。|
+|CENTER:[[電磁誘導]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:雷属性のスキルを無効化し散弾が一段階上がる。|
+|CENTER:[[エアクッション]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:大地属性のスキルを無効化する。逆風でも逃げられる。|
+|CENTER:[[暴風之型]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:自分が使う無属性のすきるが風属性になり威力が1.3倍になる。|
+|CENTER:[[帯電]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:集中スキルを受けたとき３割の確率で相手を感電状態にする。|
+|CENTER:[[不惜身命]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:反動スキルの威力が1.2倍になる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:永江衣玖の力を持つ人形。空気を読む程度の能力を持つ。&br;ゆったりとした見た目同様性格も穏やか。龍の言葉が聞けると言われている。|110|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

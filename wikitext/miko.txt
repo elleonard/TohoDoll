@@ -1,0 +1,127 @@
+[[基本情報>#outline]] / [[スキル>#skill]] / [[スキルカード>#card]] / [[コメント>#comment]]
+*基本情報 [#outline]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|||RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|RIGHT:|CENTER:|c
+|>|&attachref(,nolink, );|>|>|>|>|>|>|>|>|>|>|>|~基本ステータス|
+|~|~|~スタイル|~属性1|~属性2|>|>|~耐久|~集弾|~集防|~散弾|~散防|~俊敏|~合計|
+|~|~|CENTER:COLOR(Chocolate):''ノーマル''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(khaki):音|>|>|RIGHT:70|RIGHT:70|RIGHT:50|RIGHT:40|RIGHT:35|RIGHT:50|CENTER:315|
+|~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(khaki):音|>|>|RIGHT:100|RIGHT:125|RIGHT:80|RIGHT:70|RIGHT:65|RIGHT:90|CENTER:530|
+|~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(red):COLOR(white):炎|>|>|RIGHT:100|RIGHT:150|RIGHT:60|RIGHT:105|RIGHT:70|RIGHT:115|CENTER:600|
+|~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(khaki):音|>|>|RIGHT:70|RIGHT:100|RIGHT:60|RIGHT:120|RIGHT:60|RIGHT:120|CENTER:530|
+|~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
+|CENTER:[[アップテンポ]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毎ターン俊敏が一段階上がる。|
+|CENTER:[[威嚇射撃]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:場に出た時相手の散弾を一段階下げる。|
+|CENTER:[[天職の為政者]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:HPが半分以下の時集弾と散弾が半分になる。|
+|CENTER:[[ファーストアタック]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:登場してから最初のターンに先制の場合 スキルの威力が１．２倍になる。|
+|CENTER:[[直感]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:優先度が高いスキルを無効化する。|
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
+|>|>|>|>|>|>|>|>|>|>|>|>|LEFT:豊聡耳神子の力を持つ人形。十人の話を同時に聞く程度の能力を持つ。&br;こちらのして欲しいことをしっかりと察することができる賢い人形。道教の力により並の人形とは比べ物にならない力が出せる。|110|
+|>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
+|>|>|>|>|>|>|>|CENTER:神霊廟|>|>|CENTER:CENTER:11～13|>|>|CENTER:|
+
+
+&br;
+|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|>|~相性|
+|~スタイル|CENTER:BGCOLOR(pink):無|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:BGCOLOR(brown):COLOR(white):地|CENTER:BGCOLOR(silver):鉄|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:BGCOLOR(khaki):音|CENTER:BGCOLOR(blue):COLOR(white):歪|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|
+|CENTER:&color(Chocolate){''ノーマル''};|&color(Blue){△};||&color(Blue){△};||||&color(Red){○};||&color(Blue){△};|&color(Red){○};|&color(Blue){▲};|||&color(Red){○};|&color(Blue){▲};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Forestgreen){''スピード''};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){▲};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|CENTER:&color(Red){''パワー''};|&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};||&color(Blue){△};|&color(Blue){△};|&color(Red){○};|&color(Blue){△};|||&color(Red){○};|&color(Blue){△};|||
+|BGCOLOR(#F8FAFB):CENTER:&color(Purple){''エクストラ''};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):&color(Red){○};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):&color(Blue){△};|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+
+&color(Red){◎};＝結界を貫通する(4倍) &color(Red){○};＝結界を貫通する &color(Blue){△};＝結界に阻まれる &color(Blue){▲};＝結界に阻まれる(1/4) ''×''＝効果がない
+&br;
+* スキル [#skill]
+#region(&color(Forestgreen){''スピード''};,open)
+&color(Forestgreen){''スピード''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[集いし星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の集弾を上げる。|5|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
+|~|~Lv10|[[COLOR(Red):アンビエント>アンビエント]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|EN|65|100|20|0|１割の確率で相手の能力をランダムに１つ下げる。|5|
+|~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
+|~|~Lv19|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv24|[[COLOR(Red):オーバーレイ>オーバーレイ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|40|100|20|1|相手に対して先制できる。|6|
+|~&color(Forestgreen){''S''};|~Lv1|[[気象発現「極光」]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|10|0|気象を極光にする。|10|
+|~|~|[[太陽の加護]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|40|0|自分の集弾と散弾を上げる。凪か極光のとき効果が上がる。|2|
+|~|~Lv30|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|75|100|15|0|1割の確率で相手を混乱状態にする。|8|
+|~|~Lv36|[[COLOR(Red):返しの刃>返しの刃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|60|-|20|0|必ず攻撃が当たる。|6|
+|~|~Lv42|[[占星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|100|20|0|相手の集弾を大きく下げる。|7|
+|~|~Lv49|[[COLOR(Red):ハイトーンクラッシュ>ハイトーンクラッシュ]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|BU|95|100|15|0|１割の確率で相手の能力をランダムに1つ下げる。|9|
+|~|~Lv56|[[COLOR(Red):破邪の弓撃>破邪の弓撃]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|95|100|15|0|１割の確率で相手をひるませる。|10|
+|~|~Lv63|[[COLOR(Red):一閃>一閃]]|CENTER:BGCOLOR(silver):鉄|CENTER:&color(Red){集中};|BU|120|100|15|0|自分は与えたダメージの３分の１データを受ける。|10|
+|~|~Lv70|[[COLOR(Red):ルミナスフラックス>ルミナスフラックス]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|120|100|15|0|自分は与えたダメージの３分の１のダメージを受ける。|11|
+|~|~|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+#endregion
+
+#region(&color(Red){''パワー''};,open)
+&color(Red){''パワー''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[集いし星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の集弾を上げる。|5|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
+|~|~Lv10|[[COLOR(Red):アンビエント>アンビエント]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|EN|65|100|20|0|１割の確率で相手の能力をランダムに１つ下げる。|5|
+|~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
+|~|~Lv19|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv24|[[COLOR(Red):オーバーレイ>オーバーレイ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|40|100|20|1|相手に対して先制できる。|6|
+|~&color(Red){''P''};|~Lv1|[[マナの恵み]]|CENTER:BGCOLOR(green):COLOR(white):然|CENTER:変化|なし|-|-|10|0|最大HPの半分回復する。|10|
+|~|~Lv30|[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|BU|75|100|15|0|1割の確率で相手を混乱状態にする。|8|
+|~|~Lv36|[[COLOR(Red):ファイアジャベリン>ファイアジャベリン]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|BU|75|100|15|0|１割の確率で相手を火傷状態にする。|9|
+|~|~Lv42|[[COLOR(Red):ロストクライシス>ロストクライシス]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BU|60|100|10|0|何らかの地相の時威力を２倍にし地相を解除する。|14|
+|~|~Lv49|[[COLOR(Red):ダンシングライン>ダンシングライン]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|BU|75|95|10|0|５割の確率で相手の集防を下げる。|14|
+|~|~Lv56|[[COLOR(Red):オーバースキル>オーバースキル]]|CENTER:BGCOLOR(pink):無|CENTER:&color(Red){集中};|EN|120|100|15|0|自分は与えたダメージの３分の１のダメージを受ける。|10|
+|~|~Lv63|[[COLOR(Red):ホーリーフレア>ホーリーフレア]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|100|95|5|0|５割の確率で相手を火傷状態にする。|32|
+|~|~Lv70|[[COLOR(Red):ルミナスフラックス>ルミナスフラックス]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|120|100|15|0|自分は与えたダメージの３分の１のダメージを受ける。|11|
+|~|~|[[COLOR(Blue):ヴォルケイノ>ヴォルケイノ]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+|~|~|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|34|
+#endregion
+
+#region(&color(Purple){''エクストラ''};,open)
+&color(Purple){''エクストラ''};
+||CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:||CENTER:|c
+|~スタイル|~習得Lv|~スキル名|~属性|~分類|~種別|~威力|~命中|~SP|~優先度|~効果|~取得PP|
+|~&color(Chocolate){''N''};|~Lv1|[[集いし星]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|20|0|自分の集弾を上げる。|5|
+|~|~|[[COLOR(Red):陰の気力>陰の気力]]|CENTER:BGCOLOR(Deeppink):COLOR(white):夢|CENTER:&color(Red){集中};|EN|55|100|35|0|通常攻撃。|2|
+|~|~Lv7|[[COLOR(Red):ライトアップ>ライトアップ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|55|100|20|0|痛烈な一撃が出やすい。|5|
+|~|~Lv10|[[COLOR(Red):アンビエント>アンビエント]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|EN|65|100|20|0|１割の確率で相手の能力をランダムに１つ下げる。|5|
+|~|~Lv14|[[位相反転]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|5|1|相手の能力変化を反転させる。|22|
+|~|~Lv19|[[COLOR(Red):火柱>火柱]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|65|100|20|0|２割の確率で相手を火傷状態にする。|5|
+|~|~Lv24|[[COLOR(Red):オーバーレイ>オーバーレイ]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Red){集中};|EN|40|100|20|1|相手に対して先制できる。|6|
+|~&color(Purple){''E''};|~Lv1|[[気象発現「極光」]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|10|0|気象を極光にする。|10|
+|~|~|[[ガードミーン]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|自分と相手の集防と散防をたして半分にわける。|10|
+|~|~|[[イマジネイト]]|CENTER:BGCOLOR(fuchsia):COLOR(white):幻|CENTER:変化|なし|-|-|10|0|自分の集弾と集防を入れ替える。|10|
+|~|~|[[太陽の加護]]|CENTER:BGCOLOR(yellow):光|CENTER:変化|なし|-|-|40|0|自分の集弾と散弾を上げる。凪か極光のとき効果が上がる。|2|
+|~|~Lv30|[[COLOR(Blue):ファイアウォール>ファイアウォール]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|EN|65|100|10|0|相手が持っている装飾品を威力が1.5倍にしたり、装飾品を燃やして使えなくくする。|13|
+|~|~Lv36|[[COLOR(Blue):ハウンドノイズ>ハウンドノイズ]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|75|95|10|0|５割の確率で相手の散防を下げる。|13|
+|~|~Lv42|[[応急手当]]|CENTER:BGCOLOR(pink):無|CENTER:変化|なし|-|-|15|0|最大HPの半分回復する。|9|
+|~|~Lv49|[[COLOR(Blue):大火槍>大火槍]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Blue){拡散};|BU|100|90|10|0|１割の確率で相手を火傷状態にする。|14|
+|~|~Lv56|[[COLOR(Red):ハイトーンクラッシュ>ハイトーンクラッシュ]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Red){集中};|BU|95|100|15|0|１割の確率で相手の能力をランダムに1つ下げる。|10|
+|~|~Lv63|[[COLOR(Blue):アークライト>アークライト]]|CENTER:BGCOLOR(yellow):光|CENTER:&color(Blue){拡散};|EN|130|90|5|0|攻撃後自分の散弾が大きく下がる。|5|
+|~|~Lv70|[[COLOR(Red):ホーリーフレア>ホーリーフレア]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:&color(Red){集中};|EN|100|95|5|0|５割の確率で相手を火傷状態にする。|34|
+|~|~|[[ブレイブソング]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|-|-|20|0|自分の散弾を大きく上げる。|8|
+|~|~|[[奮闘之構]]|CENTER:BGCOLOR(silver):鉄|CENTER:変化|なし|-|-|20|0|自分の集弾を大きく上げる。|8|
+#endregion
+
+&br;
+*''スキルカード'' [#card]
+|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|||CENTER:|CENTER:|CENTER:|CENTER:|c
+|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Forestgreen){''S''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Forestgreen){''S''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|~No.|~スキル名|~&color(Chocolate){''N''};|~~&color(Forestgreen){''S''};|~~&color(Red){''P''};|~~&color(Purple){''E''};|
+|~1|[[COLOR(Red):ファイアジャベリン>ファイアジャベリン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~39|[[COLOR(Blue):トライエフェクト>トライエフェクト]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~63|[[森羅結界>森羅結界]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~3|BGCOLOR(#F8FAFB):[[COLOR(Red):グラスジャベリン>グラスジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~40|BGCOLOR(#F8FAFB):[[COLOR(Blue):天神の加護>天神の加護]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~64|BGCOLOR(#F8FAFB):[[バリアオプション>バリアオプション]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~5|[[COLOR(Red):スパークジャベリン>スパークジャベリン]]||CENTER:''○''|||~41|[[COLOR(Blue):四神の加護>四神の加護]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~65|[[無我の境地>無我の境地]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~6|BGCOLOR(#F8FAFB):[[COLOR(Red):ライトジャベリン>ライトジャベリン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~42|BGCOLOR(#F8FAFB):[[COLOR(Blue):フラッシュオーバー>フラッシュオーバー]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~71|BGCOLOR(#F8FAFB):[[フィールドプロテクト>フィールドプロテクト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~8|[[COLOR(Red):オーバースキル>オーバースキル]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~43|[[COLOR(Blue):インフェルノ>インフェルノ]]|||CENTER:''○''|CENTER:''○''|~72|[[幸運の虹>幸運の虹]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~9|BGCOLOR(#F8FAFB):[[COLOR(Red):狂乱浄瑠璃>狂乱浄瑠璃]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~50|BGCOLOR(#F8FAFB):[[COLOR(Blue):スマッシュスピン>スマッシュスピン]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~73|BGCOLOR(#F8FAFB):[[閃光弾>閃光弾]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~10|[[COLOR(Red):逆転の一手>逆転の一手]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~51|[[COLOR(Blue):雷帝インディグネイト>雷帝インディグネイト]]|||CENTER:''○''||~78|[[コンティニュー>コンティニュー]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|
+|~11|BGCOLOR(#F8FAFB):[[COLOR(Red):ライジングサン>ライジングサン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~52|BGCOLOR(#F8FAFB):[[COLOR(Blue):疾風迅雷>疾風迅雷]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):|~80|BGCOLOR(#F8FAFB):[[クレーム>クレーム]]|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|
+|~18|[[COLOR(Red):ストーンスパイク>ストーンスパイク]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~54|[[COLOR(Blue):スターフレア>スターフレア]]||||CENTER:''○''|~ ||||||
+|~26|BGCOLOR(#F8FAFB):[[COLOR(Red):破邪の弓撃>破邪の弓撃]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~62|BGCOLOR(#F8FAFB):[[COLOR(Blue):ウルトラハイトーン>ウルトラハイトーン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~29|[[COLOR(Red):ロストクライシス>ロストクライシス]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~90|[[COLOR(Blue):オーバーラン>オーバーラン]]||CENTER:''○''|CENTER:''○''|CENTER:''○''|~ ||||||
+|~30|BGCOLOR(#F8FAFB):[[COLOR(Red):三魂七魄の離散>三魂七魄の離散]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~91|BGCOLOR(#F8FAFB):[[COLOR(Blue):バックドラフト>バックドラフト]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~33|[[COLOR(Red):メテオインパクト>メテオインパクト]]|CENTER:''○''|CENTER:''○''|CENTER:''○''|CENTER:''○''|~95|[[COLOR(Blue):ブレイブバースト>ブレイブバースト]]||||CENTER:''○''|~ ||||||
+|~38|BGCOLOR(#F8FAFB):[[COLOR(Red):ダンシングライン>ダンシングライン]]|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):CENTER:''○''|~101-115|BGCOLOR(#F8FAFB):COLOR(Blue):属性符|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|BGCOLOR(#F8FAFB):CENTER:''○''|~ |BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|BGCOLOR(#F8FAFB):|
+|~89|[[COLOR(Red):ハイトーンクラッシュ>ハイトーンクラッシュ]]||CENTER:''○''||CENTER:''○''|~ ||||||~ ||||||
+
+----
+*コメント[#comment]
+#pComment(みこ/コメント,みこ/コメント,below,reply)

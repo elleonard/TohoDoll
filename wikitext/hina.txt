@@ -7,8 +7,8 @@
 |~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:60|RIGHT:95|RIGHT:115|RIGHT:80|RIGHT:60|RIGHT:75|CENTER:485|
 |~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(black):COLOR(white):闇|>|>|RIGHT:60|RIGHT:90|RIGHT:60|RIGHT:70|RIGHT:100|RIGHT:105|CENTER:485|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[因果応報]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|威力100以上のスキルへ弾幕を打ち返す。|
-|CENTER:[[エアクッション]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|大地属性のスキルを無効化する。逆風でも逃げられる。|
+|CENTER:[[因果応報]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:威力100以上のスキルへ弾幕を打ち返す。|
+|CENTER:[[エアクッション]]|CENTER:&color(Chocolate){''N''};/&color(Blue){''D''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:大地属性のスキルを無効化する。逆風でも逃げられる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:鍵山雛の力を持つ人形。厄をため込む程度の能力を持つ。&br;最近不幸なことがあった方にオススメの一品。川に流すと良いことがあると言われる。|90|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
@@ -61,7 +61,7 @@
 |~|~Lv24|[[ミアズマ]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:変化|なし|-|90|10|0|相手を猛毒状態にする。毒属性の人形が使うと必ず当たる。|12|
 |~&color(Deeppink){''A''};|~Lv30|[[金切り声]]|CENTER:BGCOLOR(khaki):音|CENTER:変化|なし|0|100|20|0|相手の散弾を大きく下げる。|5|
 |~|~Lv30|[[COLOR(Blue):悲哀の旋律>悲哀の旋律]]|CENTER:BGCOLOR(khaki):音|CENTER:&color(Blue){拡散};|EN|55|95|15|0|相手の散弾を下げる。|6|
-|~|~|[[COLOR(Red):パニックコール>パニックコール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|BUEN|65|100|10|0|相手が装飾品を持っていると威力が1.5倍。&br;相手は装飾品をなくしてしまう。|13||~|~Lv36|[[人形の怨返し]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|100|10|0|自分は瀕死になるがその代わりに相手の集弾と散弾を大きく下げる。|13|
+|~|~|[[COLOR(Red):パニックコール>パニックコール]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:&color(Red){集中};|EN|65|100|10|0|相手が装飾品を持っていると威力が1.5倍。&br;相手は装飾品をなくしてしまう。|13||~|~Lv36|[[人形の怨返し]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|100|10|0|自分は瀕死になるがその代わりに相手の集弾と散弾を大きく下げる。|13|
 |~|~Lv42|[[狐火]]|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:変化|なし|-|85|15|0|相手を火傷と暗闇状態にする。|13|
 |~|~Lv49|[[COLOR(Red):ダストボム>ダストボム]]|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:&color(Red){集中};|BUEN|80|100|15|0|３割の確率で相手を毒状態にする。|8|
 |~|~Lv63|[[バインドトラップ]]|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:変化|なし|-|-|20|0|バインドトラップを設置し交代で出てきた相手の俊敏を下げる。|8|

@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(orange):闘|>|>|RIGHT:70|RIGHT:70|RIGHT:80|RIGHT:110|RIGHT:80|RIGHT:130|CENTER:540|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:90|RIGHT:60|RIGHT:100|RIGHT:115|RIGHT:75|RIGHT:100|CENTER:540|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[霧隠れ]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|気象：濃霧の時 相手のスキルをかわしやすくなる。|
-|CENTER:[[深淵なる黒]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|残りHPが1/3以下の時 闇属性の威力が上がる。|
-|CENTER:[[突貫]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|追加効果のあるスキルの威力が1.3倍になるが 追加効果が発動しなくなる。|
-|CENTER:[[プライド]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|状態異常の時 散弾が１．５倍になる。恐怖状態でも散弾が低下しない。|
-|CENTER:[[霧中行]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|気象：濃霧の時 自分の俊敏が２倍になる。|
+|CENTER:[[霧隠れ]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:気象：濃霧の時 相手のスキルをかわしやすくなる。|
+|CENTER:[[深淵なる黒]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:残りHPが1/3以下の時 闇属性の威力が上がる。|
+|CENTER:[[突貫]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:追加効果のあるスキルの威力が1.3倍になるが 追加効果が発動しなくなる。|
+|CENTER:[[プライド]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:状態異常の時 散弾が１．５倍になる。恐怖状態でも散弾が低下しない。|
+|CENTER:[[霧中行]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:気象：濃霧の時 自分の俊敏が２倍になる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:レミリア・スカーレットの力を持つ人形。運命を操る程度の能力を持つ。&br;吸血鬼の特性を受け継いでおり 太陽の光が届く場所にはいない。人間の血が好物。|120|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Deeppink):''アシスト''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(pink):無|>|>|RIGHT:95|RIGHT:70|RIGHT:100|RIGHT:70|RIGHT:65|RIGHT:75|CENTER:475|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(lawngreen):風|CENTER:BGCOLOR(blue):COLOR(white):歪|>|>|RIGHT:80|RIGHT:40|RIGHT:60|RIGHT:120|RIGHT:105|RIGHT:70|CENTER:475|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[吹き荒ぶ萌黄]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|残りHPが1/3以下の時 風属性の威力が上がる。|
-|CENTER:[[治癒力]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|手持ちに戻った時 最大HPの1/3回復する。|
-|CENTER:[[威嚇射撃]]|CENTER:&color(Red){''P''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|場に出た時 相手の散弾を一段階下げる。|
-|CENTER:[[無効化]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手のアビリティをなくす。|
-|CENTER:[[警戒心]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|威力50以下の攻撃スキルを無効化する。|
+|CENTER:[[吹き荒ぶ萌黄]]|CENTER:&color(Chocolate){''N''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:残りHPが1/3以下の時 風属性の威力が上がる。|
+|CENTER:[[治癒力]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:手持ちに戻った時 最大HPの1/3回復する。|
+|CENTER:[[威嚇射撃]]|CENTER:&color(Red){''P''};/&color(Deeppink){''A''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:場に出た時 相手の散弾を一段階下げる。|
+|CENTER:[[無効化]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手のアビリティをなくす。|
+|CENTER:[[警戒心]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:威力50以下の攻撃スキルを無効化する。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:香霖堂で静かに本を呼んでいる人形。内容を理解しているわけではないが とにかく本を読む。&br;霊夢の人形とは仲が悪い。|80|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

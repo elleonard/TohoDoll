@@ -8,10 +8,10 @@
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|>|>|RIGHT:80|RIGHT:125|RIGHT:75|RIGHT:50|RIGHT:95|RIGHT:90|CENTER:515|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(gold):雷|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|>|>|RIGHT:110|RIGHT:60|RIGHT:90|RIGHT:60|RIGHT:95|RIGHT:100|CENTER:515|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[浸透戦術]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手の場の壁・バリアオプションを無視して攻撃できる。|
-|CENTER:[[]]|CENTER:&color(Chocolate){''N''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>||
-|CENTER:[[ネガティブオーラ]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|闇属性のスキルを無効化し集弾が一段階上がる。|
-|CENTER:[[望遠]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|スキルの命中が1.3倍になる。|
+|CENTER:[[浸透戦術]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手の場の壁・バリアオプションを無視して攻撃できる。|
+|CENTER:[[]]|CENTER:&color(Chocolate){''N''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:|
+|CENTER:[[ネガティブオーラ]]|CENTER:&color(Forestgreen){''S''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:闇属性のスキルを無効化し集弾が一段階上がる。|
+|CENTER:[[望遠]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:スキルの命中が1.3倍になる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:エリスの力を持つ人形。悪魔の力を 魔法のステッキから放つ。&br;コウモリの人形を操ったり 自分がコウモリの人形に変身することもできる。|100|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

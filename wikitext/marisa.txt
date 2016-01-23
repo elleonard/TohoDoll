@@ -7,8 +7,8 @@
 |~|~|CENTER:COLOR(Forestgreen):''スピード''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(gold):雷|>|>|RIGHT:60|RIGHT:75|RIGHT:70|RIGHT:110|RIGHT:70|RIGHT:135|CENTER:520|
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(yellow):光|CENTER:BGCOLOR(black):COLOR(white):闇|>|>|RIGHT:80|RIGHT:130|RIGHT:60|RIGHT:75|RIGHT:60|RIGHT:115|CENTER:520|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[窃盗癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|装飾品が無い時に攻撃スキルを当てると相手の装飾品を奪う。|
-|CENTER:[[収集癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|持っている装飾品をとられない。|
+|CENTER:[[窃盗癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:装飾品が無い時に攻撃スキルを当てると相手の装飾品を奪う。|
+|CENTER:[[収集癖]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:持っている装飾品をとられない。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:霧雨魔理沙の力を持つ人形。&br;魔法を使う程度の能力を持つ。&br;人の持ち物を持ち去り自分の住処へ持ち帰る修正をもつ。&br;嫌いな相手には魔法を放つ。|110|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

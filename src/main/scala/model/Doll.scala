@@ -34,10 +34,10 @@ case class Doll(
       "|CENTER:[["+ab.name+"]]|CENTER:"+
         (style.map(s =>
           if(s.hasAbility(ab.name))
-            "&color("+s.getStyleColor+"){''"+s.styleSymbol+"''};"
+            "&color("+s.getStyleColor+"){''"+s.getStyleSymbol+"''};"
           else
             ""
-        ).filter { x => x.nonEmpty }.mkString("/"))+"|>|>|>|>|>|>|>|>|>|>|>|"+ab.description+"|"
+        ).filter { x => x.nonEmpty }.mkString("/"))+"|>|>|>|>|>|>|>|>|>|>|>|LEFT:"+ab.description+"|"
     ).mkString("\n")
   }
   /* wiki記法で返す */
@@ -124,7 +124,7 @@ case class Doll(
             })
         }
         case _ => {
-          println("[お知らせ]: "+style.symbol+""+dollName+"のスキルをロードします。")
+          println("[お知らせ]: "+style.getStyleSymbol+""+dollName+"のスキルをロードします。")
           "#region(&color("+style.color+"){''"+style.styleName+"''};,open)\n"+
           "&color("+style.color+"){''"+style.styleName+"''};\n"+
           getSkillTable(DollStyle.Normal, normalSkillList)+
@@ -207,7 +207,7 @@ case class Doll(
     (for(i <- 1 to 3) yield {
       "|~No.|~スキル名|"+
       style.filter { x => x.hasSkillCard }.map(s =>
-        "~&color("+s.getStyleColor+"){''"+s.styleSymbol+"''};"
+        "~&color("+s.getStyleColor+"){''"+s.getStyleSymbol+"''};"
       ).mkString("|~")
     }).mkString+"|"
   }
@@ -239,6 +239,23 @@ case class StyleStatus(
     case Some(s) => s.styleName
     case None =>
   }
+
+  /**
+   * 汎用スタイルシンボルを取得
+   */
+  def getStyleSymbol = getStyle match {
+    case Some(s) => s.getStyleSymbol
+    case None =>
+  }
+
+  /**
+   * スタイル名を括弧内の注釈付きで取得
+   */
+  def getStyleNameWithAnnotation = getStyle match {
+    case Some(s) => s.getStyleName(true)
+    case None =>
+  }
+
   /* スタイルの色 */
   def getStyleColor = getStyle match {
     case Some(s) => s.color
@@ -259,7 +276,7 @@ case class StyleStatus(
   def hasSkillCard: Boolean = Option(skillCard).isDefined
   /* 種族値のwiki記法 */
   def toWiki = {
-    "|~|~|CENTER:COLOR("+getStyleColor+"):''"+getStyleName+"''|"+
+    "|~|~|CENTER:COLOR("+getStyleColor+"):''"+getStyleNameWithAnnotation+"''|"+
       DollElement.getWikiText(element1, true)+"|"+
       DollElement.getWikiText(element2, true)+"|>|>|RIGHT:"+hp+"|RIGHT:"+concentrateAttack+
       "|RIGHT:"+concentrateDefence+"|RIGHT:"+diffuseAttack+"|RIGHT:"+diffuseDefence+
@@ -269,7 +286,7 @@ case class StyleStatus(
   def elementRateTable = {
     val defender1 = DollElement.getElement(element1).get  // 例外こわい
     val defender2 = DollElement.getElement(element2)
-    "|"+TableUtils.evenLineColor(styleId)+"CENTER:&color("+getStyleColor+"){''"+getStyleName+"''};|"+
+    "|"+TableUtils.evenLineColor(styleId)+"CENTER:&color("+getStyleColor+"){''"+getStyleNameWithAnnotation+"''};|"+
       (DollElement.values.map(e => TableUtils.evenLineColor(styleId)+elementRateMark(e, defender1, defender2)).mkString("|"))+"|"
   }
   def elementRateMark(attacker: DollElement, defender1: DollElement, defender2: Option[DollElement]): String = {

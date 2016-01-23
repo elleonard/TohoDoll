@@ -8,10 +8,10 @@
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|>|>|RIGHT:70|RIGHT:65|RIGHT:60|RIGHT:120|RIGHT:110|RIGHT:100|CENTER:525|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(mediumpurple):COLOR(white):毒|CENTER:BGCOLOR(orange):闘|>|>|RIGHT:65|RIGHT:110|RIGHT:95|RIGHT:65|RIGHT:70|RIGHT:120|CENTER:525|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[浸透戦術]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|相手の場の壁・バリアオプションを無視して攻撃できる。|
-|CENTER:[[呪詛返し]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|補助スキルを受けた時その効果を相手に跳ね返す。|
-|CENTER:[[フラットスピード]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|お互いの優先度が高いスキルの優先度を０にする。|
-|CENTER:[[苦手意識]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|お互いの属性一致でないスキルの威力が低くなる。|
+|CENTER:[[浸透戦術]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手の場の壁・バリアオプションを無視して攻撃できる。|
+|CENTER:[[呪詛返し]]|CENTER:&color(Chocolate){''N''};/&color(Forestgreen){''S''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:補助スキルを受けた時その効果を相手に跳ね返す。|
+|CENTER:[[フラットスピード]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:お互いの優先度が高いスキルの優先度を０にする。|
+|CENTER:[[苦手意識]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:お互いの属性一致でないスキルの威力が低くなる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:霍青娥の力を持つ人形。壁をすり抜けられる程度の能力を持つ。&br;性格はお世辞にも良いとはいえず騙されることもしばしば。死んだふりが得意。|110|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

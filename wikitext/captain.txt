@@ -8,11 +8,11 @@
 |~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|>|>|RIGHT:80|RIGHT:100|RIGHT:110|RIGHT:65|RIGHT:85|RIGHT:65|CENTER:505|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(mediumorchid):COLOR(white):冥|CENTER:BGCOLOR(green):COLOR(white):自然|>|>|RIGHT:100|RIGHT:100|RIGHT:80|RIGHT:100|RIGHT:80|RIGHT:45|CENTER:505|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[ネガティブオーラ]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|闇属性のスキルを無効化し 集弾が一段階上がる。|
-|CENTER:[[清流之型]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|自分の使う無属性のスキルが水属性になり威力が1.3倍になる。|
-|CENTER:[[変毒為薬]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|毒・猛毒状態の時毎ターンHPが回復する。|
-|CENTER:[[早口宣言]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|溜めが必要なスキルの威力が下がる代わりに１ターンで使える。|
-|CENTER:[[冶金術]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|鋼鉄属性のスキルを無効化し集弾が一段階上がる。|
+|CENTER:[[ネガティブオーラ]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:闇属性のスキルを無効化し 集弾が一段階上がる。|
+|CENTER:[[清流之型]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:自分の使う無属性のスキルが水属性になり威力が1.3倍になる。|
+|CENTER:[[変毒為薬]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:毒・猛毒状態の時毎ターンHPが回復する。|
+|CENTER:[[早口宣言]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:溜めが必要なスキルの威力が下がる代わりに１ターンで使える。|
+|CENTER:[[冶金術]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:鋼鉄属性のスキルを無効化し集弾が一段階上がる。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:村紗水蜜の力を持つ人形。水難事故を引き起こす程度の能力を持つ。&br;船が好きで見るだけでも喜ぶ。しかし一緒に乗った船が転覆するという噂もある。|100|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

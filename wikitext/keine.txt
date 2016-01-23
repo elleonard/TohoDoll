@@ -9,12 +9,12 @@
 |~|~|CENTER:COLOR(Red):''パワー''|CENTER:BGCOLOR(silver):鋼鉄|CENTER:BGCOLOR(yellow):光|>|>|RIGHT:80|RIGHT:40|RIGHT:60|RIGHT:125|RIGHT:90|RIGHT:90|CENTER:485|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(brown):COLOR(white):大地|CENTER:BGCOLOR(blue):COLOR(white):歪|>|>|RIGHT:75|RIGHT:110|RIGHT:70|RIGHT:55|RIGHT:70|RIGHT:105|CENTER:485|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[説教]]|CENTER:&color(Chocolate){''N''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|拡散スキルを受けたとき　３割の確率で相手を衰弱状態にする。|
-|CENTER:[[威圧]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|お互いの人形は 一部の装飾品が使えなくなる。|
-|CENTER:[[ハクタク化]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|HPが半分以下になると姿と能力が変わる。|
-|CENTER:[[慧眼]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|俊敏以外の相手の能力変化を無視する。|
-|CENTER:[[白帝之金]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|地相：白虎の時鋼鉄属性のスキルの威力が1.5倍になる。|
-|CENTER:[[八咫の鏡]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|HPが満タンの時 受けるダメージを半減する。|
+|CENTER:[[説教]]|CENTER:&color(Chocolate){''N''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:拡散スキルを受けたとき　３割の確率で相手を衰弱状態にする。|
+|CENTER:[[威圧]]|CENTER:&color(Chocolate){''N''};/&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:お互いの人形は 一部の装飾品が使えなくなる。|
+|CENTER:[[ハクタク化]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:HPが半分以下になると姿と能力が変わる。|
+|CENTER:[[慧眼]]|CENTER:&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:俊敏以外の相手の能力変化を無視する。|
+|CENTER:[[白帝之金]]|CENTER:&color(Red){''P''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:地相：白虎の時鋼鉄属性のスキルの威力が1.5倍になる。|
+|CENTER:[[八咫の鏡]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:HPが満タンの時 受けるダメージを半減する。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:上白沢慧音の力を持つ人形。歴史を食べる（隠す）程度の能力と歴史を創る程度の能力。&br;満月の夜にはハクタクの力が強くなる。妹紅の人形と行動する。|90|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|

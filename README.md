@@ -12,7 +12,6 @@ http://wikiwiki.jp/enbu-ap/?%A5%C6%A5%F3%A5%D7%A5%EC%A1%BC%A5%C8%C5%F9%2F%BF%CD%
 
 ## JSONの見本
 resourceディレクトリ以下に見本がある
-seija.jsonが最新
 
 skill-list.csvに定義されていない技はエラーになるため
 skill-list.csvの更新も必要

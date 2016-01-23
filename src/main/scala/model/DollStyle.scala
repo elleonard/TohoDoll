@@ -11,8 +11,13 @@ object DollStyle {
   case object Assist          extends DollStyle("アシスト",                "A", "Deeppink",   false)
   case object DefenceHakutaku extends DollStyle("ディフェンス（ハクタク）","DH","Blue",       true)
   case object Extra           extends DollStyle("エクストラ",              "E", "Purple",     false)
+  case object ExtraRed        extends DollStyle("エクストラ（赤）",        "ER","Purple",     false)
+  case object ExtraBlue       extends DollStyle("エクストラ（青）",        "EB","Purple",     true)
+  case object ExtraYellow     extends DollStyle("エクストラ（黄）",        "EY","Purple",     true)
 
-  private val values = Array(Normal, Power, Defence, Speed, Assist, DefenceHakutaku, Extra)
+  private val values = Array(
+      Normal, Power, Defence, Speed, Assist, DefenceHakutaku,
+      Extra, ExtraRed, ExtraBlue, ExtraYellow)
 
   def getFromSymbol(symbol: String):Option[DollStyle] =
     values.find { x => x.symbol == symbol };
@@ -33,4 +38,31 @@ sealed abstract class DollStyle(
   val isSpecial: Boolean
 ) {
 
+  /**
+   * スタイルの名前を取得する
+   *
+   * @params withAnnotation Boolean （）内の名前を取得するかどうか
+   */
+  def getStyleName(withAnnotation: Boolean = false) = {
+    (withAnnotation, styleName.contains("（")) match {
+      case (false,true) => {
+        styleName.substring(0, styleName.indexOf("（"))
+      }
+      case _ => styleName
+    }
+  }
+
+  /**
+   * シンボルの取得
+   * 特殊シンボルは一文字の汎用シンボルに変換する
+   */
+  def getStyleSymbol = {
+    symbol match {
+      /* Eヘカーティア */
+      case "ER" | "EB" | "EY" => "E"
+      /* Dけいね */
+      case "DH" => "D"
+      case _ => symbol
+    }
+  }
 }

@@ -8,9 +8,9 @@
 |~|~|CENTER:COLOR(Blue):''ディフェンス''|CENTER:BGCOLOR(black):COLOR(white):闇|CENTER:BGCOLOR(dodgerblue):COLOR(white):水|>|>|RIGHT:90|RIGHT:65|RIGHT:30|RIGHT:90|RIGHT:180|RIGHT:20|CENTER:475|
 |~|~|CENTER:COLOR(Purple):''エクストラ''|CENTER:BGCOLOR(red):COLOR(white):炎|CENTER:BGCOLOR(green):COLOR(white):自然|>|>|RIGHT:90|RIGHT:90|RIGHT:110|RIGHT:40|RIGHT:100|RIGHT:45|CENTER:475|
 |~アビリティ|~スタイル|>|>|>|>|>|>|>|>|>|>|>|~効果|
-|CENTER:[[不屈]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|	一撃で戦闘不能にならない。痛烈な一撃を受けない。|
-|CENTER:[[五分の意地]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|	威力90以上のスキルへ弾幕を撃ち返す。|
-|CENTER:[[徹底拘束]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|相手はスキルの効果で交代できない。|
+|CENTER:[[不屈]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};/&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:	一撃で戦闘不能にならない。痛烈な一撃を受けない。|
+|CENTER:[[五分の意地]]|CENTER:&color(Chocolate){''N''};/&color(Deeppink){''A''};/&color(Blue){''D''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:	威力90以上のスキルへ弾幕を撃ち返す。|
+|CENTER:[[徹底拘束]]|CENTER:&color(Purple){''E''};|>|>|>|>|>|>|>|>|>|>|>|LEFT:相手はスキルの効果で交代できない。|
 |>|>|>|>|>|>|>|>|>|>|>|>|CENTER:~図鑑説明|~COST|
 |>|>|>|>|>|>|>|>|>|>|>|>|LEFT:キスメの力を持つ人形。鬼火を落とす程度の能力を持つ。&br;暗いところが好きで 人前に出るのは苦手。連れて歩く際は 姿を見かけないと思ったら頭上に注意。|80|
 |>|>|>|>|>|>|>|CENTER:~主な出現場所|>|>|CENTER:~出現レベル|>|>|~ドロップアイテム|
